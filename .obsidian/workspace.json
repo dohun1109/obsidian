@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "45bdc61cc615e366",
+        "id": "f4bdedb411694ae6",
         "type": "tabs",
         "children": [
           {
-            "id": "57f9491ff2320d52",
+            "id": "73be5f21ed75c9c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Lambda/Lambda Expression.md",
+                "file": "READEMD.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Lambda/Lambda Expression.md",
+                "file": "READEMD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Lambda/Lambda Expression.md",
+                "file": "READEMD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Lambda/Lambda Expression.md"
+                "file": "READEMD.md"
               }
             }
           },
@@ -156,11 +156,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "57f9491ff2320d52",
+  "active": "73be5f21ed75c9c4",
   "lastOpenFiles": [
+    "READEMD.md",
+    "1..md",
     "1. Daily/2023-10-26.md",
-    "1. Daily/2023-10-25.md",
+    "1. Daily.md",
     "Java/Lambda/Lambda Expression.md",
+    "README.m",
+    "1. Daily/2023-10-25.md",
     "Spring/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
     "Java/Lambda",
     "Spring/Sec 05. 싱글톤 컨테이너",
@@ -174,7 +178,6 @@
     "Spring",
     "Java",
     "1. Daily/무제 파일.md",
-    "무제 파일.md",
     "SoftwareQA/명세 기반 기법.md",
     "SoftwareQA",
     "4. Yearly/2023.md",
@@ -184,7 +187,6 @@
     "Obsidan/마크다운 사용법.md",
     "Obsidan",
     "Attached file",
-    "4. Yearly",
-    "3. Monthly"
+    "4. Yearly"
   ]
 }
