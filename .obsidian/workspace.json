@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "READEMD.md",
+                "file": "READMD.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "READEMD.md",
+                "file": "READMD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "READEMD.md",
+                "file": "READMD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "READEMD.md"
+                "file": "READMD.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "fd2de6887f6fd25d",
   "lastOpenFiles": [
+    "README.md",
     "1. Daily/2023-10-26.md",
-    "READEMD.md",
+    "READMD.md",
     "Java/Lambda/Lambda Expression.md",
     "1..md",
     "1. Daily.md",
