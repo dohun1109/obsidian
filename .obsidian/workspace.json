@@ -11,12 +11,8 @@
             "id": "fd2de6887f6fd25d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "READMD.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "READMD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "READMD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +150,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fd2de6887f6fd25d",
+  "active": "3ce2929c1dbbd6d2",
   "lastOpenFiles": [
     "README.md",
     "1. Daily/2023-10-26.md",
