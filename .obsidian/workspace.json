@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "6115b1013e9ccb1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "45bdc61cc615e366",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57f9491ff2320d52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Lambda/Lambda Expression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aec3d2df1b427a4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7f3976c00e70194",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ce2929c1dbbd6d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cfa29110a3ab9ac2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#이렇게",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "089809c107379791",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7244033226465e5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e02e5691d9b008a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e6a4949f9d70cd3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java/Lambda/Lambda Expression.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11e7baab6055fccb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java/Lambda/Lambda Expression.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "478d4008290f3307",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e330746542153030",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java/Lambda/Lambda Expression.md"
+              }
+            }
+          },
+          {
+            "id": "7cf58491cfd500ea",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "57f9491ff2320d52",
+  "lastOpenFiles": [
+    "1. Daily/2023-10-26.md",
+    "1. Daily/2023-10-25.md",
+    "Java/Lambda/Lambda Expression.md",
+    "Spring/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
+    "Java/Lambda",
+    "Spring/Sec 05. 싱글톤 컨테이너",
+    "1. Daily/2023-10-20.md",
+    "1. Daily/2023-10-24.md",
+    "Java/1. Daily/2023-10-24.md",
+    "Java/1. Daily/2023-10-22.md",
+    "Java/1. Daily/2023-10-21.md",
+    "1. Daily",
+    "Java/1. Daily/2023-10-24 1.md",
+    "Spring",
+    "Java",
+    "1. Daily/무제 파일.md",
+    "무제 파일.md",
+    "SoftwareQA/명세 기반 기법.md",
+    "SoftwareQA",
+    "4. Yearly/2023.md",
+    "3. Monthly/2023-10.md",
+    "2. Weekly/2023-W42.md",
+    "Obsidan/옵시디언 사용법.md",
+    "Obsidan/마크다운 사용법.md",
+    "Obsidan",
+    "Attached file",
+    "4. Yearly",
+    "3. Monthly"
+  ]
+}
