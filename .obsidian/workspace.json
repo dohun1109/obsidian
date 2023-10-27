@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d0907ff083c2a75b",
+        "id": "ae3ff18b40f6c926",
         "type": "tabs",
         "children": [
           {
-            "id": "fd2de6887f6fd25d",
+            "id": "715bedc09db442c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Java/Lambda/Lambda Expression.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Java/Lambda/Lambda Expression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Java/Lambda/Lambda Expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Java/Lambda/Lambda Expression.md"
               }
             }
           },
@@ -156,11 +156,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fd2de6887f6fd25d",
+  "active": "715bedc09db442c9",
   "lastOpenFiles": [
+    "1. Daily/2023-10-26.md",
     "README.md",
     "READMD.md",
-    "1. Daily/2023-10-26.md",
     "Java/Lambda/Lambda Expression.md",
     "1..md",
     "1. Daily.md",
