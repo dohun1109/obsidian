@@ -55,7 +55,7 @@ tags: JAVA, Lambda Expression
 > - Consumer는 T를 매개변수로 받아서 사용하며, 반환값은 없는 함수형 인터페이스이다. Consumer는 `void accept(T t)`를 추상 메소드로 갖는다. 또한 Consumer는 `andThen`이라는 함수를 제공하는데, 이를 통해 하나의 함수가 끝난 후 다음 Consumer를 연쇄적으로 이용할 수 있다. 그리고  메소드를 실행할 때  데이터를 return 하지는 않는다 .
 
 > [!TIP]  2. Function<T, R> -> R apply(T t) 
- > -  Function은 객체 T를 매게변수로 받아서 처리한 후 R로 반환하는 함수형 인터페이스다.  Function 은 R apply(T t) 를 추상메소드로 갖는다. 또한 Function은 Consumer와 마찬가지로 andThen을 제공하고 있으며, 추가적으로 compose를 제공하고 있다. 앞에서 andThend은 첫 번째 함수 가 실행된 이후에 다음 함 수를 연쇄적으로 실행하도록 연결해준다고 하였다. 하지만 compose는 첫 번째 함수 실행 이전에 먼저 함수를 실행 하여 연쇄적으로 연결해준다는 점에서 차이가 있다 또한, identity 함수가 존재하는데, 이는 자기 자신을 반환하는 static method 이다. 아 그리고 @FunctionalInterface는 추상메소드가 하나일 때  가능하다고 했는데 왜 여러개의 함수가 있냐면 default method로 구현된 상태로 
+ > -  Function은 객체 T를 매게변수로 받아서 처리한 후 R로 반환하는 함수형 인터페이스다.  Function 은 R apply(T t) 를 추상메소드로 갖는다. 또한 Function은 Consumer와 마찬가지로 andThen을 제공하고 있으며, 추가적으로 compose를 제공하고 있다. 앞에서 andThend은 첫 번째 함수 가 실행된 이후에 다음 함 수를 연쇄적으로 실행하도록 연결해준다고 하였다. 하지만 compose는 첫 번째 함수 실행 이전에 먼저 함수를 실행 하여 연쇄적으로 연결해준다는 점에서 차이가 있다 또한, identity 함수가 존재하는데, 이는 자기 자신을 반환하는 static method 이다. 아 그리고 @FunctionalInterface는 추상메소드가 하나일 때  가능하다고 했는데 왜 여러개의 함수가 있냐면 default method로 구현된 상태로 지원되기 떄문에 가능하다. 
  
 
 
