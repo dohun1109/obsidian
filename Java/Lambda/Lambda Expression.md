@@ -54,7 +54,7 @@ tags: JAVA, Lambda Expression
 > - Consumer는 T를 매개변수로 받아서 사용하며, 반환값은 없는 함수형 인터페이스이다. Consumer는 `void accept(T t)`를 추상 메소드로 갖는다. 또한 Consumer는 `andThen`이라는 함수를 제공하는데, 이를 통해 하나의 함수가 끝난 후 다음 Consumer를 연쇄적으로 이용할 수 있다. 그리고  메소드를 실행할 때  데이터를 return 하지는 않는다 .
 
 > [!TIP]  2. Function<T, R>
-> > - R apply(T t) 
+ > - R apply(T t) 
 
 
 
