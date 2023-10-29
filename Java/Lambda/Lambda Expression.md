@@ -31,6 +31,7 @@ tags: JAVA, Lambda Expression
 ## @Functional Interface
 
 - '@Functional Interface'는 "람다 표현식을 구현해야 하는 추상 메소드가 하나일 때 사용 가능하다"는 의미와 동시에 추상 메소드의 개수가 제한된다. 따라서 하나의 메소드만을 가져야 한다.
+- Java8 이전에 사용했던 익명함수(anonymous method)들은 
 
 > [!NOTE] 중첩 인터페이스(Nested Interface and Inner Interface)
 > 중첩 인터페이스의 특징:
