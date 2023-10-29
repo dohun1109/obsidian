@@ -45,10 +45,10 @@ tags: JAVA, Lambda Expression
 자바에서는 자주 사용될 것 같은 함수형 인터페이스가 이미 정의되어 있으며, 총 4가지 인터페이스를 지원한다:
 
 [{선수 지식 }일급 객체에 관한 설명  ](https://inpa.tistory.com/entry/CS-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-%EC%9D%BC%EA%B8%89-%EA%B0%9D%EC%B2%B4first-class-object)
-- Consumer\<T\>  
-- Function\<T, R\>
-- Predicate\<T\>
-- Supplier\<T\>
+- Consumer\<T\>  -> 값을 반환하지 않는다.
+- Function\<T, R\> -> 연산하고 수행결과를 반환한다.
+- Predicate\<T\> -> 항상 boolean 결과를 return 한다.
+- Supplier\<T\> -> 
 
 
 > [!TIP]   1. Consumer\<T\>
