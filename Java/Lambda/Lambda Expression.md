@@ -14,6 +14,15 @@
 - 재귀 함수로 만들기에 부적합하다.
 
 
+> [!NOTE] 배열을 반복할 때 
+>  for향상문, forEach 람다식 , :: 식 사용 
+> ```java
+> for (var s : lists) {}
+> lists.forEach((s) -> System.out.println(lists));
+> lists.forEach(System.out::println);
+> // 모두 같은 결과를 출력한다.
+> ```
+
 ## @Functional Interface
 
 - '@Functional Interface'는 "람다 표현식을 구현해야 하는 추상 메소드가 하나일 때 사용 가능하다"는 의미와 동시에 추상 메소드의 개수가 제한된다. 따라서 하나의 메소드만을 가져야 한다.
@@ -28,20 +37,15 @@
 
 자바에서는 자주 사용될 것 같은 함수형 인터페이스가 이미 정의되어 있으며, 총 4가지 인터페이스를 지원한다:
 
+- Consumer\<T\>  
 - Supplier\<T\>
-- Consumer\<T\>
 - Function\<T, R\>
 - Predicate\<T\>
 
-> [!TIP]   2. Consumer\<T\>
-> - Consumer는 T를 매개변수로 받아서 사용하며, 반환값은 없는 함수형 인터페이스이다. Consumer는 `void accept(T t)`를 추상 메소드로 갖는다. 또한 Consumer는 `andThen`이라는 함수를 제공하는데, 이를 통해 하나의 함수가 끝난 후 다음 Consumer를 연쇄적으로 이용할 수 있다.
+> [!TIP]   1. Consumer\<T\>
+> - Consumer는 T를 매개변수로 받아서 사용하며, 반환값은 없는 함수형 인터페이스이다. Consumer는 `void accept(T t)`를 추상 메소드로 갖는다. 또한 Consumer는 `andThen`이라는 함수를 제공하는데, 이를 통해 하나의 함수가 끝난 후 다음 Consumer를 연쇄적으로 이용할 수 있다. 그리고  메소드를 실행할 때  상
+>  
+>   
 
-> [!NOTE] 배열을 반복할 때 
->  for향상문, forEach 람다식 , :: 식 사용 
-> ```java
-> for (var s : lists) {}
-> lists.forEach((s) -> System.out.println(lists));
-> lists.forEach(System.out::println);
-> // 모두 같은 결과를 출력한다.
-> ```
+
 
