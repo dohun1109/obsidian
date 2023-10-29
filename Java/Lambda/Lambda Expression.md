@@ -31,7 +31,7 @@ tags: JAVA, Lambda Expression
 ## @Functional Interface
 
 - '@Functional Interface'는 "람다 표현식을 구현해야 하는 추상 메소드가 하나일 때 사용 가능하다"는 의미와 동시에 추상 메소드의 개수가 제한된다. 따라서 하나의 메소드만을 가져야 한다.
-- Java8 이전에 사용했던 익명함수(anonymous method)들은 
+- Java8 이전에 사용했던 익명함수(anonymous method)들은 람다식으로 변경에 코드를 줄일 수 있게 되었고, 람다식으로 생성된 순수 함수는 함수형 인터페이스로만 선언이 가능하다는 점이다. 
 
 > [!NOTE] 중첩 인터페이스(Nested Interface and Inner Interface)
 > 중첩 인터페이스의 특징:
@@ -54,8 +54,9 @@ tags: JAVA, Lambda Expression
 > [!TIP]   1. Consumer\<T\>
 > - Consumer는 T를 매개변수로 받아서 사용하며, 반환값은 없는 함수형 인터페이스이다. Consumer는 `void accept(T t)`를 추상 메소드로 갖는다. 또한 Consumer는 `andThen`이라는 함수를 제공하는데, 이를 통해 하나의 함수가 끝난 후 다음 Consumer를 연쇄적으로 이용할 수 있다. 그리고  메소드를 실행할 때  데이터를 return 하지는 않는다 .
 
-> [!TIP]  2. Function<T, R>
- > - R apply(T t) 
+> [!TIP]  2. Function<T, R> -> R apply(T t) 
+ > -  Function은 객체 T를 매게변수로 받아서 처리한 후 R로 반환하는 함수형 인터페이스다.  Function 은 R apply(T t) 를 추상메소드로 갖는다. 또한 Function은 Consumer와 마찬가지로 andThen을 제공하고 있으면, 추가적으로 compose를 제공하고 있다. 앞에서 andThend은 첫 번째 함수 가 실행된 이후에 다음 함 수를 연쇄적으로 실행하도록 연결해준다고 하였다. 
+ 
 
 
 
