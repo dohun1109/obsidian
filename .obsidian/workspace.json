@@ -64,6 +64,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "816fac3d3b1dc082",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -159,6 +167,8 @@
   },
   "active": "715bedc09db442c9",
   "lastOpenFiles": [
+    "Context/spacesLastSync.log",
+    "Context",
     "1. Daily/2023-10-26.md",
     "README.md",
     "READMD.md",
@@ -188,7 +198,6 @@
     "Obsidan/옵시디언 사용법.md",
     "Obsidan/마크다운 사용법.md",
     "Obsidan",
-    "Attached file",
-    "4. Yearly"
+    "Attached file"
   ]
 }

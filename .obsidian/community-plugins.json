@@ -1,5 +1,7 @@
 [
   "calendar",
   "periodic-notes",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-outliner",
+  "make-md"
 ]
