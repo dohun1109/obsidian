@@ -48,7 +48,7 @@ tags: JAVA, Lambda Expression
 - Consumer\<T\>  -> 값을 반환하지 않는다.
 - Function\<T, R\> -> 연산하고 수행결과를 반환한다.
 - Predicate\<T\> -> 항상 boolean 결과를 return 한다.
-- Supplier\<T\> -> 
+- Supplier\<T\> -> 어떤 인스턴스를 반환하는데 사용된다.
 
 
 > [!TIP]   1. Consumer\<T\>
