@@ -162,17 +162,18 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ce2929c1dbbd6d2",
+  "active": "715bedc09db442c9",
   "lastOpenFiles": [
+    "Java/Lambda/Lambda Expression.md",
     "Context/spacesLastSync.log",
     "Context",
     "1. Daily/2023-10-26.md",
     "README.md",
     "READMD.md",
-    "Java/Lambda/Lambda Expression.md",
     "1..md",
     "1. Daily.md",
     "README.m",
@@ -197,7 +198,6 @@
     "2. Weekly/2023-W42.md",
     "Obsidan/옵시디언 사용법.md",
     "Obsidan/마크다운 사용법.md",
-    "Obsidan",
-    "Attached file"
+    "Obsidan"
   ]
 }
