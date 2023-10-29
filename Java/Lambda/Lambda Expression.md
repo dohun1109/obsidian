@@ -1,5 +1,7 @@
 ---
 sticker: lucide//code-2
+banner: https://gongu.copyright.or.kr/gongu/wrt/cmmn/wrtFileImageView.do?wrtSn=11288959&filePath=L2Rpc2sxL25ld2RhdGEvMjAxNS8wMi9DTFM2OS9OVVJJXzAwMV8wNDQ1X251cmltZWRpYV8yMDE1MTIwMw==&thumbAt=Y&thumbSe=b_tbumb&wrtTy=10006
+tags: JAVA, Lambda Expression
 ---
 물론, 문서의 내용을 수정해드릴 수 있습니다. 아래는 수정된 내용입니다:
 
