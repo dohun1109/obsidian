@@ -190,11 +190,26 @@ public interface Runnable{
 - 역활 : 매개값을 계산해서 동일한 타입으로 리턴하기
 - 실행 메서드 : applyXXX()
 - Function과 비슷하지만, 매개값을 리턴값으로 매핑(타입변환) 하는 역활보다는 매개값을 이용해서 연산을 수행한 후 동일한 타입으로 리턴값을 제공하는 역할에 초점이 가있다. 
+
 | 인터페이스 형태    | 내용                 |
 | ------------------ | -------------------- |
 | UnaryOprator< T>   | T 타입 연산하고 리턴 |
 | BinaryOperator< T> | T 타입 연산하고 리턴 |
 | XXXUnaryOperator   | XXX 타입 1개 연산    |
-| XXXBinaryOperator  | XXX타입 2개 연산                     |
+| XXXBinaryOperator  | XXX타입 2개 연산     |
+
+  
 >[!TIP] TIP
->
+> nary는 단항 (연산이 1개)) 이고, Binary는 이항(연산이 2개) 이라는 뜻이다. 
+
+
+---
+## Predicate 인터페이스 
+- 역활 : 매개값을 받고 trure or false Return 
+- 실행 메서드 : test()
+- 매개 값을 받아 참/거짓을 단정 (predicate) 한다고 생각하면 된다. 
+
+
+| 인터페이스 형태 | 내용 |
+| --------------- | ---- |
+| Predicate< T>   | T 를 받아 boolean     |
