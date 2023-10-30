@@ -137,4 +137,9 @@ public interface Runnable{
 | ObjXXXConsumer< T> | T, XXX 형태의 인자값 2개를 받는다.                                |
 
 >[!TIP] TIP
->BiConsumer의 Bi
+>BiConsumer의 Bi 는 , 라틴어에서 파생된 영어 접두사 bi- 로 "둘"을 의미한다. 따라서 매개 변수를 두개 받는다로 이하며 암기하면 된다. 
+> **만일 3개 이상의 매개 변수를 받는 람다 함수를 만들고 싶다면, 직접 인터페이스를 정의해서 사용하여야 한다.**
+
+
+
+
