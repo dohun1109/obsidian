@@ -127,4 +127,14 @@ public interface Runnable{
 
 - 역활               : 매개값만 받고 처리( 리턴값 X) 
 - 실행 method : accept()
-- 소비(consume) 한다는 말은 사용만 할분 리턴값이 얻ㅂ다는 뜻으로 
+- 소비(consume) 한다는 말은 사용만 할분 리턴값이 없다는 뜻으로 보면 된다 .
+  
+| 인터페이스 형태    | 내용                            |
+| ------------------ | ------------------------------- |
+| Consumer< T >      | T 형태의 인자값을 받는다        |
+| BiConsumer < T, U> | T, U 형태의 인자값 2개를 받는다 |
+| XXXConsumer<T, U>  | XXX 형태의 인자값을 받는다      |
+| ObjXXXConsumer< T> | T, XXX 형태의 인자값 2개를 받는다.                                |
+
+>[!TIP] TIP
+>BiConsumer의 Bi
