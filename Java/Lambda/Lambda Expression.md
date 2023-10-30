@@ -161,4 +161,8 @@ public interface Runnable{
 | BooleanSupplier | Boolean getAsBoolean() | Boolean 값을 리턴 |
 | DoubleSupplier  | double getAsDouble()   | double 값을 리턴  |
 | IntSupplier     | int getAsInt()         | int 값을 리턴     |
-| LongSupplier    |                        |                   |
+| LongSupplier    | long getAsLong()       | long 값을 리턴    |
+
+
+
+---
