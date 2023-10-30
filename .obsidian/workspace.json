@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ae3ff18b40f6c926",
+        "id": "d37d3647d4e8ecff",
         "type": "tabs",
         "children": [
           {
-            "id": "715bedc09db442c9",
+            "id": "ac612983b8d3a1dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Lambda/Lambda Expression.md",
+                "file": "SoftwareQA/테스트 관리.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7244033226465e5a",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Lambda/Lambda Expression.md",
+                "file": "SoftwareQA/테스트 관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Lambda/Lambda Expression.md",
+                "file": "SoftwareQA/테스트 관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Lambda/Lambda Expression.md"
+                "file": "SoftwareQA/테스트 관리.md"
               }
             }
           },
@@ -165,11 +166,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "715bedc09db442c9",
+  "active": "ac612983b8d3a1dc",
   "lastOpenFiles": [
+    "Java/Lambda/Lambda Expression.md",
     "SoftwareQA/테스트 관리.md",
     "SoftwareQA/명세 기반 기법.md",
-    "Java/Lambda/Lambda Expression.md",
     "Context/spacesLastSync.log",
     "Context",
     "1. Daily/2023-10-26.md",
