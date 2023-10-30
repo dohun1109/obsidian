@@ -149,7 +149,16 @@ public interface Runnable{
 - 실행 메서드 : getXXX()
 - 생산(supply) 한다는 말은 데이터를 반환(공급) 한다는 뜻으로 보면 된다. 
   
-| 인터페이스 형태 | 내용 |
-| --------------- | ---- |
-| Supplier< T >   |      |
+| 인터페이스 형태 | 내용      |
+| --------------- | --------- |
+| Supplier< T >   | T 형 반환 |
+| XXX Supplier    | XXX 형 반환           |
 
+### Supplier 종류 
+| 인터페이스 명   | 추상 메소드            | 설명              |
+| --------------- | ---------------------- | ----------------- |
+| Supplier < T >  | T get()                | T 객체를 리턴     |
+| BooleanSupplier | Boolean getAsBoolean() | Boolean 값을 리턴 |
+| DoubleSupplier  | double getAsDouble()   | double 값을 리턴  |
+| IntSupplier     | int getAsInt()         | int 값을 리턴     |
+| LongSupplier    |                        |                   |
