@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7244033226465e5a",
@@ -167,8 +168,9 @@
   },
   "active": "ac612983b8d3a1dc",
   "lastOpenFiles": [
-    "SoftwareQA/테스트 관리.md",
+    "무제 파일.md",
     "Java/Lambda/Lambda Expression.md",
+    "SoftwareQA/테스트 관리.md",
     "SoftwareQA/명세 기반 기법.md",
     "Context/spacesLastSync.log",
     "Context",
