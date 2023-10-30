@@ -172,8 +172,21 @@ public interface Runnable{
 -  실행 메서드 : applyXXX() 
 - 매핑 한다는 말은, 예를 들어 여러 데이터 항목들이 들은 객체에서 특정 타입 값을 추출하거나 혹은 다른 타입으로 변환하는 작업에 사용한다고 보면 된다. 
   
-| 인터페이스 형태     | 내용               |
-| ------------------- | ------------------ |
-| Function < T, R>    | T 받아서 R 리턴    |
-| BiFunction<T, U, R> | T, U 받아서 R 리턴 |
-| XXXFunction <                     |                    |
+| 인터페이스 형태       | 내용               |
+| --------------------- | ------------------ |
+| Function < T, R>      | T 받아서 R 리턴    |
+| BiFunction<T, U, R>   | T, U 받아서 R 리턴 |
+| XXXFunction < T>      | XXX 받아서 T 리턴  |
+| XXXtoYYYFunction      | XXX 받아서 YYY리턴 |
+| toXXXFunction< T>     | T 받아서 XXX리턴   |
+| toXXXBiFunction< T,U> | T, U 받아서 XXX                   |
+
+>[!TIP] TIP 
+>T 와 U는 매개변수 타입이고 R을 리턴(Return) 타입 기호라고 보면 된다.
+
+
+---
+## Operator 인터페이스 
+- 역활 : 매개값을 계산해서 동일한 타입으로 리턴하기
+- 실행 메서드 : applyXXX()
+- Function과 비슷
