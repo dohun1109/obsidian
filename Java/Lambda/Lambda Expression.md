@@ -121,4 +121,10 @@ public interface Runnable{
  실제 Thread 클래스 정의문에 보면 파라미터로 Runnable 타입의  target 변수를 받아 사용한다. 
 
 
-## 
+---
+
+## Consumer 인터페이스 
+
+- 역활               : 매개값만 받고 처리( 리턴값 X) 
+- 실행 method : accept()
+- 소비(
