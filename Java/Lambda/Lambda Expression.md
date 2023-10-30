@@ -210,6 +210,12 @@ public interface Runnable{
 - 매개 값을 받아 참/거짓을 단정 (predicate) 한다고 생각하면 된다. 
 
 
-| 인터페이스 형태 | 내용 |
-| --------------- | ---- |
-| Predicate< T>   | T 를 받아 boolean     |
+| 인터페이스 형태    | 내용                      |
+| ------------------ | ------------------------- |
+| Predicate< T>      | T 를 받아 boolean 리턴    |
+| BiPredicate< T, U> | T, U 를 받아 boolean 리턴 |
+| XXXPredicate       | XXX 를 받아 boolean 리턴  |
+
+
+
+
