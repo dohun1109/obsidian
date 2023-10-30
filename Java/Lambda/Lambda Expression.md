@@ -217,5 +217,10 @@ public interface Runnable{
 | XXXPredicate       | XXX 를 받아 boolean 리턴  |
 
 
+---
+## 함수형 인터페이스 API 사용 정리표 
+예) double -> void == DoubleConsumer
+
+
 
 ![[스크린샷 2023-10-30 오후 7.56.00.png]]
