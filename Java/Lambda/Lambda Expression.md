@@ -105,4 +105,16 @@ tags: JAVA, Lambda Expression
 
 그런데 함수형 인터페이스라고 하지만 사실상 인터페이스 명이 딱히 정해져 있지 않기 때문에 문제가 발생한다. 그냥 추상메소드 한개만 가지고 있으면 모든 인터페이스는 함수적 인터페이스로 취급될 수 있기 때문이다. 
 이것이 왜 문제냐면 메소드를 설계할 때 애매해진다. 만일 파라미터로 람다함수를 받는 어떠한 메소드를 설계한다고 하면, 이 **매개변수의 인터페이스 타입명을 지정하는데 애로 사항이 생긴다**. 라이브러리 사용자가 인터페이스 타입명을 어찌 지을지 어떻게 알고 강타입 언어인 자바에서 설계하느냐의 문제이다. 
-따라서 자바 개발진들이 미리 함수형 인터페이스 이름들을 정해 제공하는 것이 위의 표에서 본 Runnable ,Consumer, Supplie
+따라서 자바 개발진들이 미리 함수형 인터페이스 이름들을 정해 제공하는 것이 위의 표에서 본 Runnable ,Consumer, Supplier, Function, Operator, Predicate 인터페이스인 것이다. 
+
+## 1. Runnable 인터페이스 
+
+``` java
+@FunctionalInterface 
+public interface Runnable{
+
+	public abstract void run();
+	
+}
+```
+ 이러한 인터페이스들을 만든 이유는 람다 함수의 타입명을 미
