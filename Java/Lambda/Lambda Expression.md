@@ -127,4 +127,4 @@ public interface Runnable{
 
 - 역활               : 매개값만 받고 처리( 리턴값 X) 
 - 실행 method : accept()
-- 소비(
+- 소비(consume) 한다는 말은 사용만 할분 리턴값이 얻ㅂ다는 뜻으로 
