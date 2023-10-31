@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d37d3647d4e8ecff",
+        "id": "dcecfdbbb9e93bc2",
         "type": "tabs",
         "children": [
           {
-            "id": "ac612983b8d3a1dc",
+            "id": "d192b9b994ce2f62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
+                "file": "1. Daily/2023-10-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7244033226465e5a",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
+                "file": "1. Daily/2023-10-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
+                "file": "1. Daily/2023-10-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Collection Framework/Java Collections Framework 종류 총정리.md"
+                "file": "1. Daily/2023-10-31.md"
               }
             }
           },
@@ -166,29 +165,30 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ac612983b8d3a1dc",
+  "active": "d192b9b994ce2f62",
   "lastOpenFiles": [
-    "Java/Lambda/Lambda Expression.md",
+    "Attached file/스크린샷 2023-10-30 오후 7.56.00.png",
+    "1. Daily/2023-10-31.md",
+    "1. Daily/2023-10-26.md",
     "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
+    "1. Daily/2023-10-25.md",
+    "1. Daily/2023-10-24.md",
+    "1. Daily/2023-10-20.md",
+    "Java/Lambda/Lambda Expression.md",
     "Java/Collection Framework",
-    "스크린샷 2023-10-30 오후 7.56.00.png",
     "무제 파일.md",
     "SoftwareQA/테스트 관리.md",
     "SoftwareQA/명세 기반 기법.md",
     "Context/spacesLastSync.log",
     "Context",
-    "1. Daily/2023-10-26.md",
     "README.md",
     "READMD.md",
     "1..md",
     "1. Daily.md",
     "README.m",
-    "1. Daily/2023-10-25.md",
     "Spring/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
     "Java/Lambda",
     "Spring/Sec 05. 싱글톤 컨테이너",
-    "1. Daily/2023-10-20.md",
-    "1. Daily/2023-10-24.md",
     "Java/1. Daily/2023-10-24.md",
     "Java/1. Daily/2023-10-22.md",
     "Java/1. Daily/2023-10-21.md",
