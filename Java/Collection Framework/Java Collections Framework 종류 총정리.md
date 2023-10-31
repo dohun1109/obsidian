@@ -6,3 +6,4 @@ banner: https://postfiles.pstatic.net/MjAyMjA2MTVfNDMg/MDAxNjU1MjY4ODI0ODg4.NHE-
 
 ---
 - 컬렉션 프레임 워크는 자료 구조(Data Structure) 종류의 형태들을 자바 클래스로 구현한 모음집이라고 보면 된다. 
+ [정리](https://inpa.tistory.com/entry/JCF-🧱-Collections-Framework-종류-총정리)
