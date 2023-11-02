@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dcecfdbbb9e93bc2",
+        "id": "56b36f08ae1ca9d4",
         "type": "tabs",
         "children": [
           {
-            "id": "d192b9b994ce2f62",
+            "id": "e0374f71babd2a44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WindowsServer/11월 2일(목).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7244033226465e5a",
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WindowsServer/11월 2일(목).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WindowsServer/11월 2일(목).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "WindowsServer/11월 2일(목).md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,10 +157,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d192b9b994ce2f62",
+  "active": "3ce2929c1dbbd6d2",
   "lastOpenFiles": [
-    "1. Daily/2023-10-31.md",
+    "Spring/김영한 강의",
     "WindowsServer/11월 2일(목).md",
+    "1. Daily/2023-10-31.md",
     "WindowsServer",
     "Attached file/스크린샷 2023-10-30 오후 7.56.00.png",
     "1. Daily/2023-10-26.md",
@@ -203,7 +195,6 @@
     "4. Yearly/2023.md",
     "3. Monthly/2023-10.md",
     "2. Weekly/2023-W42.md",
-    "Obsidan/옵시디언 사용법.md",
-    "Obsidan/마크다운 사용법.md"
+    "Obsidan/옵시디언 사용법.md"
   ]
 }
