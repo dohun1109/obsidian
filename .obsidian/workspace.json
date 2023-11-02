@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-10-31.md",
+                "file": "WindowsServer/11월 2일(목).md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-10-31.md",
+                "file": "WindowsServer/11월 2일(목).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-10-31.md",
+                "file": "WindowsServer/11월 2일(목).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-10-31.md"
+                "file": "WindowsServer/11월 2일(목).md"
               }
             }
           },
@@ -168,8 +168,10 @@
   },
   "active": "d192b9b994ce2f62",
   "lastOpenFiles": [
-    "Attached file/스크린샷 2023-10-30 오후 7.56.00.png",
     "1. Daily/2023-10-31.md",
+    "WindowsServer/11월 2일(목).md",
+    "WindowsServer",
+    "Attached file/스크린샷 2023-10-30 오후 7.56.00.png",
     "1. Daily/2023-10-26.md",
     "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
     "1. Daily/2023-10-25.md",
@@ -198,7 +200,6 @@
     "Spring",
     "Java",
     "1. Daily/무제 파일.md",
-    "SoftwareQA",
     "4. Yearly/2023.md",
     "3. Monthly/2023-10.md",
     "2. Weekly/2023-W42.md",
