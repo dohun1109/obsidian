@@ -11,8 +11,12 @@
             "id": "e0374f71babd2a44",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spring/배워서 바로쓰는 스프링프레임워크/Chapter01-스프링 프레임워크 소개/2023년 11월 2일 (목).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spring/배워서 바로쓰는 스프링프레임워크/Chapter01-스프링 프레임워크 소개/2023년 11월 2일 (목).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spring/배워서 바로쓰는 스프링프레임워크/Chapter01-스프링 프레임워크 소개/2023년 11월 2일 (목).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spring/배워서 바로쓰는 스프링프레임워크/Chapter01-스프링 프레임워크 소개/2023년 11월 2일 (목).md"
+              }
             }
           },
           {
@@ -157,9 +165,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3ce2929c1dbbd6d2",
+  "active": "e0374f71babd2a44",
   "lastOpenFiles": [
-    "Spring/김영한 강의",
+    "무제 파일.md",
+    "Spring/배워서 바로쓰는 스프링프레임워크/Chapter01-스프링 프레임워크 소개/2023년 11월 2일 (목).md",
+    "Spring/배워서 바로쓰는 스프링프레임워크/Chapter01-스프링 프레임워크 소개",
+    "Spring/배워서 바로쓰는 스프링프레임워크",
+    "Spring/김영한님 강의<인프런>",
     "WindowsServer/11월 2일(목).md",
     "1. Daily/2023-10-31.md",
     "WindowsServer",
@@ -171,7 +183,6 @@
     "1. Daily/2023-10-20.md",
     "Java/Lambda/Lambda Expression.md",
     "Java/Collection Framework",
-    "무제 파일.md",
     "SoftwareQA/테스트 관리.md",
     "SoftwareQA/명세 기반 기법.md",
     "Context/spacesLastSync.log",
@@ -181,16 +192,13 @@
     "1..md",
     "1. Daily.md",
     "README.m",
-    "Spring/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
+    "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
     "Java/Lambda",
-    "Spring/Sec 05. 싱글톤 컨테이너",
+    "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너",
     "Java/1. Daily/2023-10-24.md",
     "Java/1. Daily/2023-10-22.md",
     "Java/1. Daily/2023-10-21.md",
-    "1. Daily",
     "Java/1. Daily/2023-10-24 1.md",
-    "Spring",
-    "Java",
     "1. Daily/무제 파일.md",
     "4. Yearly/2023.md",
     "3. Monthly/2023-10.md",
