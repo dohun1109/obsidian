@@ -79,4 +79,9 @@ MemoryMemberRepository 가 2번 이상 생성되면서 싱글톤이 깨지는 �
 >[!TIP] 참고 
 > AppConfig@CGLIB는 AppConfig의 자식타입으로 , AppConfig 타입으로 조회 할 수 있다. 
 
->[!Wari]
+>[!Warning]  **정리**
+> - @Bean 만 사용해도 스프링 빈으로 등록 되지만, 싱글톤을 보장하지 않는다 .
+> 	- 'memberRepository' 처럼 의존관계주입이 필요해서 메서드를 직접 호출할 때 싱글톤을 보장하지 않는다
+> - 크게 고민할 것이 없다. 스프링 설정 정보는 항상 '@Configuration' 을 사용하자 !!!!
+
+
