@@ -49,3 +49,10 @@ MemoryMemberRepository 가 2번 이상 생성되면서 싱글톤이 깨지는 �
 >>- call AppConfig.orderService
 
 
+
+---
+# @Configuration과 바이트코드 조작의 마법 
+
+- 스프링 컨테이너는 싱글톤 레지스트리다. 따라서 스프링 빈이 싱글톤이 되도록 보장해주어야 한다. 그런데 스프링이 자바 코드까지 어떻게 하기는 어렵다. 위 자바 코드를 보면 분명 3번호출 되어야 하는 것이 맞다. 그래서 스프링은 클래스의 바이트코드를 조작하는 라이브러리를 사용한다. 모든 비밀은 @Configuration을 적용한 AppConfig에 있다. 
+
+즉, @Configuration 어노테이션이 붙으면 
