@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
+                "file": "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
+                "file": "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
+                "file": "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md"
+                "file": "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md"
               }
             }
           },
@@ -167,6 +167,9 @@
   },
   "active": "f27d85271ba728c7",
   "lastOpenFiles": [
+    "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
+    "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
+    "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔",
     "Spring/배워서 바로쓰는 스프링프레임워크/Chapter01-스프링 프레임워크 소개/2023년 11월 2일 (목).md",
     "Obsidan/마크다운 사용법.md",
     "무제 파일.md",
@@ -193,16 +196,13 @@
     "1..md",
     "1. Daily.md",
     "README.m",
-    "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
     "Java/Lambda",
-    "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너",
     "Java/1. Daily/2023-10-24.md",
     "Java/1. Daily/2023-10-22.md",
     "Java/1. Daily/2023-10-21.md",
     "Java/1. Daily/2023-10-24 1.md",
     "1. Daily/무제 파일.md",
     "4. Yearly/2023.md",
-    "3. Monthly/2023-10.md",
-    "2. Weekly/2023-W42.md"
+    "3. Monthly/2023-10.md"
   ]
 }
