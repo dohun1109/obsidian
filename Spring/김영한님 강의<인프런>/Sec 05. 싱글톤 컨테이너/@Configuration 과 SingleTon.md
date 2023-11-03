@@ -79,4 +79,4 @@ MemoryMemberRepository 가 2번 이상 생성되면서 싱글톤이 깨지는 �
 >[!TIP] 참고 
 > AppConfig@CGLIB는 AppConfig의 자식타입으로 , AppConfig 타입으로 조회 할 수 있다. 
 
-
+>[!Wari]
