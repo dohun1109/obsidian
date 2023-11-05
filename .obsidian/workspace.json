@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "60b2b77ece3e785e",
+        "id": "99c9f739f2a90181",
         "type": "tabs",
         "children": [
           {
-            "id": "5b25013561b153e5",
+            "id": "1959a3231d345c55",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -144,9 +144,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "1aaa0aece5a2db8b",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -161,11 +169,13 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "5b25013561b153e5",
+  "active": "1959a3231d345c55",
   "lastOpenFiles": [
+    "1. Daily/2023-11-01.md",
     "1. Daily/2023-11-05.md",
     "1. Daily/2023-10-31.md",
     "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md",
@@ -201,7 +211,6 @@
     "README.m",
     "Java/1. Daily/2023-10-24.md",
     "Java/1. Daily/2023-10-22.md",
-    "Java/1. Daily/2023-10-21.md",
-    "Java/1. Daily/2023-10-24 1.md"
+    "Java/1. Daily/2023-10-21.md"
   ]
 }
