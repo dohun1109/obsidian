@@ -8,18 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba78a52ae7b15183",
+            "id": "d6163964999feceb",
+            "type": "leaf",
+            "state": {
+              "type": "weekly",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e0698ed0fc88b24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-11-05.md",
+                "file": "2023-11-05.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-11-05.md",
+                "file": "2023-11-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-11-05.md",
+                "file": "2023-11-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,20 +142,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-11-05.md"
+                "file": "2023-11-05.md"
               }
             }
           },
           {
-            "id": "e44c8325b67df0a5",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "6d1abf5a2f32a100",
+            "id": "ef7d9086b4858556",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -154,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -169,14 +170,18 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-day-planner:Timeline": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "ba78a52ae7b15183",
+  "active": "7e0698ed0fc88b24",
   "lastOpenFiles": [
-    "1. Daily/2023-11-01.md",
+    "2023-11-05.md",
     "1. Daily/2023-11-05.md",
+    "1. Daily/2023-11-06.md",
+    "1. Daily/2023-11-04.md",
+    "Day Planner",
+    "1. Daily/2023-11-01.md",
     "1. Daily/.md",
     "1. Daily/2023-10-31.md",
     "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md",
@@ -207,10 +212,6 @@
     "Context",
     "README.md",
     "READMD.md",
-    "1..md",
-    "1. Daily.md",
-    "README.m",
-    "Java/1. Daily/2023-10-24.md",
-    "Java/1. Daily/2023-10-22.md"
+    "1..md"
   ]
 }
