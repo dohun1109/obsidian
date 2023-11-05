@@ -1,12 +1,4 @@
 {
-  "periodic-notes:open-daily-note": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "F1"
-    }
-  ],
   "periodic-notes:open-weekly-note": [
     {
       "modifiers": [
@@ -39,7 +31,15 @@
       "key": "C"
     }
   ],
-  "editor:fold-more": [
+  "periodic-notes:open-daily-note": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F1"
+    }
+  ],
+  "outline:open": [
     {
       "modifiers": [
         "Shift"

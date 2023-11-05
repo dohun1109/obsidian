@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9defcc529457d49b",
+        "id": "eaf2c019ca1bf372",
         "type": "tabs",
         "children": [
           {
-            "id": "7e0698ed0fc88b24",
+            "id": "2bfc5b86a58f8f95",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7244033226465e5a",
@@ -166,11 +165,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7e0698ed0fc88b24",
+  "active": "2bfc5b86a58f8f95",
   "lastOpenFiles": [
-    "1. Daily/2023-11-04.md",
-    "1. Daily/2023-11-05.md",
     "2023-11-05.md",
+    "1. Daily/2023-11-05.md",
+    "1. Daily/2023-11-04.md",
     "1. Daily/2023-11-06.md",
     "Day Planner",
     "1. Daily/2023-11-01.md",
