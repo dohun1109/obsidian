@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6163964999feceb",
-            "type": "leaf",
-            "state": {
-              "type": "weekly",
-              "state": {}
-            }
-          },
-          {
             "id": "7e0698ed0fc88b24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-05.md",
+                "file": "1. Daily/2023-11-05.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-05.md",
+                "file": "1. Daily/2023-11-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-05.md",
+                "file": "1. Daily/2023-11-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-05.md"
+                "file": "1. Daily/2023-11-05.md"
               }
             }
           },
@@ -176,10 +167,10 @@
   },
   "active": "7e0698ed0fc88b24",
   "lastOpenFiles": [
-    "2023-11-05.md",
-    "1. Daily/2023-11-05.md",
-    "1. Daily/2023-11-06.md",
     "1. Daily/2023-11-04.md",
+    "1. Daily/2023-11-05.md",
+    "2023-11-05.md",
+    "1. Daily/2023-11-06.md",
     "Day Planner",
     "1. Daily/2023-11-01.md",
     "1. Daily/.md",
