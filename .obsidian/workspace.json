@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "99c9f739f2a90181",
+        "id": "9defcc529457d49b",
         "type": "tabs",
         "children": [
           {
-            "id": "1959a3231d345c55",
+            "id": "ba78a52ae7b15183",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,10 +173,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "1959a3231d345c55",
+  "active": "ba78a52ae7b15183",
   "lastOpenFiles": [
-    "1. Daily/2023-11-01.md",
     "1. Daily/2023-11-05.md",
+    "1. Daily/2023-11-01.md",
     "1. Daily/2023-10-31.md",
     "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md",
     "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
