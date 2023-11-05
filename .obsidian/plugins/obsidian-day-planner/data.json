@@ -16,7 +16,7 @@
   "timelineEndColor": "#4d194d",
   "timestampFormat": "HH:mm",
   "dataviewSource": "",
-  "showDataviewMigrationWarning": false,
+  "showDataviewMigrationWarning": true,
   "extendDurationUntilNext": false,
   "defaultDurationMinutes": 30,
   "showTimestampInTaskBlock": false,
