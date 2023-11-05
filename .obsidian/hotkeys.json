@@ -38,5 +38,13 @@
       ],
       "key": "C"
     }
+  ],
+  "editor:fold-more": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "`"
+    }
   ]
 }

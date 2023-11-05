@@ -5,7 +5,7 @@
   "zoomLevel": 2,
   "timelineIcon": "calendar-with-checkmark",
   "endLabel": "All done",
-  "startHour": 9,
+  "startHour": 8,
   "timelineDateFormat": "YYYY-MM-DD",
   "centerNeedle": false,
   "showHelp": true,
