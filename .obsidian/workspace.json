@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7244033226465e5a",
@@ -146,7 +147,15 @@
             }
           },
           {
-            "id": "199ae988b8b59f25",
+            "id": "e44c8325b67df0a5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f1531d75e468320",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -154,11 +163,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 447.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,10 +182,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "199ae988b8b59f25",
+  "active": "7f1531d75e468320",
   "lastOpenFiles": [
-    "1. Daily/2023-11-05.md",
     "1. Daily/2023-11-01.md",
+    "1. Daily/2023-11-05.md",
+    "1. Daily/.md",
     "1. Daily/2023-10-31.md",
     "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md",
     "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
@@ -210,7 +220,6 @@
     "1. Daily.md",
     "README.m",
     "Java/1. Daily/2023-10-24.md",
-    "Java/1. Daily/2023-10-22.md",
-    "Java/1. Daily/2023-10-21.md"
+    "Java/1. Daily/2023-10-22.md"
   ]
 }
