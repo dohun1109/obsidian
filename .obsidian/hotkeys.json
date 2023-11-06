@@ -39,22 +39,6 @@
       "key": "F1"
     }
   ],
-  "file-explorer:open": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "`"
-    }
-  ],
-  "editor:toggle-fold-properties": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "`"
-    }
-  ],
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
