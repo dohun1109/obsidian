@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-11-05.md",
+                "file": "1. Daily/2023-11-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-11-05.md",
+                "file": "1. Daily/2023-11-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-11-05.md",
+                "file": "1. Daily/2023-11-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-11-05.md"
+                "file": "1. Daily/2023-11-06.md"
               }
             }
           },
@@ -151,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.5
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,6 +168,7 @@
   },
   "active": "2bfc5b86a58f8f95",
   "lastOpenFiles": [
+    "2023-11-06.md",
     "1. Daily/2023-11-05.md",
     "2023-11-05.md",
     "1. Daily/2023-11-04.md",
@@ -203,7 +204,6 @@
     "Context/spacesLastSync.log",
     "Context",
     "README.md",
-    "READMD.md",
-    "1..md"
+    "READMD.md"
   ]
 }
