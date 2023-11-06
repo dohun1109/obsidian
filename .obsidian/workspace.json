@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-11-06.md",
+                "file": "1. Daily/2023-11-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-11-06.md",
+                "file": "1. Daily/2023-11-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-11-06.md",
+                "file": "1. Daily/2023-11-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-11-06.md"
+                "file": "1. Daily/2023-11-07.md"
               }
             }
           },
@@ -168,11 +168,12 @@
   },
   "active": "2bfc5b86a58f8f95",
   "lastOpenFiles": [
+    "1. Daily/2023-11-06.md",
+    "1. Daily/2023-11-07.md",
+    "1. Daily/2023-11-04.md",
     "2023-11-06.md",
     "1. Daily/2023-11-05.md",
     "2023-11-05.md",
-    "1. Daily/2023-11-04.md",
-    "1. Daily/2023-11-06.md",
     "Day Planner",
     "1. Daily/2023-11-01.md",
     "1. Daily/.md",
@@ -203,7 +204,6 @@
     "SoftwareQA/명세 기반 기법.md",
     "Context/spacesLastSync.log",
     "Context",
-    "README.md",
-    "READMD.md"
+    "README.md"
   ]
 }
