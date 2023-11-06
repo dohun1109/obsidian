@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-11-07.md",
+                "file": "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/다양한 의존관계 주입 방법.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7244033226465e5a",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-11-07.md",
+                "file": "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/다양한 의존관계 주입 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-11-07.md",
+                "file": "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/다양한 의존관계 주입 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-11-07.md"
+                "file": "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/다양한 의존관계 주입 방법.md"
               }
             }
           },
@@ -151,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,18 +168,18 @@
   },
   "active": "2bfc5b86a58f8f95",
   "lastOpenFiles": [
-    "1. Daily/2023-11-06.md",
-    "1. Daily/2023-11-07.md",
-    "1. Daily/2023-11-04.md",
+    "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md",
+    "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
     "2023-11-06.md",
+    "1. Daily/2023-11-07.md",
+    "1. Daily/2023-11-06.md",
+    "1. Daily/2023-11-04.md",
     "1. Daily/2023-11-05.md",
     "2023-11-05.md",
     "Day Planner",
     "1. Daily/2023-11-01.md",
     "1. Daily/.md",
     "1. Daily/2023-10-31.md",
-    "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md",
-    "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
     "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/다양한 의존관계 주입 방법.md",
     "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
     "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입",
