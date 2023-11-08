@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-08.md",
+                "file": "1. Daily/2023-11-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-08.md",
+                "file": "1. Daily/2023-11-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-08.md",
+                "file": "1. Daily/2023-11-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-08.md"
+                "file": "1. Daily/2023-11-08.md"
               }
             }
           },
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +167,9 @@
   },
   "active": "97430b575025567f",
   "lastOpenFiles": [
-    "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/다양한 의존관계 주입 방법.md",
     "2023-11-08.md",
+    "1. Daily/2023-11-08.md",
+    "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/다양한 의존관계 주입 방법.md",
     "2023-11-06.md",
     "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md",
     "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
@@ -202,7 +202,6 @@
     "Java/Lambda/Lambda Expression.md",
     "Java/Collection Framework",
     "SoftwareQA/테스트 관리.md",
-    "SoftwareQA/명세 기반 기법.md",
     "Context/spacesLastSync.log",
     "Context"
   ]
