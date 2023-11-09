@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "67972359dfb21402",
+        "id": "7fb6ad295276aaba",
         "type": "tabs",
         "children": [
           {
-            "id": "002829e11187d087",
+            "id": "c15ffe2e9f363479",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Yearly/2023.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Yearly/2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Yearly/2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4. Yearly/2023.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,8 +158,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "002829e11187d087",
+  "active": "c15ffe2e9f363479",
   "lastOpenFiles": [
+    "4. Yearly/2023.md",
     "3. Monthly/2023-11.md",
     "3. Monthly/2023-10.md",
     "1. Daily/2023-11-09.md",
@@ -203,7 +196,6 @@
     "Spring/배워서 바로쓰는 스프링프레임워크",
     "Spring/김영한님 강의<인프런>",
     "WindowsServer",
-    "1. Daily/2023-10-26.md",
     "Java/Collection Framework",
     "Context/spacesLastSync.log"
   ]
