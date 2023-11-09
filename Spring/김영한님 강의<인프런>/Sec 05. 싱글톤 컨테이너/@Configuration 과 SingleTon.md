@@ -1,3 +1,6 @@
+---
+banner: https://gongu.copyright.or.kr/gongu/wrt/cmmn/wrtFileImageView.do?wrtSn=11288959&filePath=L2Rpc2sxL25ld2RhdGEvMjAxNS8wMi9DTFM2OS9OVVJJXzAwMV8wNDQ1X251cmltZWRpYV8yMDE1MTIwMw==&thumbAt=Y&thumbSe=b_tbumb&wrtTy=10006
+---
 # Spring Study  <Configuration과 싱글톤 >****
 - ### @Configuration 은 싱글톤을 위해 만들어 졌다 ! 
 
