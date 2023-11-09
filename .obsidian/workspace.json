@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "09eb36a20fa73314",
+        "id": "24294753b88ce6d6",
         "type": "tabs",
         "children": [
           {
-            "id": "97430b575025567f",
+            "id": "b2f005fd7834e0e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-11-08.md",
+                "file": "2023-11-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7244033226465e5a",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-11-08.md",
+                "file": "2023-11-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-11-08.md",
+                "file": "2023-11-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-11-08.md"
+                "file": "2023-11-09.md"
               }
             }
           },
@@ -165,15 +166,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "97430b575025567f",
+  "active": "b2f005fd7834e0e6",
   "lastOpenFiles": [
-    "2023-11-08.md",
     "1. Daily/2023-11-08.md",
-    "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/다양한 의존관계 주입 방법.md",
+    "2023-11-09.md",
+    "Attached file/스크린샷 2023-11-08 오전 10.39.16.png",
+    "Attached file/스크린샷 2023-10-30 오후 7.56.00.png",
+    "2023-11-08.md",
     "2023-11-06.md",
+    "1. Daily/2023-11-07.md",
+    "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/다양한 의존관계 주입 방법.md",
     "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md",
     "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
-    "1. Daily/2023-11-07.md",
     "1. Daily/2023-11-06.md",
     "1. Daily/2023-11-04.md",
     "1. Daily/2023-11-05.md",
@@ -193,7 +197,6 @@
     "Spring/김영한님 강의<인프런>",
     "WindowsServer/11월 2일(목).md",
     "WindowsServer",
-    "Attached file/스크린샷 2023-10-30 오후 7.56.00.png",
     "1. Daily/2023-10-26.md",
     "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
     "1. Daily/2023-10-25.md",
@@ -201,7 +204,6 @@
     "1. Daily/2023-10-20.md",
     "Java/Lambda/Lambda Expression.md",
     "Java/Collection Framework",
-    "SoftwareQA/테스트 관리.md",
     "Context/spacesLastSync.log",
     "Context"
   ]
