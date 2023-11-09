@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "24294753b88ce6d6",
+        "id": "67972359dfb21402",
         "type": "tabs",
         "children": [
           {
-            "id": "b2f005fd7834e0e6",
+            "id": "002829e11187d087",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-11-09.md",
+                "file": "4. Yearly/2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-11-09.md",
+                "file": "4. Yearly/2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-11-09.md",
+                "file": "4. Yearly/2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-11-09.md"
+                "file": "4. Yearly/2023.md"
               }
             }
           },
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,10 +166,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b2f005fd7834e0e6",
+  "active": "002829e11187d087",
   "lastOpenFiles": [
-    "1. Daily/2023-11-08.md",
+    "3. Monthly/2023-11.md",
+    "3. Monthly/2023-10.md",
     "1. Daily/2023-11-09.md",
+    "1. Daily/2023-11-08.md",
     "Unity/과제.md",
     "2023-11-09.md",
     "Unity",
@@ -201,8 +204,6 @@
     "Spring/김영한님 강의<인프런>",
     "WindowsServer",
     "1. Daily/2023-10-26.md",
-    "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
-    "1. Daily/2023-10-25.md",
     "Java/Collection Framework",
     "Context/spacesLastSync.log"
   ]
