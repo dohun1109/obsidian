@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f88686104b60cf92",
+        "id": "aa7167740b26c568",
         "type": "tabs",
         "children": [
           {
-            "id": "dbaa0263af9c7e54",
+            "id": "baad1e67d980857d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/롬복과 최신 트랜드.md",
+                "file": "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/옵션 처리.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7244033226465e5a",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/롬복과 최신 트랜드.md",
+                "file": "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/옵션 처리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/롬복과 최신 트랜드.md",
+                "file": "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/옵션 처리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/롬복과 최신 트랜드.md"
+                "file": "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/옵션 처리.md"
               }
             }
           },
@@ -167,10 +166,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "dbaa0263af9c7e54",
+  "active": "3ce2929c1dbbd6d2",
   "lastOpenFiles": [
-    "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/다양한 의존관계 주입 방법.md",
+    "1. Daily/2023-11-10.md",
+    "2023-11-10.md",
     "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/롬복과 최신 트랜드.md",
+    "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/다양한 의존관계 주입 방법.md",
     "무제 파일.md",
     "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/생성자 주입을 선택해라!.md",
     "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/옵션 처리.md",
@@ -196,9 +197,7 @@
     "1. Daily/2023-11-06.md",
     "1. Daily/2023-11-04.md",
     "1. Daily/2023-11-05.md",
-    "2023-11-05.md",
     "Day Planner",
-    "1. Daily/2023-11-01.md",
     "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입",
     "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔",
     "Spring/배워서 바로쓰는 스프링프레임워크/Chapter01-스프링 프레임워크 소개",
