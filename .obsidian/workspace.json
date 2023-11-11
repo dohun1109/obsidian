@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,17 +165,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3ce2929c1dbbd6d2",
+  "active": "9514a965609541f4",
   "lastOpenFiles": [
-    "Spring/김영한님 강의<인프런>/Sec 08. 빈 생명주기 콜백",
+    "1. Daily/2023-11-10.md",
     "1. Daily/2023-11-11.md",
     "2023-11-11.md",
+    "Spring/김영한님 강의<인프런>/Sec 08. 빈 생명주기 콜백",
     "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/5. 조회 @Bean 이 2개 이상(문제).md",
     "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/4. 롬복과 최신 트랜드.md",
     "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/3. 생성자 주입을 선택해라!.md",
     "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/2. 옵션 처리.md",
     "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/1. 다양한 의존관계 주입 방법.md",
-    "1. Daily/2023-11-10.md",
     "2023-11-10.md",
     "무제 파일.md",
     "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md",
@@ -204,7 +203,6 @@
     "Spring/배워서 바로쓰는 스프링프레임워크",
     "Spring/김영한님 강의<인프런>",
     "WindowsServer",
-    "Java/Collection Framework",
-    "Context/spacesLastSync.log"
+    "Java/Collection Framework"
   ]
 }
