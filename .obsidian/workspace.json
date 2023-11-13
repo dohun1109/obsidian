@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-11-13.md",
+                "file": "2023-11-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-11-13.md",
+                "file": "2023-11-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-11-13.md",
+                "file": "2023-11-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-11-13.md"
+                "file": "2023-11-13.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "166f959ed2eae235",
   "lastOpenFiles": [
-    "2023-11-13.md",
     "1. Daily/2023-11-13.md",
+    "2023-11-13.md",
     "2023-11-11.md",
     "1. Daily/2023-11-10.md",
     "1. Daily/2023-11-11.md",
