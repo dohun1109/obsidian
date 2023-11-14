@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-11-07.md",
+                "file": "2023-11-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7244033226465e5a",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-11-07.md",
+                "file": "2023-11-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-11-07.md",
+                "file": "2023-11-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-11-07.md"
+                "file": "2023-11-14.md"
               }
             }
           },
@@ -169,12 +168,14 @@
   },
   "active": "166f959ed2eae235",
   "lastOpenFiles": [
+    "1. Daily/2023-11-13.md",
+    "2023-11-14.md",
+    "1. Daily/2023-11-07.md",
+    "2023-11-13.md",
     "1. Daily/2023-11-08.md",
     "1. Daily/2023-11-09.md",
     "1. Daily/2023-11-10.md",
-    "2023-11-13.md",
     "Spring/김영한님 강의<인프런>/Sec 08. 빈 생명주기 콜백/빈 생명주기 콜백 시작.md",
-    "1. Daily/2023-11-13.md",
     "2023-11-11.md",
     "1. Daily/2023-11-11.md",
     "Spring/김영한님 강의<인프런>/Sec 08. 빈 생명주기 콜백",
@@ -195,8 +196,6 @@
     "Unity/과제.md",
     "2023-11-09.md",
     "Unity",
-    "WindowsServer/11월 2일(목).md",
-    "WindowsServer/11월 9일 (목).md",
     "Attached file/스크린샷 2023-11-08 오전 10.39.16.png",
     "Attached file/스크린샷 2023-10-30 오후 7.56.00.png",
     "Day Planner",
