@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9cda1b42ca76b85f",
+        "id": "18e52fae53fba5cb",
         "type": "tabs",
         "children": [
           {
-            "id": "5c31212bc5f2419a",
+            "id": "fdeff8f863ae5e75",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,10 +166,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5c31212bc5f2419a",
+  "active": "fdeff8f863ae5e75",
   "lastOpenFiles": [
-    "2023-11-14.md",
+    "1. Daily/2023-11-15.md",
     "Java/Multi Thread/멀티 스레드.md",
+    "2023-11-15.md",
+    "2023-11-14.md",
     "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
     "Java/Multi Thread",
     "Java/Lambda/Lambda Expression.md",
@@ -195,8 +196,6 @@
     "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md",
     "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
     "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
-    "4. Yearly/2023.md",
-    "3. Monthly/2023-11.md",
     "Unity",
     "Attached file/스크린샷 2023-11-08 오전 10.39.16.png",
     "Attached file/스크린샷 2023-10-30 오후 7.56.00.png",
