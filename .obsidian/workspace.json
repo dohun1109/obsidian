@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/javaInAction/스트림 처리 (Stream Processing).md",
+                "file": "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/javaInAction/스트림 처리 (Stream Processing).md",
+                "file": "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/javaInAction/스트림 처리 (Stream Processing).md",
+                "file": "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/javaInAction/스트림 처리 (Stream Processing).md"
+                "file": "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md"
               }
             }
           },
@@ -169,7 +169,7 @@
   },
   "active": "6f3da25d48975fbe",
   "lastOpenFiles": [
-    "Java/javaInAction/스트림 처리 (Stream Processing).md",
+    "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
     "Java/javaInAction/시작하기전.md",
     "무제 파일.md",
     "Java/javaInAction",
