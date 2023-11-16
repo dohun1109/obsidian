@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Multi Thread/멀티 스레드.md",
+                "file": "2023-11-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Multi Thread/멀티 스레드.md",
+                "file": "2023-11-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Multi Thread/멀티 스레드.md",
+                "file": "2023-11-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Multi Thread/멀티 스레드.md"
+                "file": "2023-11-16.md"
               }
             }
           },
@@ -168,9 +168,10 @@
   },
   "active": "d154e8e1fa269e88",
   "lastOpenFiles": [
+    "Java/Multi Thread/멀티 스레드.md",
+    "2023-11-16.md",
     "1. Daily/2023-11-15.md",
     "2023-11-15.md",
-    "Java/Multi Thread/멀티 스레드.md",
     "2023-11-14.md",
     "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
     "Java/Multi Thread",
@@ -195,7 +196,6 @@
     "무제 파일.md",
     "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md",
     "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
-    "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
     "Unity",
     "Attached file/스크린샷 2023-11-08 오전 10.39.16.png",
     "Attached file/스크린샷 2023-10-30 오후 7.56.00.png",
