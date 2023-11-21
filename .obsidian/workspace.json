@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-20.md",
+                "file": "2023-11-21.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-20.md",
+                "file": "2023-11-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-20.md",
+                "file": "2023-11-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-20.md"
+                "file": "2023-11-21.md"
               }
             }
           },
@@ -169,8 +169,9 @@
   },
   "active": "9f74d3c4d742a6bd",
   "lastOpenFiles": [
-    "Java/Multi Thread/멀티 스레드.md",
     "2023-11-20.md",
+    "2023-11-21.md",
+    "Java/Multi Thread/멀티 스레드.md",
     "1. Daily/2023-11-19.md",
     "2023-11-19.md",
     "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
@@ -197,7 +198,6 @@
     "1. Daily/2023-11-11.md",
     "Spring/김영한님 강의<인프런>/Sec 08. 빈 생명주기 콜백",
     "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/5. 조회 @Bean 이 2개 이상(문제).md",
-    "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/4. 롬복과 최신 트랜드.md",
     "Unity",
     "Attached file/스크린샷 2023-11-08 오전 10.39.16.png",
     "Attached file/스크린샷 2023-10-30 오후 7.56.00.png",
