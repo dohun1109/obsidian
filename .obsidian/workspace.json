@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-23.md",
+                "file": "WindowsServer/11월 23일.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-23.md",
+                "file": "WindowsServer/11월 23일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-23.md",
+                "file": "WindowsServer/11월 23일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-23.md"
+                "file": "WindowsServer/11월 23일.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "9f74d3c4d742a6bd",
   "lastOpenFiles": [
-    "WindowsServer/11월 2일(목).md",
     "2023-11-23.md",
+    "WindowsServer/11월 2일(목).md",
     "WindowsServer/11월 23일.md",
     "1. Daily/2023-11-23.md",
     "2023-11-21.md",
