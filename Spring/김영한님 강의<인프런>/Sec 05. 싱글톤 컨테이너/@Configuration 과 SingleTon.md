@@ -88,3 +88,4 @@ MemoryMemberRepository 가 2번 이상 생성되면서 싱글톤이 깨지는 �
 > - 크게 고민할 것이 없다. 스프링 설정 정보는 항상 '@Configuration' 을 사용하자 !!!!
 
 
+[[컴포넌]]

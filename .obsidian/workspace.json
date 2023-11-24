@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-24.md",
+                "file": "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-24.md",
+                "file": "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-24.md",
+                "file": "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-24.md"
+                "file": "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md"
               }
             }
           },
@@ -168,10 +168,14 @@
   },
   "active": "9f74d3c4d742a6bd",
   "lastOpenFiles": [
+    "SoftwareQA/명세 기반 기법.md",
+    "Obsidan/마크다운 사용법.md",
+    "Obsidan/옵시디언 사용법.md",
+    "WindowsServer/11월 9일 (목).md",
+    "WindowsServer/11월 2일(목).md",
     "WindowsServer/11월 23일.md",
     "2023-11-24.md",
     "2023-11-23.md",
-    "WindowsServer/11월 2일(목).md",
     "1. Daily/2023-11-23.md",
     "2023-11-21.md",
     "2023-11-20.md",
@@ -192,10 +196,6 @@
     "Java/Lambda/Lambda Expression.md",
     "1. Daily/2023-11-14.md",
     "1. Daily/2023-11-13.md",
-    "1. Daily/2023-11-07.md",
-    "2023-11-13.md",
-    "1. Daily/2023-11-08.md",
-    "1. Daily/2023-11-09.md",
     "Spring/김영한님 강의<인프런>/Sec 08. 빈 생명주기 콜백",
     "Unity",
     "Attached file/스크린샷 2023-11-08 오전 10.39.16.png",
