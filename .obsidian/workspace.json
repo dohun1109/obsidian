@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
+                "file": "2023-11-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#이렇게",
+                "query": "tag:#JAVA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
+                "file": "2023-11-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
+                "file": "2023-11-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md"
+                "file": "2023-11-25.md"
               }
             }
           },
@@ -168,6 +169,16 @@
   },
   "active": "9f74d3c4d742a6bd",
   "lastOpenFiles": [
+    "2023-11-25.md",
+    "Spring/김영한님 강의<인프런>/Sec 08. 빈 생명주기 콜백/빈 생명주기 콜백 시작.md",
+    "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/5. 조회 @Bean 이 2개 이상(문제).md",
+    "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/4. 롬복과 최신 트랜드.md",
+    "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/3. 생성자 주입을 선택해라!.md",
+    "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/2. 옵션 처리.md",
+    "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/1. 다양한 의존관계 주입 방법.md",
+    "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md",
+    "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
+    "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
     "SoftwareQA/명세 기반 기법.md",
     "Obsidan/마크다운 사용법.md",
     "Obsidan/옵시디언 사용법.md",
@@ -184,18 +195,8 @@
     "2023-11-19.md",
     "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
     "Java/javaInAction/시작하기전.md",
-    "무제 파일.md",
     "Java/javaInAction",
-    "1. Daily/2023-11-16.md",
-    "2023-11-16.md",
-    "1. Daily/2023-11-15.md",
-    "2023-11-15.md",
-    "2023-11-14.md",
-    "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
     "Java/Multi Thread",
-    "Java/Lambda/Lambda Expression.md",
-    "1. Daily/2023-11-14.md",
-    "1. Daily/2023-11-13.md",
     "Spring/김영한님 강의<인프런>/Sec 08. 빈 생명주기 콜백",
     "Unity",
     "Attached file/스크린샷 2023-11-08 오전 10.39.16.png",
