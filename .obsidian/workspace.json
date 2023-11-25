@@ -73,12 +73,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7244033226465e5a",
@@ -170,6 +170,7 @@
   "active": "9f74d3c4d742a6bd",
   "lastOpenFiles": [
     "2023-11-25.md",
+    "2023-11-23.md",
     "Spring/김영한님 강의<인프런>/Sec 08. 빈 생명주기 콜백/빈 생명주기 콜백 시작.md",
     "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/5. 조회 @Bean 이 2개 이상(문제).md",
     "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/4. 롬복과 최신 트랜드.md",
@@ -186,7 +187,6 @@
     "WindowsServer/11월 2일(목).md",
     "WindowsServer/11월 23일.md",
     "2023-11-24.md",
-    "2023-11-23.md",
     "1. Daily/2023-11-23.md",
     "2023-11-21.md",
     "2023-11-20.md",
