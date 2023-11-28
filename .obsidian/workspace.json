@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
+                "file": "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
+                "file": "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
+                "file": "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md"
+                "file": "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md"
               }
             }
           },
@@ -167,8 +167,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3ce2929c1dbbd6d2",
+  "active": "626231f543ad7cae",
   "lastOpenFiles": [
+    "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
     "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
     "2023-11-28.md",
     "Spring/김영한님 강의<인프런>/Sec 09 빈 스코프/빈스코프란?.md",
@@ -184,7 +185,6 @@
     "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/4. 롬복과 최신 트랜드.md",
     "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/3. 생성자 주입을 선택해라!.md",
     "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md",
-    "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
     "SoftwareQA/명세 기반 기법.md",
     "Obsidan/마크다운 사용법.md",
     "Obsidan/옵시디언 사용법.md",
