@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-30.md",
+                "file": "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-30.md",
+                "file": "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-30.md",
+                "file": "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-30.md"
+                "file": "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md"
               }
             }
           },
@@ -168,9 +168,9 @@
   },
   "active": "3ce2929c1dbbd6d2",
   "lastOpenFiles": [
-    "Spring/김영한님 강의<인프런>/무제 폴더",
-    "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/3. 생성자 주입을 선택해라!.md",
     "2023-11-30.md",
+    "Spring/김영한님 강의<인프런>/스프링 핵심원리",
+    "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/3. 생성자 주입을 선택해라!.md",
     "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/2. 옵션 처리.md",
     "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/1. 다양한 의존관계 주입 방법.md",
     "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md",
@@ -204,7 +204,6 @@
     "Day Planner",
     "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입",
     "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔",
-    "Spring/배워서 바로쓰는 스프링프레임워크/Chapter01-스프링 프레임워크 소개",
-    "Spring/배워서 바로쓰는 스프링프레임워크"
+    "Spring/배워서 바로쓰는 스프링프레임워크/Chapter01-스프링 프레임워크 소개"
   ]
 }
