@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ac5a885fa1414d30",
+        "id": "e16f977a3be32a27",
         "type": "tabs",
         "children": [
           {
-            "id": "626231f543ad7cae",
+            "id": "1cd1eef5790ba710",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -130,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "무제 파일.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,12 +158,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3ce2929c1dbbd6d2",
+  "active": "1cd1eef5790ba710",
   "lastOpenFiles": [
-    "Spring/김영한님 강의<인프런>/HTTP 웹 기본지식/인터넷과 네트워크",
-    "Spring/김영한님 강의<인프런>/HTTP 웹 기본지식",
     "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
     "무제 파일.md",
+    "Spring/김영한님 강의<인프런>/HTTP 웹 기본지식/인터넷과 네트워크",
+    "Spring/김영한님 강의<인프런>/HTTP 웹 기본지식",
     "2023-11-28.md",
     "2023-11-30.md",
     "Spring/김영한님 강의<인프런>/스프링 핵심원리",
@@ -202,7 +196,6 @@
     "Attached file/스크린샷 2023-11-08 오전 10.39.16.png",
     "Attached file/스크린샷 2023-10-30 오후 7.56.00.png",
     "Day Planner",
-    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 07. 의존관계 자동 주입",
-    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 06. 컴포넌트 스캔"
+    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 07. 의존관계 자동 주입"
   ]
 }
