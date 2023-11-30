@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
+                "file": "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -168,24 +166,26 @@
   },
   "active": "3ce2929c1dbbd6d2",
   "lastOpenFiles": [
+    "Spring/김영한님 강의<인프런>/HTTP 웹 기본지식/인터넷과 네트워크",
+    "Spring/김영한님 강의<인프런>/HTTP 웹 기본지식",
+    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
+    "무제 파일.md",
+    "2023-11-28.md",
     "2023-11-30.md",
     "Spring/김영한님 강의<인프런>/스프링 핵심원리",
-    "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/3. 생성자 주입을 선택해라!.md",
-    "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/2. 옵션 처리.md",
-    "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/1. 다양한 의존관계 주입 방법.md",
-    "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md",
-    "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
-    "Spring/김영한님 강의<인프런>/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
-    "2023-11-28.md",
-    "Spring/김영한님 강의<인프런>/Sec 09 빈 스코프/빈스코프란?.md",
+    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 07. 의존관계 자동 주입/3. 생성자 주입을 선택해라!.md",
+    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 07. 의존관계 자동 주입/2. 옵션 처리.md",
+    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 07. 의존관계 자동 주입/1. 다양한 의존관계 주입 방법.md",
+    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md",
+    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
+    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 09 빈 스코프/빈스코프란?.md",
     "2023-11-27.md",
     "2023-11-25.md",
-    "무제 파일.md",
-    "Spring/김영한님 강의<인프런>/Sec 08. 빈 생명주기 콜백/빈 생명주기 콜백 시작.md",
-    "Spring/김영한님 강의<인프런>/Sec 09 빈 스코프",
+    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 08. 빈 생명주기 콜백/빈 생명주기 콜백 시작.md",
+    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 09 빈 스코프",
     "2023-11-23.md",
-    "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/5. 조회 @Bean 이 2개 이상(문제).md",
-    "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입/4. 롬복과 최신 트랜드.md",
+    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 07. 의존관계 자동 주입/5. 조회 @Bean 이 2개 이상(문제).md",
+    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 07. 의존관계 자동 주입/4. 롬복과 최신 트랜드.md",
     "SoftwareQA/명세 기반 기법.md",
     "Obsidan/마크다운 사용법.md",
     "Obsidan/옵시디언 사용법.md",
@@ -197,13 +197,12 @@
     "2023-11-21.md",
     "Java/javaInAction",
     "Java/Multi Thread",
-    "Spring/김영한님 강의<인프런>/Sec 08. 빈 생명주기 콜백",
+    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 08. 빈 생명주기 콜백",
     "Unity",
     "Attached file/스크린샷 2023-11-08 오전 10.39.16.png",
     "Attached file/스크린샷 2023-10-30 오후 7.56.00.png",
     "Day Planner",
-    "Spring/김영한님 강의<인프런>/Sec 07. 의존관계 자동 주입",
-    "Spring/김영한님 강의<인프런>/Sec 06. 컴포넌트 스캔",
-    "Spring/배워서 바로쓰는 스프링프레임워크/Chapter01-스프링 프레임워크 소개"
+    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 07. 의존관계 자동 주입",
+    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 06. 컴포넌트 스캔"
   ]
 }
