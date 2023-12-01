@@ -12,3 +12,9 @@
 - URL : Uniform Resource Locator
 - URN : Uniform Resource Name 
 
+## URL, URN 
+- URL - Locator  : 리소스가 있는 위치를 지정
+- URN - Name : 리소스에 이름을 부여
+- 위치는 변할 수 있지만, 이름은 변하지 않는다. 
+- urn:isbn:8960777332 ( 어떤 책의 isbn URN)
+- URN 이름만으로 실제 리소스를 찾을수 있는 방법이 보편화 되지 않음 
