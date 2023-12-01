@@ -20,3 +20,7 @@
 - 현재 HTTP/1.1 주로 사용 
 	- HTTP/2, HTTP/3 도 점점 증가 
 
+# HTTP 특징 
+- 클라이언트 서버 구조 
+- 무상태 프로토콜(Stateless), 비연결성 
+- HTTP Message
