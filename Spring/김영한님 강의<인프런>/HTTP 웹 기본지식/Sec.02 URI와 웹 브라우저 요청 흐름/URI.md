@@ -18,3 +18,13 @@
 - 위치는 변할 수 있지만, 이름은 변하지 않는다. 
 - urn:isbn:8960777332 ( 어떤 책의 isbn URN)
 - URN 이름만으로 실제 리소스를 찾을수 있는 방법이 보편화 되지 않음 
+
+# URL 전체 문법 
+
+- scheme://[userinfo@]host[:port][/path][?query][#fagment]
+- https://www.google.com:443/search?q=hello&hl=ko
+
+- 프로토콜(https)
+- 호스트명(www.google.com)
+- 포트 번호(443)
+- 패스(/search
