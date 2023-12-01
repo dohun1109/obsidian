@@ -36,6 +36,7 @@
 
 - 주로 프로토콜 사용 
 - 프로토콜 : 어떤 방식으로 자원에 접근할 것인가 하는 약속 규칙 
-	- 예) http(80), http(443), ftp 등등
+	- 예) http(80), http(443), ftp(21)등등
 - http는 80포트, https는 443 포트를 주로사용, 포트는 생략가능
-- https 는 http에 보안 추가(HTTP Secure
+- https 는 http에 보안 추가(HTTP Secure)
+
