@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2023-12-02.md",
+                "file": "2023-12-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2023-12-02.md",
+                "file": "2023-12-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2023-12-02.md",
+                "file": "2023-12-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2023-12-02.md"
+                "file": "2023-12-02.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   "active": "96bfc4bd8ab95f8d",
   "lastOpenFiles": [
     "1. Daily/2023-12-02.md",
+    "2023-12-02.md",
     "1. Daily/2023-10-26.md",
     "1. Daily/2023-11-23.md",
     "1. Daily/2023-11-19.md",
@@ -187,7 +188,6 @@
     "1. Daily/2023-11-01.md",
     "1. Daily/2023-10-31.md",
     "Spring/김영한님 강의<인프런>/HTTP 웹 기본지식/Sec.03 HTTP 기본/모든 것이 HTTP.md",
-    "2023-12-02.md",
     "Spring/김영한님 강의<인프런>/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름/URI.md",
     "Spring/김영한님 강의<인프런>/HTTP 웹 기본지식/Sec.03 HTTP 기본",
     "Spring/김영한님 강의<인프런>/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름",
