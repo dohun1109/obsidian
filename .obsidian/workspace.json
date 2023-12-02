@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "83f9b1394f3745fe",
+        "id": "3375d441d2b42cd1",
         "type": "tabs",
         "children": [
           {
-            "id": "f04f8df0a989413d",
+            "id": "96bfc4bd8ab95f8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-02.md",
+                "file": "1. Daily/2023-12-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-02.md",
+                "file": "1. Daily/2023-12-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-02.md",
+                "file": "1. Daily/2023-12-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-02.md"
+                "file": "1. Daily/2023-12-02.md"
               }
             }
           },
@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,8 +166,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f04f8df0a989413d",
+  "active": "96bfc4bd8ab95f8d",
   "lastOpenFiles": [
+    "1. Daily/2023-12-02.md",
+    "1. Daily/2023-10-26.md",
+    "1. Daily/2023-11-23.md",
+    "1. Daily/2023-11-19.md",
+    "1. Daily/2023-11-16.md",
+    "1. Daily/2023-11-15.md",
+    "1. Daily/2023-11-14.md",
+    "1. Daily/2023-11-13.md",
+    "1. Daily/2023-11-11.md",
+    "1. Daily/2023-11-10.md",
+    "1. Daily/2023-11-09.md",
+    "1. Daily/2023-11-08.md",
+    "1. Daily/2023-11-07.md",
+    "1. Daily/2023-11-05.md",
+    "1. Daily/2023-11-06.md",
+    "1. Daily/2023-11-04.md",
+    "1. Daily/2023-11-01.md",
+    "1. Daily/2023-10-31.md",
     "Spring/김영한님 강의<인프런>/HTTP 웹 기본지식/Sec.03 HTTP 기본/모든 것이 HTTP.md",
     "2023-12-02.md",
     "Spring/김영한님 강의<인프런>/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름/URI.md",
@@ -181,26 +198,8 @@
     "Spring/김영한님 강의<인프런>/HTTP 웹 기본지식/Sec.01 인터넷 네트워크",
     "Spring/김영한님 강의<인프런>/HTTP 웹 기본지식",
     "2023-11-28.md",
-    "2023-11-30.md",
     "Spring/김영한님 강의<인프런>/스프링 핵심원리",
-    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 07. 의존관계 자동 주입/3. 생성자 주입을 선택해라!.md",
-    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 07. 의존관계 자동 주입/2. 옵션 처리.md",
-    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 07. 의존관계 자동 주입/1. 다양한 의존관계 주입 방법.md",
-    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md",
-    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
-    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 09 빈 스코프/빈스코프란?.md",
-    "2023-11-27.md",
-    "2023-11-25.md",
-    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 08. 빈 생명주기 콜백/빈 생명주기 콜백 시작.md",
     "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 09 빈 스코프",
-    "2023-11-23.md",
-    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 07. 의존관계 자동 주입/5. 조회 @Bean 이 2개 이상(문제).md",
-    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 07. 의존관계 자동 주입/4. 롬복과 최신 트랜드.md",
-    "SoftwareQA/명세 기반 기법.md",
-    "Obsidan/마크다운 사용법.md",
-    "Obsidan/옵시디언 사용법.md",
-    "WindowsServer/11월 9일 (목).md",
-    "WindowsServer/11월 2일(목).md",
     "Java/javaInAction",
     "Java/Multi Thread",
     "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 08. 빈 생명주기 콜백",
