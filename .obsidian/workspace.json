@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-02.md",
+                "file": "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본/모든 것이 HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-02.md",
+                "file": "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본/모든 것이 HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-02.md",
+                "file": "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본/모든 것이 HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-02.md"
+                "file": "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본/모든 것이 HTTP.md"
               }
             }
           },
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,16 +188,16 @@
     "1. Daily/2023-11-04.md",
     "1. Daily/2023-11-01.md",
     "1. Daily/2023-10-31.md",
-    "Spring/김영한님 강의<인프런>/HTTP 웹 기본지식/Sec.03 HTTP 기본/모든 것이 HTTP.md",
-    "Spring/김영한님 강의<인프런>/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름/URI.md",
-    "Spring/김영한님 강의<인프런>/HTTP 웹 기본지식/Sec.03 HTTP 기본",
-    "Spring/김영한님 강의<인프런>/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름",
-    "Spring/김영한님 강의<인프런>/HTTP 웹 기본지식/Sec.01 인터넷 네트워크/인터넷 통신.md",
+    "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본/모든 것이 HTTP.md",
+    "Spring/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름/URI.md",
+    "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본",
+    "Spring/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름",
+    "Spring/HTTP 웹 기본지식/Sec.01 인터넷 네트워크/인터넷 통신.md",
     "2023-12-01.md",
     "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 05. 싱글톤 컨테이너/@Configuration 과 SingleTon.md",
     "무제 파일.md",
-    "Spring/김영한님 강의<인프런>/HTTP 웹 기본지식/Sec.01 인터넷 네트워크",
-    "Spring/김영한님 강의<인프런>/HTTP 웹 기본지식",
+    "Spring/HTTP 웹 기본지식/Sec.01 인터넷 네트워크",
+    "Spring/HTTP 웹 기본지식",
     "2023-11-28.md",
     "Spring/김영한님 강의<인프런>/스프링 핵심원리",
     "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 09 빈 스코프",
