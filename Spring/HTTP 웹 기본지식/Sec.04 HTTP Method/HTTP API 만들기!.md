@@ -79,6 +79,8 @@ resource => 최근에는 Representation 으로 바뀜 .
 	- 클라이언트가 리소스위치르 알고 URI 지정.
 	- POST와 차이점 
 
+# PATCH 
+## 리소스 부분 변경 
 
 
 
