@@ -11,8 +11,12 @@
             "id": "a8f27ca362fc3920",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본/모든 것이 HTTP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본/모든 것이 HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본/모든 것이 HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본/모든 것이 HTTP.md"
+              }
             }
           },
           {
@@ -161,6 +169,7 @@
   },
   "active": "a8f27ca362fc3920",
   "lastOpenFiles": [
+    "2023-12-03.md",
     "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본/모든 것이 HTTP.md",
     "1. Daily/2023-12-02.md",
     "2023-12-02.md",
@@ -190,7 +199,6 @@
     "무제 파일.md",
     "Spring/HTTP 웹 기본지식/Sec.01 인터넷 네트워크",
     "Spring/HTTP 웹 기본지식",
-    "2023-11-28.md",
     "Spring/김영한님 강의<인프런>/스프링 핵심원리",
     "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 09 빈 스코프",
     "Java/javaInAction",
