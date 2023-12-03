@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3375d441d2b42cd1",
+        "id": "300a8c96a5989115",
         "type": "tabs",
         "children": [
           {
-            "id": "96bfc4bd8ab95f8d",
+            "id": "a8f27ca362fc3920",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본/모든 것이 HTTP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본/모든 것이 HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본/모든 것이 HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본/모든 것이 HTTP.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,8 +159,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "96bfc4bd8ab95f8d",
+  "active": "a8f27ca362fc3920",
   "lastOpenFiles": [
+    "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본/모든 것이 HTTP.md",
     "1. Daily/2023-12-02.md",
     "2023-12-02.md",
     "1. Daily/2023-10-26.md",
@@ -188,7 +181,6 @@
     "1. Daily/2023-11-04.md",
     "1. Daily/2023-11-01.md",
     "1. Daily/2023-10-31.md",
-    "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본/모든 것이 HTTP.md",
     "Spring/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름/URI.md",
     "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본",
     "Spring/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름",
