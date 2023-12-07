@@ -6,7 +6,12 @@
 	cd ../ : 현재 폴더의 상위 폴더로 이동 
 	mkdir <폴더 이름> : 현재 폴더의 아래에 새로운 폴더 생성 
 	echo "String" : 화면에 ""안에 문자을 표시 
+	echo "" > file.txt : file.txt 생성하고 파일내에 텍스트 작성
+	'' >> '' : 작성된 곳 아래에 내용 추가 
+	cat [파일명] : 파일 내용 뿌리기 
 ```
 
 git init -b main -> main 브랜치 초기화 및 git 저장소 생성 
 
+언스테이징 
+git reset [파일명]
