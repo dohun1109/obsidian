@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-07.md",
+                "file": "Git&Cloud/CLI 명령어 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-07.md",
+                "file": "Git&Cloud/CLI 명령어 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-07.md",
+                "file": "Git&Cloud/CLI 명령어 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-07.md"
+                "file": "Git&Cloud/CLI 명령어 정리.md"
               }
             }
           },
@@ -169,8 +169,10 @@
   },
   "active": "daefb91f0efbd6ba",
   "lastOpenFiles": [
-    "2023-12-06.md",
     "2023-12-07.md",
+    "Git&Cloud/CLI 명령어 정리.md",
+    "Git&Cloud",
+    "2023-12-06.md",
     "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method/HTTP API 만들기!.md",
     "무제 파일.md",
     "Spring/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름/URI.md",
@@ -195,7 +197,6 @@
     "1. Daily/2023-11-05.md",
     "1. Daily/2023-11-06.md",
     "1. Daily/2023-11-04.md",
-    "1. Daily/2023-11-01.md",
     "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본",
     "Spring/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름",
     "Spring/HTTP 웹 기본지식/Sec.01 인터넷 네트워크",
@@ -204,7 +205,6 @@
     "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 09 빈 스코프",
     "Java/javaInAction",
     "Java/Multi Thread",
-    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 08. 빈 생명주기 콜백",
     "Attached file/스크린샷 2023-11-08 오전 10.39.16.png",
     "Attached file/스크린샷 2023-10-30 오후 7.56.00.png"
   ]
