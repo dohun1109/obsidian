@@ -15,3 +15,13 @@ git init -b main -> main 브랜치 초기화 및 git 저장소 생성
 
 언스테이징 
 git reset [파일명]
+
+
+## git log 
+
+git log -n<숫자> 
+git log --oneline --graph --all --decorate 
+--oneline : 한줄로 
+--graph : 그래프 
+--all : HEAD와 관계없는것도 다보여줌 
+--decorate : 브랜치와 태그 참조를 간결하게 
