@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoftwareQA/ISTQB기출문제 정답.md",
+                "file": "SoftwareQA/1. 테스트 설계 기법.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SoftwareQA/ISTQB기출문제 정답.md",
+                "file": "SoftwareQA/1. 테스트 설계 기법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SoftwareQA/ISTQB기출문제 정답.md",
+                "file": "SoftwareQA/1. 테스트 설계 기법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoftwareQA/ISTQB기출문제 정답.md"
+                "file": "SoftwareQA/1. 테스트 설계 기법.md"
               }
             }
           },
@@ -167,10 +167,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a235a9b1befc5279",
+  "active": "3ce2929c1dbbd6d2",
   "lastOpenFiles": [
-    "SoftwareQA/1. 테스트 설계 기법.md",
     "SoftwareQA/ISTQB기출문제 정답.md",
+    "SoftwareQA/1. 테스트 설계 기법.md",
     "스크린샷 2023-12-09 오후 7.48.02.png",
     "스크린샷 2023-12-09 오후 5.54.43.png",
     "Attached file/스크린샷 2023-12-09 오후 5.50.39.png",
