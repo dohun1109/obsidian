@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.50390243530273,
-    "collapsed": true
+    "width": 241.50390243530273
   },
   "right": {
     "id": "7244033226465e5a",
@@ -167,7 +166,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3ce2929c1dbbd6d2",
+  "active": "a235a9b1befc5279",
   "lastOpenFiles": [
     "Attached file/스크린샷 2023-12-09 오후 5.05.55.png",
     "Attached file/스크린샷 2023-12-09 오후 3.09.20.png",
