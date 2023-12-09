@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "513626195724b5da",
+        "id": "89a1b0917ce28fb4",
         "type": "tabs",
         "children": [
           {
-            "id": "8860ced3d70aa494",
+            "id": "a235a9b1befc5279",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,14 +167,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8860ced3d70aa494",
+  "active": "a235a9b1befc5279",
   "lastOpenFiles": [
-    "스크린샷 2023-12-09 오후 3.03.47.png",
+    "Attached file/스크린샷 2023-12-09 오후 3.09.20.png",
+    "Attached file/스크린샷 2023-12-09 오후 3.08.30.png",
+    "SoftwareQA/테스트 관리.md",
+    "Attached file/스크린샷 2023-11-08 오전 10.39.16.png",
+    "Attached file/스크린샷 2023-10-30 오후 7.56.00.png",
+    "SoftwareQA/1. 테스트 설계 기법.md",
+    "Attached file/스크린샷 2023-12-09 오후 3.03.47.png",
     "Java/Multi Thread/멀티 스레드.md",
     "Java/Lambda/Lambda Expression.md",
     "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
     "Java/javaInAction/시작하기전.md",
-    "SoftwareQA/1. 테스트 설계 기법.md",
     "2023-12-06.md",
     "2023-12-09.md",
     "2023-12-07.md",
@@ -196,7 +201,6 @@
     "1. Daily/2023-11-15.md",
     "1. Daily/2023-11-14.md",
     "1. Daily/2023-11-13.md",
-    "1. Daily/2023-11-11.md",
     "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본",
     "Spring/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름",
     "Spring/HTTP 웹 기본지식/Sec.01 인터넷 네트워크",
@@ -204,8 +208,6 @@
     "Spring/김영한님 강의<인프런>/스프링 핵심원리",
     "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 09 빈 스코프",
     "Java/javaInAction",
-    "Java/Multi Thread",
-    "Attached file/스크린샷 2023-11-08 오전 10.39.16.png",
-    "Attached file/스크린샷 2023-10-30 오후 7.56.00.png"
+    "Java/Multi Thread"
   ]
 }
