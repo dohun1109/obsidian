@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "109eac5998065578",
+        "id": "513626195724b5da",
         "type": "tabs",
         "children": [
           {
-            "id": "daefb91f0efbd6ba",
+            "id": "8860ced3d70aa494",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-09.md",
+                "file": "SoftwareQA/1. 테스트 설계 기법.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-09.md",
+                "file": "SoftwareQA/1. 테스트 설계 기법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-09.md",
+                "file": "SoftwareQA/1. 테스트 설계 기법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-09.md"
+                "file": "SoftwareQA/1. 테스트 설계 기법.md"
               }
             }
           },
@@ -167,13 +167,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "daefb91f0efbd6ba",
+  "active": "8860ced3d70aa494",
   "lastOpenFiles": [
-    "2023-12-07.md",
+    "Java/Multi Thread/멀티 스레드.md",
+    "Java/Lambda/Lambda Expression.md",
+    "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
+    "Java/javaInAction/시작하기전.md",
+    "SoftwareQA/1. 테스트 설계 기법.md",
+    "2023-12-06.md",
     "2023-12-09.md",
+    "2023-12-07.md",
     "Git&Cloud/CLI 명령어 정리.md",
     "Git&Cloud",
-    "2023-12-06.md",
     "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method/HTTP API 만들기!.md",
     "무제 파일.md",
     "Spring/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름/URI.md",
@@ -192,11 +197,6 @@
     "1. Daily/2023-11-13.md",
     "1. Daily/2023-11-11.md",
     "1. Daily/2023-11-10.md",
-    "1. Daily/2023-11-09.md",
-    "1. Daily/2023-11-08.md",
-    "1. Daily/2023-11-07.md",
-    "1. Daily/2023-11-05.md",
-    "1. Daily/2023-11-06.md",
     "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본",
     "Spring/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름",
     "Spring/HTTP 웹 기본지식/Sec.01 인터넷 네트워크",
