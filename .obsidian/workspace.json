@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-07.md",
+                "file": "2023-12-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-07.md",
+                "file": "2023-12-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-07.md",
+                "file": "2023-12-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-07.md"
+                "file": "2023-12-09.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   "active": "daefb91f0efbd6ba",
   "lastOpenFiles": [
     "2023-12-07.md",
+    "2023-12-09.md",
     "Git&Cloud/CLI 명령어 정리.md",
     "Git&Cloud",
     "2023-12-06.md",
@@ -196,7 +197,6 @@
     "1. Daily/2023-11-07.md",
     "1. Daily/2023-11-05.md",
     "1. Daily/2023-11-06.md",
-    "1. Daily/2023-11-04.md",
     "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본",
     "Spring/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름",
     "Spring/HTTP 웹 기본지식/Sec.01 인터넷 네트워크",
