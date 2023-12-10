@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoftwareQA/ISTQB기출문제 정답.md",
+                "file": "2023-12-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SoftwareQA/ISTQB기출문제 정답.md",
+                "file": "2023-12-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SoftwareQA/ISTQB기출문제 정답.md",
+                "file": "2023-12-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SoftwareQA/ISTQB기출문제 정답.md"
+                "file": "2023-12-10.md"
               }
             }
           },
@@ -181,8 +181,9 @@
   },
   "active": "a235a9b1befc5279",
   "lastOpenFiles": [
-    "SoftwareQA/1. 테스트 설계 기법.md",
     "SoftwareQA/ISTQB기출문제 정답.md",
+    "2023-12-10.md",
+    "SoftwareQA/1. 테스트 설계 기법.md",
     "스크린샷 2023-12-09 오후 7.48.02.png",
     "스크린샷 2023-12-09 오후 5.54.43.png",
     "Attached file/스크린샷 2023-12-09 오후 5.50.39.png",
@@ -217,7 +218,6 @@
     "1. Daily/2023-11-16.md",
     "1. Daily/2023-11-15.md",
     "1. Daily/2023-11-14.md",
-    "1. Daily/2023-11-13.md",
     "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본",
     "Spring/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름",
     "Spring/HTTP 웹 기본지식/Sec.01 인터넷 네트워크",
