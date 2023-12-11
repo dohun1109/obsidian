@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fa967178dc857684",
+        "id": "f508041d86262928",
         "type": "tabs",
         "children": [
           {
-            "id": "4c2761a3ee48e30c",
+            "id": "5bf3bb5eec77f2cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-11.md",
+                "file": "SoftwareQA/Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-11.md",
+                "file": "SoftwareQA/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-11.md",
+                "file": "SoftwareQA/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-11.md"
+                "file": "SoftwareQA/Test.md"
               }
             }
           },
@@ -167,10 +167,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4c2761a3ee48e30c",
+  "active": "5bf3bb5eec77f2cd",
   "lastOpenFiles": [
-    "SoftwareQA/2. 테스트 관리.md",
+    "SoftwareQA/Test.md",
     "2023-12-11.md",
+    "SoftwareQA/2. 테스트 관리.md",
     "SoftwareQA/ISTQB기출문제 정답.md",
     "2023-12-10.md",
     "Attached file/스크린샷 2023-12-09 오후 5.54.43.png",
@@ -205,7 +206,6 @@
     "1. Daily/2023-10-26.md",
     "1. Daily/2023-11-23.md",
     "1. Daily/2023-11-19.md",
-    "1. Daily/2023-11-16.md",
     "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본",
     "Spring/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름",
     "Spring/HTTP 웹 기본지식/Sec.01 인터넷 네트워크",
