@@ -27,7 +27,15 @@
  > seaborn -> distplot()**
  
 	데이터 탐색  | 1. 정보 확인 : info()
-	데이터 탐색  | 2. 기술 통계 확인 : des
+	데이터 탐색  | 2. 기술 통계 확인 : describe(), unique(), value_counts()
+
+
+데이터 모델링 
+- 데이터를 두 그룹이로 비교 분석 
+	- 그룹별 기술 통계 분석 : describe()
+	- t-검정 : scipy
+
+
 
 
 
