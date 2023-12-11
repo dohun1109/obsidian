@@ -26,6 +26,11 @@
  > **matplotlib -> hist() 
  > seaborn -> distplot()**
  
+	데이터 탐색  | 1. 정보 확인 : info()
+	데이터 탐색  | 2. 기술 통계 확인 : des
+
+
+
 
 ---
 
