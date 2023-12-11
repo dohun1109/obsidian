@@ -26,15 +26,18 @@
  > **matplotlib -> hist() 
  > seaborn -> distplot()**
  
-	데이터 탐색  | 1. 정보 확인 : info()
-	데이터 탐색  | 2. 기술 통계 확인 : describe(), unique(), value_counts()
+데이터 탐색  
+-	 1. 정보 확인 : **info()**
+-	 2. 기술 통계 확인 : **describe(), unique(), value_counts()**
 
 
 데이터 모델링 
 - 데이터를 두 그룹이로 비교 분석 
-	- 그룹별 기술 통계 분석 : describe()
-	- t-검정 : scipy
-
+	- 그룹별 기술 통계 분석 : **describe()**
+	- t-검정 : scipy 패키지  **ttest_ind()**
+	- 회귀 분석 : statsmodels.formula.api 패키지의 **ols()**
+- 품질 등급 예측 
+	- 샘플을 독립 변수(x)로 지정 -> 회귀 분석 모델 적용 -> 종속 변수(y)인 품질 예측
 
 
 
