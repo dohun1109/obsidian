@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c78f1b00f899e3c8",
+        "id": "65e007da87f29e72",
         "type": "tabs",
         "children": [
           {
-            "id": "eb7d4ef91094ccae",
+            "id": "39ae162a6f4a9119",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-13.md",
+                "file": "Git&Cloud/기말고사 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-13.md",
+                "file": "Git&Cloud/기말고사 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-13.md",
+                "file": "Git&Cloud/기말고사 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-13.md"
+                "file": "Git&Cloud/기말고사 정리.md"
               }
             }
           },
@@ -167,12 +167,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "eb7d4ef91094ccae",
+  "active": "39ae162a6f4a9119",
   "lastOpenFiles": [
-    "BigData/FinalTest_Study.md",
-    "2023-12-13.md",
-    "BigData",
+    "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
+    "Git&Cloud/기말고사 정리.md",
     "2023-12-11.md",
+    "2023-12-13.md",
+    "BigData/FinalTest_Study.md",
+    "BigData",
     "SoftwareQA/Test.md",
     "SoftwareQA/2. 테스트 관리.md",
     "SoftwareQA/ISTQB기출문제 정답.md",
@@ -205,8 +207,6 @@
     "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method",
     "2023-12-03.md",
     "1. Daily/2023-12-02.md",
-    "2023-12-02.md",
-    "1. Daily/2023-10-26.md",
     "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본",
     "Spring/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름",
     "Spring/HTTP 웹 기본지식/Sec.01 인터넷 네트워크",
