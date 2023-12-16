@@ -11,8 +11,12 @@
             "id": "1116f278fe3defb9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2023-12-14.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-12-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-12-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023-12-14.md"
+              }
             }
           },
           {
@@ -160,8 +168,8 @@
   },
   "active": "1116f278fe3defb9",
   "lastOpenFiles": [
-    "WindowsServer/기말고사.md",
     "2023-12-14.md",
+    "WindowsServer/기말고사.md",
     "Git&Cloud/기말고사 정리.md",
     "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
     "2023-12-11.md",
