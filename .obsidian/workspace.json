@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d6b16832bde1e430",
+        "id": "7c28e54ada545119",
         "type": "tabs",
         "children": [
           {
-            "id": "1116f278fe3defb9",
+            "id": "ed9ca832565bdc8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-19.md",
+                "file": "2023-12-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-19.md",
+                "file": "2023-12-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-19.md",
+                "file": "2023-12-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-19.md"
+                "file": "2023-12-20.md"
               }
             }
           },
@@ -166,12 +166,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1116f278fe3defb9",
+  "active": "ed9ca832565bdc8c",
   "lastOpenFiles": [
-    "2023-12-17.md",
-    "2023-12-19.md",
-    "2023-12-16.md",
+    "Spring/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름/URI.md",
+    "2023-12-20.md",
+    "Spring/HTTP 웹 기본지식/Sec.01 인터넷 네트워크/인터넷 통신.md",
     "2023-12-14.md",
+    "2023-12-19.md",
+    "2023-12-17.md",
+    "2023-12-16.md",
     "WindowsServer/기말고사.md",
     "Git&Cloud/기말고사 정리.md",
     "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
@@ -201,10 +204,7 @@
     "2023-12-06.md",
     "2023-12-09.md",
     "2023-12-07.md",
-    "Git&Cloud/CLI 명령어 정리.md",
     "Git&Cloud",
-    "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method/HTTP API 만들기!.md",
-    "무제 파일.md",
     "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method",
     "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본",
     "Spring/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름",
