@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-21.md",
+                "file": "2023-12-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-21.md",
+                "file": "2023-12-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-21.md",
+                "file": "2023-12-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-21.md"
+                "file": "2023-12-24.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "ed9ca832565bdc8c",
   "lastOpenFiles": [
-    "2023-12-20.md",
     "2023-12-21.md",
+    "2023-12-24.md",
+    "2023-12-20.md",
     "Spring/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름/URI.md",
     "Spring/HTTP 웹 기본지식/Sec.01 인터넷 네트워크/인터넷 통신.md",
     "2023-12-14.md",
@@ -203,7 +204,6 @@
     "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
     "Java/javaInAction/시작하기전.md",
     "2023-12-06.md",
-    "2023-12-09.md",
     "Git&Cloud",
     "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method",
     "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본",
