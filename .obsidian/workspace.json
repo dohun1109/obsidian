@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "31f0dd731804b25a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-12-29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-27.md",
+                "file": "2023-12-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-27.md",
+                "file": "2023-12-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-27.md"
+                "file": "2023-12-29.md"
               }
             }
           },
@@ -166,8 +179,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ed9ca832565bdc8c",
+  "active": "31f0dd731804b25a",
   "lastOpenFiles": [
+    "2023-12-28.md",
+    "2023-12-29.md",
     "2023-12-24.md",
     "2023-12-27.md",
     "2023-12-21.md",
@@ -202,8 +217,6 @@
     "Attached file/스크린샷 2023-12-09 오후 3.03.47.png",
     "Java/Multi Thread/멀티 스레드.md",
     "Java/Lambda/Lambda Expression.md",
-    "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
-    "Java/javaInAction/시작하기전.md",
     "Git&Cloud",
     "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method",
     "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본",
