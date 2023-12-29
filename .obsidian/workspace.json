@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "60da09273454c4f7",
+        "id": "b964b4b1153fac87",
         "type": "tabs",
         "children": [
           {
-            "id": "9b078ab7abab9d43",
+            "id": "68ee67e8fe04d4b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-29.md",
+                "file": "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/클라이언트에서 서버로 데이터 전송.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.50390243530273
+    "width": 241.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "7244033226465e5a",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-29.md",
+                "file": "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/클라이언트에서 서버로 데이터 전송.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-29.md",
+                "file": "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/클라이언트에서 서버로 데이터 전송.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-29.md"
+                "file": "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/클라이언트에서 서버로 데이터 전송.md"
               }
             }
           },
@@ -166,8 +167,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9b078ab7abab9d43",
+  "active": "68ee67e8fe04d4b2",
   "lastOpenFiles": [
+    "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/클라이언트에서 서버로 데이터 전송.md",
+    "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method/HTTP API 만들기!.md",
+    "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용",
     "2023-12-29.md",
     "2023-12-27.md",
     "2023-12-28.md",
@@ -202,8 +206,6 @@
     "Attached file/스크린샷 2023-11-08 오전 10.39.16.png",
     "Attached file/스크린샷 2023-10-30 오후 7.56.00.png",
     "Attached file/스크린샷 2023-12-09 오후 3.03.47.png",
-    "Java/Multi Thread/멀티 스레드.md",
-    "Java/Lambda/Lambda Expression.md",
     "Git&Cloud",
     "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method",
     "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본",
@@ -211,7 +213,6 @@
     "Spring/HTTP 웹 기본지식/Sec.01 인터넷 네트워크",
     "Spring/HTTP 웹 기본지식",
     "Spring/김영한님 강의<인프런>/스프링 핵심원리",
-    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 09 빈 스코프",
-    "Java/javaInAction"
+    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 09 빈 스코프"
   ]
 }
