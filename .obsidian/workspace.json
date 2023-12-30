@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/클라이언트에서 서버로 데이터 전송.md",
+                "file": "2023-12-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/클라이언트에서 서버로 데이터 전송.md",
+                "file": "2023-12-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/클라이언트에서 서버로 데이터 전송.md",
+                "file": "2023-12-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/클라이언트에서 서버로 데이터 전송.md"
+                "file": "2023-12-30.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   "active": "68ee67e8fe04d4b2",
   "lastOpenFiles": [
     "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/클라이언트에서 서버로 데이터 전송.md",
+    "2023-12-30.md",
     "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method/HTTP API 만들기!.md",
     "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용",
     "2023-12-29.md",
@@ -202,7 +203,6 @@
     "Attached file/스크린샷 2023-12-09 오후 5.05.55.png",
     "Attached file/스크린샷 2023-12-09 오후 3.09.20.png",
     "Attached file/스크린샷 2023-12-09 오후 3.08.30.png",
-    "SoftwareQA/테스트 관리.md",
     "Attached file/스크린샷 2023-11-08 오전 10.39.16.png",
     "Attached file/스크린샷 2023-10-30 오후 7.56.00.png",
     "Attached file/스크린샷 2023-12-09 오후 3.03.47.png",
