@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
+                "file": "2024-01-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
+                "file": "2024-01-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
+                "file": "2024-01-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md"
+                "file": "2024-01-01.md"
               }
             }
           },
@@ -168,6 +168,8 @@
   },
   "active": "68ee67e8fe04d4b2",
   "lastOpenFiles": [
+    "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
+    "2024-01-01.md",
     "2023-12-29.md",
     "2023-12-30.md",
     "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/클라이언트에서 서버로 데이터 전송.md",
@@ -194,9 +196,7 @@
     "SoftwareQA/Test.md",
     "SoftwareQA/2. 테스트 관리.md",
     "SoftwareQA/ISTQB기출문제 정답.md",
-    "2023-12-10.md",
     "Attached file/스크린샷 2023-12-09 오후 5.54.43.png",
-    "SoftwareQA/1. 테스트 설계 기법.md",
     "Attached file/스크린샷 2023-12-09 오후 7.48.02.png",
     "Attached file/스크린샷 2023-12-09 오후 5.50.39.png",
     "Attached file/스크린샷 2023-12-09 오후 5.05.55.png",
