@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
+                "file": "2024-01-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
+                "file": "2024-01-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
+                "file": "2024-01-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md"
+                "file": "2024-01-03.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "c4061227df46968d",
   "lastOpenFiles": [
-    "2024-01-03.md",
     "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
+    "2024-01-03.md",
     "2024-01-01.md",
     "2023-12-29.md",
     "2023-12-30.md",
