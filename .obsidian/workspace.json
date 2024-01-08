@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-07.md",
+                "file": "2024-01-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-07.md",
+                "file": "2024-01-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-07.md",
+                "file": "2024-01-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-07.md"
+                "file": "2024-01-08.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   "active": "bce773280b6fcc80",
   "lastOpenFiles": [
     "2024-01-07.md",
+    "2024-01-08.md",
     "2024-01-05.md",
     "2024-01-03.md",
     "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
@@ -195,7 +196,6 @@
     "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
     "2023-12-11.md",
     "2023-12-13.md",
-    "BigData/FinalTest_Study.md",
     "BigData",
     "Attached file/스크린샷 2023-12-09 오후 5.54.43.png",
     "Attached file/스크린샷 2023-12-09 오후 7.48.02.png",
