@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/스프링 부트 핵심 가이드/개발에 앞서 알면 좋은 기초 지식.md",
+                "file": "2024-01-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/스프링 부트 핵심 가이드/개발에 앞서 알면 좋은 기초 지식.md",
+                "file": "2024-01-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/스프링 부트 핵심 가이드/개발에 앞서 알면 좋은 기초 지식.md",
+                "file": "2024-01-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/스프링 부트 핵심 가이드/개발에 앞서 알면 좋은 기초 지식.md"
+                "file": "2024-01-08.md"
               }
             }
           },
@@ -169,11 +169,11 @@
   },
   "active": "0e2e2a4764fc668a",
   "lastOpenFiles": [
-    "Spring/배워서 바로쓰는 스프링프레임워크/Chapter01-스프링 프레임워크 소개/2023년 11월 2일 (목).md",
     "Spring/스프링 부트 핵심 가이드/개발에 앞서 알면 좋은 기초 지식.md",
+    "2024-01-08.md",
+    "Spring/배워서 바로쓰는 스프링프레임워크/Chapter01-스프링 프레임워크 소개/2023년 11월 2일 (목).md",
     "Spring/스프링 부트 핵심 가이드",
     "2024-01-03.md",
-    "2024-01-08.md",
     "2024-01-07.md",
     "2024-01-05.md",
     "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
