@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1a9d7b0f1cad6501",
+        "id": "b22840618eb8c3f7",
         "type": "tabs",
         "children": [
           {
-            "id": "fe49d0663ade66c3",
+            "id": "d2ade7c313eef2ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "제네릭.md",
+                "file": "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "제네릭.md",
+                "file": "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "제네릭.md",
+                "file": "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "제네릭.md"
+                "file": "Java/Collection Framework/Java Collections Framework 종류 총정리.md"
               }
             }
           },
@@ -166,9 +166,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fe49d0663ade66c3",
+  "active": "d2ade7c313eef2ff",
   "lastOpenFiles": [
     "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
+    "Java/Java(기초지식)/제네릭(Generics).md",
+    "Java/Java(기초지식)/무제 파일.md",
+    "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
+    "Java/Java(기초지식)",
     "제네릭.md",
     "무제 파일.md",
     "무제 파일 1.md",
@@ -194,9 +198,6 @@
     "2023-12-21.md",
     "2023-12-20.md",
     "Spring/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름/URI.md",
-    "Spring/HTTP 웹 기본지식/Sec.01 인터넷 네트워크/인터넷 통신.md",
-    "2023-12-14.md",
-    "2023-12-19.md",
     "BigData",
     "Attached file/스크린샷 2023-12-09 오후 5.54.43.png",
     "Attached file/스크린샷 2023-12-09 오후 7.48.02.png",
@@ -211,7 +212,6 @@
     "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method",
     "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본",
     "Spring/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름",
-    "Spring/HTTP 웹 기본지식/Sec.01 인터넷 네트워크",
-    "Spring/HTTP 웹 기본지식"
+    "Spring/HTTP 웹 기본지식/Sec.01 인터넷 네트워크"
   ]
 }
