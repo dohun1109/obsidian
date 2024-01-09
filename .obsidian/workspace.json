@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
+                "file": "Java/Java(기초지식)/제네릭(Generics).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
+                "file": "Java/Java(기초지식)/제네릭(Generics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
+                "file": "Java/Java(기초지식)/제네릭(Generics).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md"
+                "file": "Java/Java(기초지식)/제네릭(Generics).md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "d2ade7c313eef2ff",
   "lastOpenFiles": [
-    "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
     "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
+    "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
     "Java/Java(기초지식)/제네릭(Generics).md",
     "Java/Java(기초지식)/무제 파일.md",
     "Java/Java(기초지식)",
