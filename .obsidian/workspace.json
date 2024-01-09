@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
+                "file": "제네릭.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
+                "file": "제네릭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
+                "file": "제네릭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md"
+                "file": "제네릭.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   "active": "fe49d0663ade66c3",
   "lastOpenFiles": [
     "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
+    "제네릭.md",
     "무제 파일.md",
     "무제 파일 1.md",
     "Java/JAVA(JVM)",
@@ -196,7 +197,6 @@
     "Spring/HTTP 웹 기본지식/Sec.01 인터넷 네트워크/인터넷 통신.md",
     "2023-12-14.md",
     "2023-12-19.md",
-    "2023-12-17.md",
     "BigData",
     "Attached file/스크린샷 2023-12-09 오후 5.54.43.png",
     "Attached file/스크린샷 2023-12-09 오후 7.48.02.png",
