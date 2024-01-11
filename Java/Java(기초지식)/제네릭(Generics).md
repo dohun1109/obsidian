@@ -82,7 +82,17 @@ List<Integer> intgerList = new List<>();
 
 	LinkedList<String> node2 = new LinkdedList<>();
 	node2.add("11");
-	node2.add("22)
+	node2.add("22");
+
+	list.add(node1);
+	list.add(node2);
+
+	System.out.pritln(list); //[[aa,bb],[11,22]]
 
  }
 ```
+
+
+## 타입 파라미터 기호 네이밍 
+지금 까지 제네릭 기호를 `<T>` 와 같이 써서 표현했지만 사실 식별자 기호는 문법적으로 정해진 것이 없다. 
+다만 우리가 for문을 이용할 때 루프 변수를 `i`로 지정해서 사용하듯이, 제네릭 표현 변수를 `T`로 표현한다고 보면 된다. 만일 두번째, 세번째 제네릭이 필요하다고 보면 for문의 `j`,`k`같이 S, U로 이어나간다 
