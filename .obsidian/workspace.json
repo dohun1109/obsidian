@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b22840618eb8c3f7",
+        "id": "db27aab12cf911e1",
         "type": "tabs",
         "children": [
           {
-            "id": "d2ade7c313eef2ff",
+            "id": "af38a7aa52fdc6cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-11.md",
+                "file": "Java/Lambda/Lambda Expression.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.50390243530273,
-    "collapsed": true
+    "width": 241.50390243530273
   },
   "right": {
     "id": "7244033226465e5a",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-11.md",
+                "file": "Java/Lambda/Lambda Expression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-11.md",
+                "file": "Java/Lambda/Lambda Expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-11.md"
+                "file": "Java/Lambda/Lambda Expression.md"
               }
             }
           },
@@ -167,13 +166,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d2ade7c313eef2ff",
+  "active": "af38a7aa52fdc6cf",
   "lastOpenFiles": [
+    "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
+    "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
+    "Java/Multi Thread/멀티 스레드.md",
+    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md",
+    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
     "Java/Java(기초지식)/제네릭(Generics).md",
     "2024-01-11.md",
     "무제 파일.md",
     "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
-    "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
     "Java/Java(기초지식)/무제 파일.md",
     "Java/Java(기초지식)",
     "제네릭.md",
@@ -187,7 +190,6 @@
     "2024-01-03.md",
     "2024-01-07.md",
     "2024-01-05.md",
-    "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
     "2024-01-01.md",
     "2023-12-29.md",
     "2023-12-30.md",
@@ -196,9 +198,6 @@
     "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용",
     "2023-12-27.md",
     "2023-12-28.md",
-    "2023-12-24.md",
-    "2023-12-21.md",
-    "2023-12-20.md",
     "BigData",
     "Attached file/스크린샷 2023-12-09 오후 5.54.43.png",
     "Attached file/스크린샷 2023-12-09 오후 7.48.02.png",
