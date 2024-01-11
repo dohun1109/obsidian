@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "db27aab12cf911e1",
+        "id": "b463301a43c7c84b",
         "type": "tabs",
         "children": [
           {
-            "id": "af38a7aa52fdc6cf",
+            "id": "131e7e35acd99cc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Lambda/Lambda Expression.md",
+                "file": "2024-01-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Lambda/Lambda Expression.md",
+                "file": "2024-01-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Lambda/Lambda Expression.md",
+                "file": "2024-01-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Lambda/Lambda Expression.md"
+                "file": "2024-01-11.md"
               }
             }
           },
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,8 +165,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "af38a7aa52fdc6cf",
+  "active": "131e7e35acd99cc2",
   "lastOpenFiles": [
+    "1. Daily/2024-01-11.md",
+    "Java/Lambda/Lambda Expression.md",
     "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
     "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
     "Java/Multi Thread/멀티 스레드.md",
@@ -196,8 +197,6 @@
     "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/클라이언트에서 서버로 데이터 전송.md",
     "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method/HTTP API 만들기!.md",
     "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용",
-    "2023-12-27.md",
-    "2023-12-28.md",
     "BigData",
     "Attached file/스크린샷 2023-12-09 오후 5.54.43.png",
     "Attached file/스크린샷 2023-12-09 오후 7.48.02.png",
