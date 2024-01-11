@@ -48,4 +48,17 @@
 
 
 ## 타입 파라미터 할당 가능 타입 
-제네릭에서 할당 받을 수 있는 타입은 `Reference Type` 뿐이다. 즉, int 형이나 double형 같은 Primitive Type 을 제네릭 타입 파라미터로 넘길 수 없다는 말이다.
+제네릭에서 할당 받을 수 있는 타입은 `Reference Type` 뿐이다. 즉, int 형이나 double형 같은 Primitive Type 을 제네릭 타입 파라미터로 넘길 수 없다는 말이다. 
+우리가 Wrapper Class 에 대해 공부할 때 이미 int, double 형이 존재하는데, 왜 굳이 똑같은 역활을 하는 `Integer, Double` 형 클래스를 만들어 놨을까 고민을 해본적이 있었을 것이다. 바로 이때 사용하는 것이라고 이해하면 된다. 
+OOP 에서는 모든것이 객체로 통신하기 때문에 번거롭더라도 익숙해 지어야 한다. 
+```java
+// 기본 타입 int는 사용불가 !!!!
+List<int> intList = new List<>();
+
+// Wrapper 클래스로 넘겨주어야 한다. (내부에서 자동으로 언박싱이 되어 원시 타입으로 이용됨)
+List<Integer> intgerList = new List<>();
+
+
+```
+
+ 또한 제네릭 타입 파라미터에 클래스가 ㅌ
