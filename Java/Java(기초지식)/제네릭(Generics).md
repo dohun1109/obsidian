@@ -70,4 +70,19 @@ List<Integer> intgerList = new List<>();
 
 ## 중첩 타입 파라미터 
  제네릭 객체를 제네릭 탕비 파라미터로 받는 형식도 표현할 수 있다. 
- ArrayList 자체도 하나의 타입으로써(Collection) 제네렉
+ ArrayList 자체도 하나의 타입으로써(Collection) 제네릭 타입 파라미터가 될 수 있기 때문에 이렇게 중첩형식으로 사용할 수 있는 것이다. 
+ ```java 
+ public static void main(String[] args){
+	 // LinkedList<String>을 원소로서 저장하는 ArrayList
+	ArrayList<LinkedList<String>> list = new ArrayList<LinkedList<String>>();
+
+	LinkedList<String> node1 = new LinkdedList<>():
+	node1.add("aa");
+	node1.add("bb");
+
+	LinkedList<String> node2 = new LinkdedList<>();
+	node2.add("11");
+	node2.add("22)
+
+ }
+```
