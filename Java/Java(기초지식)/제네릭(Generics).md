@@ -107,5 +107,7 @@ List<Integer> intgerList = new List<>();
 
 
 ---
+## 제네릭 사용 이유와 이점 
 
+### 1. 컴파일 타임에 타입 검사를 통해 예외 방지 
 
