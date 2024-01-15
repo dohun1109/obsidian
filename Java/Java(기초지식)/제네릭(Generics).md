@@ -143,3 +143,7 @@ List<Integer> intgerList = new List<>();
 	}
 	
 ```
+
+>[!WARNING] 런타임 에러(ClassCastException)
+>위 같이 실행시 ClassCastException 런타임 에러가 발생하게 된다. 객체를 가져올때 형변환도 잘 해주어 문제가 없는 것 같은데 무엇이 문제일까? 
+>원인은 간단하다. Apple 개
