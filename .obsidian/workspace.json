@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
+                "file": "Java/Java(기초지식)/제네릭(Generics).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
+                "file": "Java/Java(기초지식)/제네릭(Generics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
+                "file": "Java/Java(기초지식)/제네릭(Generics).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md"
+                "file": "Java/Java(기초지식)/제네릭(Generics).md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "a2cc58880a3d6e31",
   "lastOpenFiles": [
+    "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
     "Java/Java(기초지식)/제네릭(Generics).md",
     "README.md",
     "업캐스팅.md",
@@ -184,7 +185,6 @@
     "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md",
     "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
     "무제 파일.md",
-    "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
     "Java/Java(기초지식)/무제 파일.md",
     "Java/Java(기초지식)",
     "제네릭.md",
