@@ -208,7 +208,22 @@ public class main{
 위의 식과 차이점은 배열에 저장할 Sample 객체의 타입 파라미터를 `Integer`로 지정한다는 뜻이다. 즉, `new Sample<Integer>()` 인스턴스는 저장이 가능하며, `new Sample<String>()` 인스턴스는 저장이 불가능하다는 소리이다. 
 ```java 
 
-
+class Sample<T> { 
+}
+public class Main {
+    public static void main(String[] args) {
+    	// new Sample<Integer>() 인스턴스만 저장하는 배열을 나타냄
+        Sample<Integer>[] arr2 = new Sample[10]; 
+        
+        // 제네릭 타입을 생략해도 위에서 이미 정의했기 때문에 Integer 가 자동으로 추론됨
+        arr2[0] = new Sample<Integer>(); 
+        arr2[1] = new Sample<>();
+        
+        // ! Integer가 아닌 타입은 저장 불가능
+        arr2[2] = new Sample<String>();
+    }
+}
 ```
 
 
+## 제네릭 메서드 (제네릭 타입 파리미터 메서드 X)
