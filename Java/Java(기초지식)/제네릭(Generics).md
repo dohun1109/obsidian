@@ -168,6 +168,14 @@ List<Integer> intgerList = new List<>();
 			new Apple(),
 			new Apple()
 		};
-		FruitBox<Apple> box = new Frui
+		FruitBox<Apple> box = new FruitBox<>(arr);
+		Apple apple = (Apple) box.getFruit(0);
+		Banana banana = (Banana) box.getFruit(1);
 	}
 ```
+
+이 처럼 제네릭은 클래스나 메서드를 정의할 때 타입 파라미터로 객체의 서브 타입을 지정해줌으로써, 잘못된 타입이 사용될 수 있는 문제를 컴파일 과정에서 제거하여 개발을 용이하게 해준다. 
+
+## 불필요한 캐스팅을 없애 성능향상 
+
+위 코드에서 다시 배열요소를 ㄱ
