@@ -146,4 +146,6 @@ List<Integer> intgerList = new List<>();
 
 >[!WARNING] 런타임 에러(ClassCastException)
 >위 같이 실행시 ClassCastException 런타임 에러가 발생하게 된다. 객체를 가져올때 형변환도 잘 해주어 문제가 없는 것 같은데 무엇이 문제일까? 
->원인은 간단하다. Apple 개
+>원인은 간단하다. Apple 객체 타입의 배열을 FruitBox에 넣었는데, 개발자가 착각하고 Banana를 형변환(DownCasting)[형제간 casting 은 불가 자식A-> 부모A-> 자식A 만 가능] 하여 가져오려고 하였기 때문에 생긴 현사이다. 미리 코드에서 빨간줄로 알려줬으면 좋겠지만 보다시피 깨끗하다. **이와 같은 오류는 컴파일타임에 IDE에서 잡지 못함으로 매우 안좋은 오류이다. (런타임시 오류 발생)**
+
+위의 코드를 제네릭의 이용하여 변경하면 런타임시 발
