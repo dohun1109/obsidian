@@ -195,12 +195,16 @@ List<Integer> intgerList = new List<>();
 ```java 
 class Sample<T> {}
 
-public classs
-
-
-
+public class main{
+	public static void main(String[] args){
+		Sample<Integer>[] arr1 = new Sample<>[10];
+		//java: cannot create array with '<>'
+	}
+}
 
 ```
 
+하지만 제네릭 타입의 배열 선언은 허용된다. 
+위의 식과 차이점은 배열에 저장할 Sample 객체의 타입 파라미터를 `Integer`로 지정한다는 
 
 
