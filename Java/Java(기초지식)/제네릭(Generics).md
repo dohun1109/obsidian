@@ -128,6 +128,18 @@ List<Integer> intgerList = new List<>();
 			return fruit[index];
 		}
 	}
-	public static void main
+	public static void main(String[] args){
+		Apple[] arr = {
+			new Apple(),
+			new Apple()
+		};
+		FruitBox box = new FruitBox(arr);
+
+		Apple apple = (Apple)box.getFruit(0);
+		Banana banana = (Banana) box.getFruit(1);
+
+
+
+	}
 	
 ```
