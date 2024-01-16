@@ -316,4 +316,28 @@ public static void main(String[] args){
 ```
 
 ### 다중 타입 한정 
-만일 2개 이상의 타입을 동시에 상속(구현)한 경우로 타입 제한을 하고 싶다면, & 연산자를 이용하면 된다. 
+만일 2개 이상의 타입을 동시에 구현한 경우로 타입 제한을 하고 싶다면, & 연산자를 이용하면 된다. 즉, 해당 인터페이스들을 동시에 구현한 클래스가 제네릭 타입의 대상이 된다. 
+```java 
+interface Readable{}
+interface Closeable{}
+
+class BoxType implements Readable, Closeable{}
+
+class Box < T extends Readalbe & Closeable> {
+	List<T> list = new ArrayList<>();
+
+	public void add (T item){
+		list.add(item);
+	}
+}
+
+public static void main(String[] args){
+	// Readable 와 Closeab
+
+
+}
+
+
+
+
+```
