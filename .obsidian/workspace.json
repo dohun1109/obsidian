@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "97e4a8bb18c46ea9",
+        "id": "c81f7efbfd8dccb3",
         "type": "tabs",
         "children": [
           {
-            "id": "a2cc58880a3d6e31",
+            "id": "3d18e3dc395eab80",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,10 +167,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a2cc58880a3d6e31",
+  "active": "3d18e3dc395eab80",
   "lastOpenFiles": [
-    "무제 파일.md",
+    "2024-01-16.md",
     "Java/Java(기초지식)/제네릭(Generics).md",
+    "무제 파일.md",
     "무제 파일 1.md",
     "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
     "README.md",
@@ -198,7 +199,6 @@
     "Spring/스프링 부트 핵심 가이드",
     "2024-01-03.md",
     "2024-01-07.md",
-    "2024-01-05.md",
     "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용",
     "BigData",
     "Attached file/스크린샷 2023-12-09 오후 5.54.43.png",
