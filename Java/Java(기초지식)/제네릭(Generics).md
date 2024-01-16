@@ -332,12 +332,17 @@ class Box < T extends Readalbe & Closeable> {
 }
 
 public static void main(String[] args){
-	// Readable 와 Closeab
+	// Readable 와 Closeable 를 동시에 구현한 클래스만이 타입 할당이 가능하다.
+	Box<BoxType> box = new Box<>();
+
+	// 심지어 최상위 Object 클래스여도 할당 불가능하다 
+	Box<Object> box2 = new Box<>();   // Error
 
 
 }
 
-
-
-
 ```
+
+### 재귀적 타입 한정 
+재귀적 타입 한정이란 자기 자신이 들어간 표현식을 사용하여 타입 매개변수의 허용 범위를 한정시키는 것을 말한다. 실무에선 주로 Comparable 인터페이스와 함께 쓰인다. 
+예를 들어 다음과 같이 `< E extends Comparable<E>> ` 제네릭 E
