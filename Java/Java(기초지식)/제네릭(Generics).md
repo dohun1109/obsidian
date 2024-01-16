@@ -284,10 +284,12 @@ public class Main{
 		// 제네릭에 아무 타입이나 모두 할당이 가능 
 		Calculator<Number> cal1 = new Calculator<>();
 		Calculator<Object> cal2 = new Calculator<>();
-		Calculator<String> cal3 = new
-
+		Calculator<String> cal3 = new Calculator<>();
+		Calculator<Main> cal4 = new Calculator<>();
 	}
 }
-
-
 ```
+개발자의 의도로는 계산기 클래스의 제네릭 타입 파라미터로 Number 자료형만 들어오도록 하고 문자열이나 또 다른 클래스 자료형이 들어오면 안되게 하고 싶다고 한다. 그래서 나온 것이 **제한된 타입 매개변수(Bounded Type Parameter)** 이다. 
+
+## 타입 한정 키워드 extends 
+기본적인 용법은 < T extends \[ 제한 타입 \] > 이다. 제네릭 
