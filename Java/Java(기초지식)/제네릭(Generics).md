@@ -350,3 +350,5 @@ public static void main(String[] args){
 >Comparable 는 객체끼리 비교를 해야할 때 compareTo() 메서드를 오버라이딩 할 때 구현하는 인터페이스이다. 
 >자바에서 Integer, Double, String 등이 값이 비교가 된는 이유가 기본적으로 Comparable 을 구현하고 있기 때문이다. 
 
+### 제네릭 캐스팅 문제 
+배열과 같은 일반적인 변수 타입과 달리 제네릭 서브 타입간에는 형변환이 불가능하다. 심지어 대입된 타입이 Object 일지라도 말이다. 
