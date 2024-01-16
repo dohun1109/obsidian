@@ -271,3 +271,23 @@ class FruitBox<T> {
 제네릭에 타입을 지정해줌으로서 클래스의 타입을 컴파일 타임에 정하여 타입 예외에 대한 안정성을 확보하는 것은 좋지만 문제는 너무 자유롭다는 점이다. 
 예를 들어 다음 계산기 클래스가 있다고 하자. 정수, 실수 구분없이 모두 받을 수 있게 하기 위해 제네릭으로 클래스를 만들어 주었다. 하지만 단순히 `< T >` 로 지정하게 되면 숫자에 관련된 래퍼 클래스 뿐만 아니라 String 이나 다른 클래스들도 대입이 가능하다는 점이 문제이다. 
 
+```java 
+//숫자만 받아 계산하는 계산기 클래스 모듈 
+class Calculator<T> {
+	void add(T a, T b){}
+	void min(T a, T b){}
+	void mul(T a, T b){}
+	void div(T a, T b){}
+}
+public class Main{
+	public static void main(String[] args){
+		// 제네릭에 아무 타입이나 모두 할당이 가능 
+		Calculator<Number> cal1 = new Calculator<>();
+		Calculator<Object> cal2 = new Calculator<>();
+		Calculator<String> cal3 = new
+
+	}
+}
+
+
+```
