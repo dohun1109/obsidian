@@ -345,4 +345,9 @@ public static void main(String[] args){
 
 ### 재귀적 타입 한정 
 재귀적 타입 한정이란 자기 자신이 들어간 표현식을 사용하여 타입 매개변수의 허용 범위를 한정시키는 것을 말한다. 실무에선 주로 Comparable 인터페이스와 함께 쓰인다. 
-예를 들어 다음과 같이 `< E extends Comparable<E>> ` 제네릭 E
+예를 들어 다음과 같이 `< E extends Comparable<E>> ` 제네릭 E 의 타입 범위를 Comparable< E >로 한정한다는 E 를 중첩시킨 표현식을 사용할 수 있는데, 이 말은 '타입 E는 자기 자신을 서브타입으로 구현한 Comparable 구현체로 한정' 한다는 말이다. 
+>![TIP] Tip
+>Comparable 는 객체끼리 비교를 해야할 때 compareTo() 메서드를 오버라이딩 할 때 구현하는 인터페이스이다. 
+>자바에서 Integer, Double, String 등이 값이 비교가 된는 이유가 기본적으로 Comparable 을 구현하고 있기 때문이다. 
+
+
