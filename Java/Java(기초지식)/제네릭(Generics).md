@@ -303,5 +303,17 @@ extends 키워드 다음에 올 타입은 일반 클래스, 추상 클래스, �
 interface Redable{}
 
 //interface 를 구현하는 클래스 
-public c
+public class Student implements Readable {}
+
+// 인터페이스를 Readable를 구현한 클래스만 제네릭 가능 
+public class School < T extends Readable>{}
+
+public static void main(String[] args){
+	//타입 파라미터에 인터페이스를 구현한 클래스만이 올 수 있게 됨
+	School<Student> a = new School<Student>();
+}
+
 ```
+
+### 다중 타입 한정 
+만일 2개 이상의 타입을 동시에 상속(구현)한 경우로 타입 제한을 하고 싶다면, & 연산자를 이용하면 된다. 
