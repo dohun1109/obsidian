@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "20691a95af413116",
+        "id": "b877d09f0fbed50d",
         "type": "tabs",
         "children": [
           {
-            "id": "1544830c5f1e9a17",
+            "id": "05c1240c79b86d2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JAVA(JVM)/자바 제네릭 타입 소거 컴파일 과정.md",
+                "file": "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/JAVA(JVM)/자바 제네릭 타입 소거 컴파일 과정.md",
+                "file": "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/JAVA(JVM)/자바 제네릭 타입 소거 컴파일 과정.md",
+                "file": "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/JAVA(JVM)/자바 제네릭 타입 소거 컴파일 과정.md"
+                "file": "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md"
               }
             }
           },
@@ -167,15 +167,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1544830c5f1e9a17",
+  "active": "05c1240c79b86d2b",
   "lastOpenFiles": [
-    "Java/Java(기초지식)/제네릭(Generics).md",
+    "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
     "Java/JAVA(JVM)/자바 제네릭 타입 소거 컴파일 과정.md",
+    "Java/Java(기초지식)/제네릭(Generics).md",
     "2024-01-17.md",
     "무제 파일.md",
     "2024-01-16.md",
     "무제 파일 1.md",
-    "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
     "README.md",
     "업캐스팅.md",
     "2024-01-13.md",
