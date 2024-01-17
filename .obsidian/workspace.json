@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.50390243530273
+    "width": 241.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "7244033226465e5a",
@@ -158,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,6 +176,7 @@
   },
   "active": "7b598d7d52ceb8c7",
   "lastOpenFiles": [
+    "context.mdb",
     "무제 파일.md",
     "2024-01-17.md",
     "Obsidan/옵시디언 사용법.md",
@@ -202,7 +203,6 @@
     "Java/Multi Thread/멀티 스레드.md",
     "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md",
     "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
-    "Java/Java(기초지식)/자바 제네릭의 공변성 & 와일드 카드 완벽 이해.md",
     "Java/Java(기초지식)",
     "Java/JAVA(JVM)",
     "Spring/스프링 부트 핵심 가이드",
