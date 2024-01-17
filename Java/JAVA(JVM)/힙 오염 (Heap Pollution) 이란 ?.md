@@ -87,14 +87,16 @@ List<String> list1 = Collections.checkedList(new ArrayList<>, String.class);
 
 list1.add("홍길동");
 
-//
+// 로직 수행 ...
+Object obj = list1;
+// 로직 수행...
 
+List<Double> list2 = (List<Double>) obj;
+list2.add(1.0);
 
+System.out.println(list2);
 
-
-
-
-
-
-
+for(double n : list2){
+	System.out.println(n);
+}
 ```
