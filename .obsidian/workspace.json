@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java(기초지식)/제네릭(Generics).md",
+                "file": "2024-01-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java(기초지식)/제네릭(Generics).md",
+                "file": "2024-01-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java(기초지식)/제네릭(Generics).md",
+                "file": "2024-01-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java(기초지식)/제네릭(Generics).md"
+                "file": "2024-01-17.md"
               }
             }
           },
@@ -169,8 +169,9 @@
   },
   "active": "3d18e3dc395eab80",
   "lastOpenFiles": [
-    "무제 파일.md",
     "Java/Java(기초지식)/제네릭(Generics).md",
+    "2024-01-17.md",
+    "무제 파일.md",
     "2024-01-16.md",
     "무제 파일 1.md",
     "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
@@ -198,7 +199,6 @@
     "Spring/배워서 바로쓰는 스프링프레임워크/Chapter01-스프링 프레임워크 소개/2023년 11월 2일 (목).md",
     "Spring/스프링 부트 핵심 가이드",
     "2024-01-03.md",
-    "2024-01-07.md",
     "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용",
     "BigData",
     "Attached file/스크린샷 2023-12-09 오후 5.54.43.png",
