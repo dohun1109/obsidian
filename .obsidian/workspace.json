@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java(기초지식)/제네릭(Generics).md",
+                "file": "Java/Lambda/Lambda Expression.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java(기초지식)/제네릭(Generics).md",
+                "file": "Java/Lambda/Lambda Expression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java(기초지식)/제네릭(Generics).md",
+                "file": "Java/Lambda/Lambda Expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java(기초지식)/제네릭(Generics).md"
+                "file": "Java/Lambda/Lambda Expression.md"
               }
             }
           },
@@ -176,11 +176,15 @@
   },
   "active": "02479a24374f16ac",
   "lastOpenFiles": [
+    "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
+    "Java/javaInAction/시작하기전.md",
+    "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
+    "BigData/FinalTest_Study.md",
+    "Java/Java(기초지식)/제네릭(Generics).md",
     "2024-01-17.md",
     "Java/Java(기초지식)/자바 제네릭의 공변성 & 와일드 카드 완벽 이해.md",
     "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
     "Java/JAVA(JVM)/자바 제네릭 타입 소거 컴파일 과정.md",
-    "Java/Java(기초지식)/제네릭(Generics).md",
     "2024-01-16.md",
     "무제 파일 1.md",
     "README.md",
@@ -192,8 +196,6 @@
     "2024-01-11.md",
     "1. Daily/2024-01-11.md",
     "Java/Lambda/Lambda Expression.md",
-    "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
-    "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
     "Java/Multi Thread/멀티 스레드.md",
     "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md",
     "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
@@ -203,8 +205,6 @@
     "Java/JAVA(JVM)",
     "2024-01-09.md",
     "Spring/스프링 부트 핵심 가이드/개발에 앞서 알면 좋은 기초 지식.md",
-    "2024-01-08.md",
-    "Spring/배워서 바로쓰는 스프링프레임워크/Chapter01-스프링 프레임워크 소개/2023년 11월 2일 (목).md",
     "Spring/스프링 부트 핵심 가이드",
     "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용",
     "BigData",
