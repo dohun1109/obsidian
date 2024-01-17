@@ -15,5 +15,30 @@
 
 # 제네릭 힙 오염 과정 
 
-자바 제네릭 콛
+자바 제네릭 코드를 사용하면서 힙이 오염되는 상황은 다음 두가지가 있다. 
+1. 원시 타입과 매개변수 타입을 동시에 사용하는 경우 
+2. 확인되지 않는 형변환을 수행하는 경우 
+
+다음은 잘못된 자바의 제네릭 사용 로직의 예시이다. 코드를 실행해보면 ClassCastException 예외가 발생한다. 
+
+```java 
+ArrayList<String> list1 = new ArrayList<>();
+list1.add("홍길동");
+list1.add("임꺾정");
+
+// 로직 수행...
+Object obj = list1;
+// 로직 수행...
+
+ArrayList<Double> list2 = (ArrayList<Double>) obj;
+list2.add(1.0);
+list2.add(2.0);
+
+System.out.println(list2); // [홍길동, 임꺾정, 1.0, 2.0]
+
+for(double n : list2) {
+    System.out.println(n);
+}
+
+```
 
