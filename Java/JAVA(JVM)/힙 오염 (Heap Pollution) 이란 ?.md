@@ -59,4 +59,20 @@ for(double n : list2) {
 ` ArrayList<Double> list2 = (ArrayList<Double>) obj; `
 
 # 2. 제네릭 탕비 소거되면 결국 Object 
-컴파일 되면서 타입이 소거되면 결구 제네릭의 타입 파리미터들은 Object로 변환되거나 제거되게 된다. 따라서 위의 코드를 컴파일하게 되면 그대로 
+컴파일 되면서 타입이 소거되면 결구 제네릭의 타입 파리미터들은 Object로 변환되거나 제거되게 된다. 따라서 위의 코드를 컴파일하게 되면 그대로 raw type 이 되어버려 어느 타입의 데이터든 저장 할 수 있는 상태가  되기 때문에, 리스트에 문자열값과 소수값이 공존이 가능한 것이다.
+```java
+ArrayList list1 = new ArrayList();
+list1.add("홍길동");
+
+//로직 수행 ... 
+Object obj = list1;
+//로직 수행...
+
+ArrayList list2 = (ArrayList) obj;
+list2.add(1.0);
+
+System.out.println(list2); // [홍길동, ]
+
+
+
+```
