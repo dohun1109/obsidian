@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-17.md",
+                "file": "무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-17.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-17.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-17.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -154,11 +154,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,13 +169,15 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-planner:Timeline": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "7b598d7d52ceb8c7",
   "lastOpenFiles": [
+    "무제 파일.md",
+    "2024-01-17.md",
     "Obsidan/옵시디언 사용법.md",
     "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
     "1. Daily/2024-01-17.md",
@@ -183,7 +186,6 @@
     "Java/javaInAction/시작하기전.md",
     "BigData/FinalTest_Study.md",
     "Java/Java(기초지식)/제네릭(Generics).md",
-    "2024-01-17.md",
     "Java/Java(기초지식)/자바 제네릭의 공변성 & 와일드 카드 완벽 이해.md",
     "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
     "Java/JAVA(JVM)/자바 제네릭 타입 소거 컴파일 과정.md",
@@ -202,7 +204,6 @@
     "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 06. 컴포넌트 스캔/컴포넌트 스캔과 의존관계 자동 주입 시작하기.md",
     "Java/Java(기초지식)/자바 제네릭의 공변성 & 와일드 카드 완벽 이해.md",
     "Java/Java(기초지식)",
-    "제네릭.md",
     "Java/JAVA(JVM)",
     "Spring/스프링 부트 핵심 가이드",
     "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용",
