@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c81f7efbfd8dccb3",
+        "id": "d87bdb57e5649777",
         "type": "tabs",
         "children": [
           {
-            "id": "3d18e3dc395eab80",
+            "id": "6ffe60a83054fc9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-17.md",
+                "file": "Java/Java(기초지식)/제네릭(Generics).md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.50390243530273,
-    "collapsed": true
+    "width": 241.50390243530273
   },
   "right": {
     "id": "7244033226465e5a",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-17.md",
+                "file": "Java/Java(기초지식)/제네릭(Generics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-17.md",
+                "file": "Java/Java(기초지식)/제네릭(Generics).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-17.md"
+                "file": "Java/Java(기초지식)/제네릭(Generics).md"
               }
             }
           },
@@ -167,10 +166,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3d18e3dc395eab80",
+  "active": "6ffe60a83054fc9a",
   "lastOpenFiles": [
-    "Java/Java(기초지식)/제네릭(Generics).md",
+    "Java/JAVA(JVM)/자바 제네릭 타입 소거 컴파일 과정.md",
     "2024-01-17.md",
+    "Java/Java(기초지식)/제네릭(Generics).md",
     "무제 파일.md",
     "2024-01-16.md",
     "무제 파일 1.md",
@@ -198,7 +198,6 @@
     "2024-01-08.md",
     "Spring/배워서 바로쓰는 스프링프레임워크/Chapter01-스프링 프레임워크 소개/2023년 11월 2일 (목).md",
     "Spring/스프링 부트 핵심 가이드",
-    "2024-01-03.md",
     "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용",
     "BigData",
     "Attached file/스크린샷 2023-12-09 오후 5.54.43.png",
