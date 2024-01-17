@@ -71,8 +71,12 @@ Object obj = list1;
 ArrayList list2 = (ArrayList) obj;
 list2.add(1.0);
 
-System.out.println(list2); // [홍길동, ]
+System.out.println(list2); // [홍길동, 1.0]
 
 
 
 ```
+
+# 제네릭 힙 오염 방지책 
+그러면 결구 개발자가 한땀 한땀 따져가며 조심히 제네릭을 설계 하는 수 밖에 없고 컴파일러의 도움은 받을 수 없는 것일까 ? 
+이에 대해 자바에서는 Collections 클래스의 `checkList()`
