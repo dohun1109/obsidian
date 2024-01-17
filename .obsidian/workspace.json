@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java(기초지식)/자바 제네릭의 공변성 & 와일드 카드 완벽 이해.md",
+                "file": "Java/Java(기초지식)/제네릭(Generics).md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.50390243530273,
-    "collapsed": true
+    "width": 241.50390243530273
   },
   "right": {
     "id": "7244033226465e5a",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java(기초지식)/자바 제네릭의 공변성 & 와일드 카드 완벽 이해.md",
+                "file": "Java/Java(기초지식)/제네릭(Generics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java(기초지식)/자바 제네릭의 공변성 & 와일드 카드 완벽 이해.md",
+                "file": "Java/Java(기초지식)/제네릭(Generics).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java(기초지식)/자바 제네릭의 공변성 & 와일드 카드 완벽 이해.md"
+                "file": "Java/Java(기초지식)/제네릭(Generics).md"
               }
             }
           },
@@ -145,9 +144,17 @@
               "type": "timeline",
               "state": {}
             }
+          },
+          {
+            "id": "62e255ffe67d0a31",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -169,9 +176,9 @@
   },
   "active": "02479a24374f16ac",
   "lastOpenFiles": [
+    "2024-01-17.md",
     "Java/Java(기초지식)/자바 제네릭의 공변성 & 와일드 카드 완벽 이해.md",
     "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
-    "2024-01-17.md",
     "Java/JAVA(JVM)/자바 제네릭 타입 소거 컴파일 과정.md",
     "Java/Java(기초지식)/제네릭(Generics).md",
     "2024-01-16.md",
