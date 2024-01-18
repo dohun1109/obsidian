@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "2024-01-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "2024-01-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "2024-01-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "2024-01-19.md"
               }
             }
           },
@@ -170,14 +170,15 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-day-planner:Timeline": false,
-      "periodic-notes:Open today": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "7b598d7d52ceb8c7",
   "lastOpenFiles": [
-    "context.mdb",
     "무제 파일.md",
+    "2024-01-19.md",
+    "context.mdb",
     "2024-01-17.md",
     "Obsidan/옵시디언 사용법.md",
     "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
@@ -220,7 +221,6 @@
     "Git&Cloud",
     "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method",
     "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본",
-    "Spring/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름",
-    "Spring/HTTP 웹 기본지식/Sec.01 인터넷 네트워크"
+    "Spring/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름"
   ]
 }
