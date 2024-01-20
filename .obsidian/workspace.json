@@ -11,8 +11,12 @@
             "id": "2bbf0fe152c131e8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/JAVA(JVM)/자바 제네릭 타입 소거 컴파일 과정.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/JAVA(JVM)/자바 제네릭 타입 소거 컴파일 과정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/JAVA(JVM)/자바 제네릭 타입 소거 컴파일 과정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/JAVA(JVM)/자바 제네릭 타입 소거 컴파일 과정.md"
+              }
             }
           },
           {
@@ -168,9 +176,10 @@
   },
   "active": "2bbf0fe152c131e8",
   "lastOpenFiles": [
+    "Java/Java(기초지식)/제네릭(Generics).md",
+    "Java/JAVA(JVM)/자바 제네릭 타입 소거 컴파일 과정.md",
     "2024-01-20.md",
     "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
-    "Java/Java(기초지식)/제네릭(Generics).md",
     "Java/Java(기초지식)/자바 제네릭의 공변성 & 와일드 카드 완벽 이해.md",
     "2024-01-19.md",
     "context.mdb",
@@ -183,7 +192,6 @@
     "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
     "Java/javaInAction/시작하기전.md",
     "BigData/FinalTest_Study.md",
-    "Java/JAVA(JVM)/자바 제네릭 타입 소거 컴파일 과정.md",
     "2024-01-16.md",
     "무제 파일 1.md",
     "README.md",
