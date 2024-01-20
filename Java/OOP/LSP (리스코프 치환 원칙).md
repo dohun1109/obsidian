@@ -17,6 +17,22 @@
 void myData(){
 	// Collection 인터페이스 타입으로 변수 선언
 	Collection data = new LinkedList();
+	data = new HashSet();  
+	modify(data);   //method run
+}
+void modify(Collection data){
+	list.add(1);   // 인터페이스 구현 구조가 잘 잡혀있기 때문에 add 메서드 동작이 각기 자료형에 맞게 보장됨. 
 	
 }
+
+
 ```
+
+LSP 원칙 == 다형성을 지원하기위한 원칙 
+
+
+
+---
+
+# LSP 원칙 위반 예제와 수정하기
+ 리스코프 치환 원칙의 핵심은 **부모 클래스의 행동 규약을 자식 **
