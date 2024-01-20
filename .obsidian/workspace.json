@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JAVA(JVM)/자바 제네릭 타입 소거 컴파일 과정.md",
+                "file": "Java/Java(기초지식)/자바 제네릭의 공변성 & 와일드 카드 완벽 이해.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.50390243530273
+    "width": 241.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "7244033226465e5a",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/JAVA(JVM)/자바 제네릭 타입 소거 컴파일 과정.md",
+                "file": "Java/Java(기초지식)/자바 제네릭의 공변성 & 와일드 카드 완벽 이해.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/JAVA(JVM)/자바 제네릭 타입 소거 컴파일 과정.md",
+                "file": "Java/Java(기초지식)/자바 제네릭의 공변성 & 와일드 카드 완벽 이해.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/JAVA(JVM)/자바 제네릭 타입 소거 컴파일 과정.md"
+                "file": "Java/Java(기초지식)/자바 제네릭의 공변성 & 와일드 카드 완벽 이해.md"
               }
             }
           },
@@ -176,9 +177,9 @@
   },
   "active": "2bbf0fe152c131e8",
   "lastOpenFiles": [
+    "2024-01-20.md",
     "Java/Java(기초지식)/제네릭(Generics).md",
     "Java/JAVA(JVM)/자바 제네릭 타입 소거 컴파일 과정.md",
-    "2024-01-20.md",
     "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
     "Java/Java(기초지식)/자바 제네릭의 공변성 & 와일드 카드 완벽 이해.md",
     "2024-01-19.md",
