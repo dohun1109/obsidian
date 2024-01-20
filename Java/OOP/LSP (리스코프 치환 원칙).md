@@ -40,5 +40,30 @@ LSP 원칙 == 다형성을 지원하기위한 원칙
  자식 클래스가 오버라이딩을 잘못하는 경우는 크게 두 가지로 나뉜다. 
  첫번째는 **자식 클래스가 부모 클래스의 메소드 시그니처를 자기 멋대로 변경**하거나, 두번째는 **자식 클래스가 부모 클래스의 의도와 다르게 메소드를 오버라이딩** 하는 경우가 있다. 
 
-## 1. 자식의 잘못된 메소드 overrr
+## 1. 자식의 잘못된 method Overriding
+아래 코드처럼 Animal 클래스를 상속하는 Eagle 자식 클래스가 부모 클래스의 go() method를 자식 멋대로 코드를 재정의 한답시고 메소드 타입을 바꾸고 매개변수 갯수도 바꿔버렸다. 
+
+한마디로 어느 메소드를 부모가 아닌 자식 클래스에서 오버로딩을 해버렸기 때문에 발생한 원칙 위반행위 이다. (그리고 애초이 이코드는 작동하지 않는다. )
+```java
+class Animal {
+    int speed = 100;
+    int go(int distance) {
+        return speed * distance;
+    }
+}
+class Eagle extends Animal {
+    String go(int distance, boolean flying) {
+        if (flying)
+            return distance + "만큼 날아서 갔습니다.";
+        else
+            return distance + "만큼 걸어서 갔습니다.";
+    }
+}
+public class Main {
+    public static void main(String[] args) {
+        Animal eagle = new Eagle();
+        eagle.go(10, true);
+    }
+}
+```
 
