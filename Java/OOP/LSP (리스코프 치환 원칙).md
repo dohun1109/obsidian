@@ -67,3 +67,34 @@ public class Main {
 }
 ```
 
+## 부모의 의도와 다르게 메소드 오버라이딩 
+다음과 같이 Animal 클래스와 이를 상속하는 Cat 클래스가 있고, 이 동물이 포유류, 영장류, 파충류인지 출력해주는 NautralType 클래스가 있다. 
+```java 
+class NaturalType {
+    String type;
+    NaturalType(Animal animal) {
+        // 생성자로 동물 이름이 들어오면, 정규표현식으로 매칭된 동물 타입을 설정한다.
+        if(animal instanceof Cat) {
+            type = "포유류";
+        } else {
+            // ...
+        }
+    }
+
+    String print() {
+        return "이 동물의 종류는 " + type + " 입니다.";
+    }
+}
+
+class Animal {
+
+    NaturalType getType() {
+        NaturalType n = new NaturalType(this);
+        return n;
+    }
+}
+
+class Cat extends Animal {
+}
+```
+
