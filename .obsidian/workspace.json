@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java(기초지식)/자바 제네릭의 공변성 & 와일드 카드 완벽 이해.md",
+                "file": "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.50390243530273,
-    "collapsed": true
+    "width": 241.50390243530273
   },
   "right": {
     "id": "7244033226465e5a",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java(기초지식)/자바 제네릭의 공변성 & 와일드 카드 완벽 이해.md",
+                "file": "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java(기초지식)/자바 제네릭의 공변성 & 와일드 카드 완벽 이해.md",
+                "file": "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java(기초지식)/자바 제네릭의 공변성 & 와일드 카드 완벽 이해.md"
+                "file": "Java/Collection Framework/Java Collections Framework 종류 총정리.md"
               }
             }
           },
@@ -175,13 +174,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2bbf0fe152c131e8",
+  "active": "3ce2929c1dbbd6d2",
   "lastOpenFiles": [
+    "Java/무제 폴더",
+    "Java/Java(기초지식)/자바 제네릭의 공변성 & 와일드 카드 완벽 이해.md",
     "2024-01-20.md",
     "Java/Java(기초지식)/제네릭(Generics).md",
     "Java/JAVA(JVM)/자바 제네릭 타입 소거 컴파일 과정.md",
     "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
-    "Java/Java(기초지식)/자바 제네릭의 공변성 & 와일드 카드 완벽 이해.md",
     "2024-01-19.md",
     "context.mdb",
     "무제 파일.md",
@@ -204,7 +204,6 @@
     "2024-01-11.md",
     "1. Daily/2024-01-11.md",
     "Java/Multi Thread/멀티 스레드.md",
-    "Spring/김영한님 강의<인프런>/스프링 핵심원리/Sec 06. 컴포넌트 스캔/탐색위치와 기본 스캔 대상.md",
     "Java/Java(기초지식)",
     "Java/JAVA(JVM)",
     "Spring/스프링 부트 핵심 가이드",
