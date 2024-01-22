@@ -54,3 +54,6 @@ STACK , HEAP, DATA, TEXT
 - .BSS : 초기값 없는 전역 변수, static 변수가 저장
 - .rodata : const같은 상수 키워드 선언 된 변수나 문자열 상수가 저장
 
+스택 영역 (Stack) : 지역 변수와 같은 호출한 함수가 종료되면 되돌아올 임시적인 자료를 저장하는 독립적인 공간이다. Stack은 함수의 호출과 함께 할당되며, 함수의 호출이 완료되면 소멸한다. 만일 stack 영역을 초과하면 stack overflow 가 발생 
+
+힙 영역 (Heap) : 생
