@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/OOP/LSP (리스코프 치환 원칙).md",
+                "file": "2024-01-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/OOP/LSP (리스코프 치환 원칙).md",
+                "file": "2024-01-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/OOP/LSP (리스코프 치환 원칙).md",
+                "file": "2024-01-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/OOP/LSP (리스코프 치환 원칙).md"
+                "file": "2024-01-22.md"
               }
             }
           },
@@ -176,9 +176,10 @@
   },
   "active": "04d18e736e537658",
   "lastOpenFiles": [
+    "Java/OOP/LSP (리스코프 치환 원칙).md",
+    "2024-01-22.md",
     "Java/Java(기초지식)/자바 제네릭의 공변성 & 와일드 카드 완벽 이해.md",
     "리스코프 치환 원칙.md",
-    "Java/OOP/LSP (리스코프 치환 원칙).md",
     "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
     "Java/OOP",
     "2024-01-20.md",
@@ -204,7 +205,6 @@
     "2024-01-14.md",
     "Attached file/스크린샷 2024-01-11 오후 5.24.18.png",
     "2024-01-11.md",
-    "1. Daily/2024-01-11.md",
     "Java/Java(기초지식)",
     "Java/JAVA(JVM)",
     "Spring/스프링 부트 핵심 가이드",
