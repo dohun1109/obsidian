@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-22.md",
+                "file": "Java/OOP/LSP (리스코프 치환 원칙).md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.50390243530273
+    "width": 241.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "7244033226465e5a",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-22.md",
+                "file": "Java/OOP/LSP (리스코프 치환 원칙).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-22.md",
+                "file": "Java/OOP/LSP (리스코프 치환 원칙).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-22.md"
+                "file": "Java/OOP/LSP (리스코프 치환 원칙).md"
               }
             }
           },
@@ -176,9 +177,9 @@
   },
   "active": "04d18e736e537658",
   "lastOpenFiles": [
-    "Java/OOP/LSP (리스코프 치환 원칙).md",
-    "2024-01-22.md",
     "Java/Java(기초지식)/자바 제네릭의 공변성 & 와일드 카드 완벽 이해.md",
+    "2024-01-22.md",
+    "Java/OOP/LSP (리스코프 치환 원칙).md",
     "리스코프 치환 원칙.md",
     "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
     "Java/OOP",
