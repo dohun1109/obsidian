@@ -28,3 +28,4 @@ import java.util.*;
 	- 생성자 ( constructor) : 생성된 객체를 초기화 
 	- 메서드(method) : 객체의 동작을 실행 
 	- 내부 클래스 (Inner class) : 클래스나 인터페이스의  내부에 선언
+# 메인 메소드 블록 
