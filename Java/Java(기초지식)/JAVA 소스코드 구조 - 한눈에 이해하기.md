@@ -25,4 +25,6 @@ import java.util.*;
 - pubilc class 는 반드시 클래스 파일 내 하나의 클래스만 존재할 수 있다. 
 - 클래스의 구성은 필드 , 생성자, 메서드, 내부 클래스가 있다. 
 	- 필드 ( field ) : 객체의 데이터를 저장
-	- 생성자 ( constructor) : 
+	- 생성자 ( constructor) : 생성된 객체를 초기화 
+	- 메서드(method) : 객체의 동작을 실행 
+	- 내부 클래스 (Inner class) : 클래스나 인터페이스의  내부에 선언
