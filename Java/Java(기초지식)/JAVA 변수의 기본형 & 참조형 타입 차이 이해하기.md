@@ -3,7 +3,7 @@
 
 ---
 ## 기본형 타입 (Primitive Type)
-기본형 타입에는 크게 논리형 (boolean), 문자형 (char), 정수형 (byte, short, int, long) 실수형 (float, double) 으로 나뉜다. 
+기본형 타입에는 크게 논리형 (boolean), (문자, 정수)형 (char), 정수형 (byte, short, int, long) 실수형 (float, double) 으로 나뉜다. 
 
 **특징** 
 - 변수의 선언과 동시에 메모리 생성 
@@ -21,5 +21,10 @@ double : 8byte
 char : 2byte( 유니코드)
 
 ## long type < float type  ?  true or false 
+-> True 
 
+
+---
+## 참조형 타입 (Reference Type)
+참조형 타입은 간단히 말하면, 위의 8가지 자료형 
 
