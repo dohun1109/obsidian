@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "277351ac14a4304e",
+        "id": "d87190c0c4b24294",
         "type": "tabs",
         "children": [
           {
-            "id": "92a7ed0fe3207803",
+            "id": "1e601d5fcd660229",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-25.md",
+                "file": "2024-01-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-25.md",
+                "file": "2024-01-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-25.md",
+                "file": "2024-01-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-25.md"
+                "file": "2024-01-26.md"
               }
             }
           },
@@ -174,12 +174,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "92a7ed0fe3207803",
+  "active": "1e601d5fcd660229",
   "lastOpenFiles": [
-    "Java/Java(기초지식)/JAVA 기본 자료형 & 데이터 타입 -한눈에 정리.md",
-    "2024-01-25.md",
-    "Java/Java(기초지식)/JAVA 변수의 기본형 & 참조형 타입 차이 이해하기.md",
+    "2024-01-26.md",
+    "Java/Multi Thread/멀티 스레드.md",
+    "Java/Lambda/Lambda Expression.md",
     "Java/Java(기초지식)/JAVA 소스코드 구조 - 한눈에 이해하기.md",
+    "2024-01-25.md",
+    "Java/Java(기초지식)/JAVA 기본 자료형 & 데이터 타입 -한눈에 정리.md",
+    "Java/Java(기초지식)/JAVA 변수의 기본형 & 참조형 타입 차이 이해하기.md",
     "2024-01-23.md",
     "2024-01-24.md",
     "BigData/FinalTest_Study.md",
@@ -201,10 +204,7 @@
     "2024-01-17.md",
     "Obsidan/옵시디언 사용법.md",
     "1. Daily/2024-01-17.md",
-    "Java/Lambda/Lambda Expression.md",
     "Java/javaInAction/자바8 의 멀티코어 병렬성을 강화시킨 3가지 개념.md",
-    "Java/javaInAction/시작하기전.md",
-    "2024-01-16.md",
     "Attached file/스크린샷 2024-01-11 오후 5.24.18.png",
     "Java/Java(기초지식)",
     "Java/JAVA(JVM)",
