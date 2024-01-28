@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-28.md",
+                "file": "Spring/HTTP 웹 기본지식/HTTP 응답 상태 코드 대역 별 의미.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-28.md",
+                "file": "Spring/HTTP 웹 기본지식/HTTP 응답 상태 코드 대역 별 의미.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-28.md",
+                "file": "Spring/HTTP 웹 기본지식/HTTP 응답 상태 코드 대역 별 의미.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-28.md"
+                "file": "Spring/HTTP 웹 기본지식/HTTP 응답 상태 코드 대역 별 의미.md"
               }
             }
           },
@@ -176,8 +176,9 @@
   },
   "active": "55ccfb014aaf5efd",
   "lastOpenFiles": [
-    "Java/Java(기초지식)/자바 객체 지향(OOP) 클래스 문법 -한방가이드.md",
     "2024-01-28.md",
+    "Spring/HTTP 웹 기본지식/HTTP 응답 상태 코드 대역 별 의미.md",
+    "Java/Java(기초지식)/자바 객체 지향(OOP) 클래스 문법 -한방가이드.md",
     "2024-01-26.md",
     "Java/Multi Thread/멀티 스레드.md",
     "Java/Lambda/Lambda Expression.md",
@@ -204,7 +205,6 @@
     "2024-01-19.md",
     "context.mdb",
     "2024-01-17.md",
-    "Obsidan/옵시디언 사용법.md",
     "Attached file/스크린샷 2024-01-11 오후 5.24.18.png",
     "Java/Java(기초지식)",
     "Java/JAVA(JVM)",
