@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-30.md",
+                "file": "2024-02-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-30.md",
+                "file": "2024-02-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-30.md",
+                "file": "2024-02-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-30.md"
+                "file": "2024-02-01.md"
               }
             }
           },
@@ -176,8 +176,9 @@
   },
   "active": "55ccfb014aaf5efd",
   "lastOpenFiles": [
-    "2024-01-29.md",
     "2024-01-30.md",
+    "2024-02-01.md",
+    "2024-01-29.md",
     "Spring/HTTP 웹 기본지식/HTTP 응답 상태 코드 대역 별 의미.md",
     "2024-01-28.md",
     "Java/Java(기초지식)/자바 객체 지향(OOP) 클래스 문법 -한방가이드.md",
@@ -203,7 +204,6 @@
     "Java/OOP",
     "Java/Java(기초지식)/제네릭(Generics).md",
     "Java/JAVA(JVM)/자바 제네릭 타입 소거 컴파일 과정.md",
-    "Java/JAVA(JVM)/힙 오염 (Heap Pollution) 이란 ?.md",
     "context.mdb",
     "Attached file/스크린샷 2024-01-11 오후 5.24.18.png",
     "Java/Java(기초지식)",
