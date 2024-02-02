@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-01.md",
+                "file": "Spring/이것이 백엔드 개발이다/레이어드 아키텍처.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.50390243530273
+    "width": 241.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "7244033226465e5a",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-02-01.md",
+                "file": "Spring/이것이 백엔드 개발이다/레이어드 아키텍처.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-02-01.md",
+                "file": "Spring/이것이 백엔드 개발이다/레이어드 아키텍처.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-02-01.md"
+                "file": "Spring/이것이 백엔드 개발이다/레이어드 아키텍처.md"
               }
             }
           },
@@ -176,7 +177,13 @@
   },
   "active": "55ccfb014aaf5efd",
   "lastOpenFiles": [
+    "무제 파일.md",
+    "Spring/이것이 백엔드 개발이다/레이어드 아키텍처.md",
+    "Spring/배워서 바로쓰는 스프링프레임워크/Chapter01-스프링 프레임워크 소개/2023년 11월 2일 (목).md",
+    "Spring/이것이 백엔드 개발이다",
+    "Java/무제 파일.md",
     "2024-02-01.md",
+    "2024-02-02.md",
     "2024-01-28.md",
     "2024-01-30.md",
     "2024-01-29.md",
@@ -194,16 +201,11 @@
     "BigData/FinalTest_Study.md",
     "Java/CS지식/Process & Thread.md",
     "2024-01-20.md",
-    "무제 파일.md",
     "Java/OOP/LSP (리스코프 치환 원칙).md",
     "Java/CS지식",
     "Java/Java(기초지식)/자바 제네릭의 공변성 & 와일드 카드 완벽 이해.md",
     "2024-01-22.md",
-    "리스코프 치환 원칙.md",
-    "Java/Collection Framework/Java Collections Framework 종류 총정리.md",
     "Java/OOP",
-    "Java/Java(기초지식)/제네릭(Generics).md",
-    "Java/JAVA(JVM)/자바 제네릭 타입 소거 컴파일 과정.md",
     "context.mdb",
     "Attached file/스크린샷 2024-01-11 오후 5.24.18.png",
     "Java/Java(기초지식)",
@@ -220,7 +222,6 @@
     "Attached file/스크린샷 2023-11-08 오전 10.39.16.png",
     "Attached file/스크린샷 2023-10-30 오후 7.56.00.png",
     "Attached file/스크린샷 2023-12-09 오후 3.03.47.png",
-    "Git&Cloud",
-    "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method"
+    "Git&Cloud"
   ]
 }
