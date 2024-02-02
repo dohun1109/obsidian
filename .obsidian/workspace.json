@@ -11,8 +11,12 @@
             "id": "55ccfb014aaf5efd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-02-01.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-02-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-02-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-02-01.md"
+              }
             }
           },
           {
@@ -168,8 +176,8 @@
   },
   "active": "55ccfb014aaf5efd",
   "lastOpenFiles": [
-    "2024-01-28.md",
     "2024-02-01.md",
+    "2024-01-28.md",
     "2024-01-30.md",
     "2024-01-29.md",
     "Spring/HTTP 웹 기본지식/HTTP 응답 상태 코드 대역 별 의미.md",
