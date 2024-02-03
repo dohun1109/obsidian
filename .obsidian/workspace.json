@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "844959eb1d3f779e",
+        "id": "d378b247c6c9ebb6",
         "type": "tabs",
         "children": [
           {
-            "id": "55ccfb014aaf5efd",
+            "id": "859549093bbe3528",
+            "type": "leaf",
+            "state": {
+              "type": "weekly",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2e877643fd0e10b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/이것이 백엔드 개발이다/레이어드 아키텍처.md",
+                "file": "1. Daily/2024-02-04.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.50390243530273,
-    "collapsed": true
+    "width": 241.50390243530273
   },
   "right": {
     "id": "7244033226465e5a",
@@ -94,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/이것이 백엔드 개발이다/레이어드 아키텍처.md",
+                "file": "1. Daily/2024-02-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/이것이 백엔드 개발이다/레이어드 아키텍처.md",
+                "file": "1. Daily/2024-02-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/이것이 백엔드 개발이다/레이어드 아키텍처.md"
+                "file": "1. Daily/2024-02-04.md"
               }
             }
           },
@@ -155,12 +163,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 272.5,
-    "collapsed": true
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,10 +182,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "55ccfb014aaf5efd",
+  "active": "b2e877643fd0e10b",
   "lastOpenFiles": [
-    "무제 파일.md",
+    "1. Daily/2024-02-04.md",
+    "1. Daily/무제 파일.md",
+    "1. Daily/2023-12-02.md",
+    "1. Daily/2024-01-17.md",
     "Spring/이것이 백엔드 개발이다/레이어드 아키텍처.md",
+    "2024-02-04.md",
+    "무제 파일.md",
     "Spring/배워서 바로쓰는 스프링프레임워크/Chapter01-스프링 프레임워크 소개/2023년 11월 2일 (목).md",
     "Spring/이것이 백엔드 개발이다",
     "Java/무제 파일.md",
@@ -199,12 +211,7 @@
     "2024-01-23.md",
     "2024-01-24.md",
     "BigData/FinalTest_Study.md",
-    "Java/CS지식/Process & Thread.md",
-    "2024-01-20.md",
-    "Java/OOP/LSP (리스코프 치환 원칙).md",
     "Java/CS지식",
-    "Java/Java(기초지식)/자바 제네릭의 공변성 & 와일드 카드 완벽 이해.md",
-    "2024-01-22.md",
     "Java/OOP",
     "context.mdb",
     "Attached file/스크린샷 2024-01-11 오후 5.24.18.png",
