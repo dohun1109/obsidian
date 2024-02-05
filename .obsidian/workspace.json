@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d378b247c6c9ebb6",
+        "id": "3cd4310828cde446",
         "type": "tabs",
         "children": [
           {
-            "id": "859549093bbe3528",
-            "type": "leaf",
-            "state": {
-              "type": "weekly",
-              "state": {}
-            }
-          },
-          {
-            "id": "b2e877643fd0e10b",
+            "id": "bb0492a4f675e9a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024-02-04.md",
+                "file": "2024-02-05.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-02-04.md",
+                "file": "2024-02-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-02-04.md",
+                "file": "2024-02-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-02-04.md"
+                "file": "2024-02-05.md"
               }
             }
           },
@@ -182,8 +173,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b2e877643fd0e10b",
+  "active": "bb0492a4f675e9a4",
   "lastOpenFiles": [
+    "2024-02-05.md",
     "1. Daily/2024-02-04.md",
     "1. Daily/무제 파일.md",
     "1. Daily/2023-12-02.md",
@@ -210,7 +202,6 @@
     "Java/Java(기초지식)/JAVA 변수의 기본형 & 참조형 타입 차이 이해하기.md",
     "2024-01-23.md",
     "2024-01-24.md",
-    "BigData/FinalTest_Study.md",
     "Java/CS지식",
     "Java/OOP",
     "context.mdb",
