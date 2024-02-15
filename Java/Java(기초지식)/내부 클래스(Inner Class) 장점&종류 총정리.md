@@ -24,6 +24,12 @@ class Outher{
 - 인스턴스 클래스 내부에는 instance 멤버만 선언가능(static member 선언 불가 )
 - 주로 외부 클래스의 인스턴스 멤버들과 관련된 작업에 사용될 목적으로 선언된다. 
 - 단, final static 은 상수의 역활로 선언 가능 .
-
+- 정규화된 this -> outherclass와 innerclass에 중복된 부분이 있을때 innerclass에서 클래스명.this.메소드(멤버) 로 접근할 수 있다.
+- 그리고 컴파일 시 외부클래스$내부 클래스 .class 형태로 저장된다. 
+  
+## 정적 내부 클래스 (Static inner class)
+- static 키워드가 붙은 내부 클래스  
+- 단, 일반적인 static field 나 static method 와 다르다. 
+- st
 
 
