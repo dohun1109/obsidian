@@ -35,6 +35,6 @@ class Outher{
 
 ## Static class 에 대한 오해 
 
-static 클래스가 그 외의 static 필드 변수나 static method와 같이, 'static 이니까 메모리에 하나만 올라가는 인스턴스로' 로 착각한다는 점.
+static 내부 클래스가 그 외의 static 필드 변수나 static method와 같이, 'static 이니까 메모리에 하나만 올라가는 인스턴스로' 로 착각한다는 점.
 
 
