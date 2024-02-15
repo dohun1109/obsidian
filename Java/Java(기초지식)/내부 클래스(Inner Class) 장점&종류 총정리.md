@@ -30,6 +30,7 @@ class Outher{
 ## 정적 내부 클래스 (Static inner class)
 - static 키워드가 붙은 내부 클래스  
 - 단, 일반적인 static field 나 static method 와 다르다. 
-- st
+- static inner class 의 내부에는 instance member 나 static member 모두 선언 할 수 있다. 
+- 그러나 일반적인 static method와 동일하게 외부 클래스의 인스턴스 멤버에는 접근이 불가하고, static 멤버에만 접근할 수 있다. 
 
 
