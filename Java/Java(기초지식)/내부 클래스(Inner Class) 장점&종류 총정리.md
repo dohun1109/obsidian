@@ -2,4 +2,19 @@
 주로 외부 클래스의 인스턴스 멤버들과 관련된 작업에 사용될 목적으로 선언된다. 
 
 정적 클래스( Static class) : 외부 클래스의 멤버변수 선언 위치에 선언하며, 외부 클래스의 static 멤버처럼 다뤄진다. 
-다만 주의할 점은 static 이라고 해서 new 생성자 초기활르 못
+다만 주의할 점은 static 이라고 해서 new 생성자 초기활르 못하는 건 아니다. ! 
+즉, 일반적인 static 필드 변수나 static 메서드와 달리, static 내부 클래스는 같은 static 이지만 메모리 구조나 기능이 전혀 다르다. 
+
+지역 클래스 (local class) : 외부 클래스의 메서드나 초기화 블럭안에 선언하며, 선언된 메서드 블록 영역 내부에서만 사용될 수 있다. 
+
+익명 클래스 (anoonymous class) : 클래스의 선언과 객체의 생성을 동시에 하는 이름없는 클래스이다. 주로 클래스를 일회용으로 사용할 때 이용된다. 
+```java
+class Outher{
+	class InstanceClass{}
+	static class StaticInner{}
+	void method1(){
+		class LocalInner{}
+	}
+}
+```
+
