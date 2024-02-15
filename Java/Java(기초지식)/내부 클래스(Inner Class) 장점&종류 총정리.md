@@ -33,4 +33,8 @@ class Outher{
 - static inner class 의 내부에는 instance member 나 static member 모두 선언 할 수 있다. 
 - 그러나 일반적인 static method와 동일하게 외부 클래스의 인스턴스 멤버에는 접근이 불가하고, static 멤버에만 접근할 수 있다. 
 
+## Static class 에 대한 오해 
+
+static 클래스가 그 외의 static 필드 변수나 static method와 같이, 'static 이니까 메모리에 하나만 올라가는 인스턴스로' 로 착각한다는 점.
+
 
