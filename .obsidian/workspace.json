@@ -11,8 +11,12 @@
             "id": "c40f1afe5fa5ab59",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Java/Java(기초지식)/내부 클래스(Inner Class) 장점&종류 총정리.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.50390243530273
+    "width": 241.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "7244033226465e5a",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Java/Java(기초지식)/내부 클래스(Inner Class) 장점&종류 총정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Java/Java(기초지식)/내부 클래스(Inner Class) 장점&종류 총정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Java/Java(기초지식)/내부 클래스(Inner Class) 장점&종류 총정리.md"
+              }
             }
           },
           {
@@ -150,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,6 +177,9 @@
   },
   "active": "c40f1afe5fa5ab59",
   "lastOpenFiles": [
+    "Java/Java(기초지식)/내부 클래스(Inner Class) 장점&종류 총정리.md",
+    "2024-02-10.md",
+    "2024-02-15.md",
     "2024-02-05.md",
     "2024-02-09.md",
     "2024-02-08.md",
@@ -191,9 +204,6 @@
     "Java/Java(기초지식)/자바 객체 지향(OOP) 클래스 문법 -한방가이드.md",
     "2024-01-26.md",
     "Java/Multi Thread/멀티 스레드.md",
-    "Java/Lambda/Lambda Expression.md",
-    "Java/Java(기초지식)/JAVA 소스코드 구조 - 한눈에 이해하기.md",
-    "2024-01-25.md",
     "Java/CS지식",
     "Java/OOP",
     "context.mdb",
