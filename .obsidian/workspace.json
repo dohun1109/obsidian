@@ -11,8 +11,12 @@
             "id": "c40f1afe5fa5ab59",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-02-28.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-02-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-02-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-02-17.md"
+                "file": "2024-02-28.md"
               }
             }
           },
@@ -168,10 +174,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3ce2929c1dbbd6d2",
+  "active": "c40f1afe5fa5ab59",
   "lastOpenFiles": [
-    "Java/Java(기초지식)/내부 클래스(Inner Class) 장점&종류 총정리.md",
     "2024-02-17.md",
+    "2024-02-28.md",
+    "Java/Java(기초지식)/내부 클래스(Inner Class) 장점&종류 총정리.md",
     "2024-02-10.md",
     "2024-02-15.md",
     "2024-02-05.md",
@@ -196,7 +203,6 @@
     "2024-01-29.md",
     "Spring/HTTP 웹 기본지식/HTTP 응답 상태 코드 대역 별 의미.md",
     "Java/Java(기초지식)/자바 객체 지향(OOP) 클래스 문법 -한방가이드.md",
-    "2024-01-26.md",
     "Java/CS지식",
     "Java/OOP",
     "context.mdb",
