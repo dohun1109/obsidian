@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Algorithm/1. 구간 합 (Prefix Sum).md",
+                "file": "2024-03-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Algorithm/1. 구간 합 (Prefix Sum).md",
+                "file": "2024-03-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Algorithm/1. 구간 합 (Prefix Sum).md",
+                "file": "2024-03-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Algorithm/1. 구간 합 (Prefix Sum).md"
+                "file": "2024-03-12.md"
               }
             }
           },
