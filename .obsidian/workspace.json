@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0c47d6c29b955ba6",
+        "id": "4bec119d4a805de1",
         "type": "tabs",
         "children": [
           {
-            "id": "95985a5dc20a3814",
+            "id": "edcc996de5613863",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "정보처리기사/정보처리기사 [ 2주차 ].md",
+                "file": "2024-03-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "정보처리기사/정보처리기사 [ 2주차 ].md",
+                "file": "2024-03-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "정보처리기사/정보처리기사 [ 2주차 ].md",
+                "file": "2024-03-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "정보처리기사/정보처리기사 [ 2주차 ].md"
+                "file": "2024-03-19.md"
               }
             }
           },
@@ -175,10 +175,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "95985a5dc20a3814",
+  "active": "edcc996de5613863",
   "lastOpenFiles": [
-    "context.mdb",
+    "2024-03-19.md",
     "정보처리기사/정보처리기사 [ 2주차 ].md",
+    "context.mdb",
     "정보처리기사",
     "2024-02-17.md",
     "2024-03-12.md",
