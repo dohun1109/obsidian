@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fbe1c6213e906d6b",
+        "id": "f46881b639414fbd",
         "type": "tabs",
         "children": [
           {
-            "id": "6f0591e8ecd92400",
+            "id": "168074ebaca70b2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "448bd039421ddd8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-03-22.md",
+                "file": "Spring/스프링 입문을 위한 자바 객체지향의 원리와 이해/스프링 Best Practice Design Pattern.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.50390243530273,
-    "collapsed": true
+    "width": 241.50390243530273
   },
   "right": {
     "id": "7244033226465e5a",
@@ -107,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-22.md",
+                "file": "Spring/스프링 입문을 위한 자바 객체지향의 원리와 이해/스프링 Best Practice Design Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-22.md",
+                "file": "Spring/스프링 입문을 위한 자바 객체지향의 원리와 이해/스프링 Best Practice Design Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-22.md"
+                "file": "Spring/스프링 입문을 위한 자바 객체지향의 원리와 이해/스프링 Best Practice Design Pattern.md"
               }
             }
           },
@@ -188,10 +174,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "448bd039421ddd8f",
+  "active": "168074ebaca70b2d",
   "lastOpenFiles": [
-    "2024-03-22.md",
+    "Spring/스프링 입문을 위한 자바 객체지향의 원리와 이해/스프링 Best Practice Design Pattern.md",
     "2024-03-21.md",
+    "2024-03-22.md",
     "자바& 스프링 스터디.md",
     ".md",
     "2024-03-19.md",
@@ -222,7 +209,6 @@
     "2024-02-08.md",
     "2024-02-07.md",
     "2024-02-06.md",
-    "1. Daily/2024-02-04.md",
     "Spring/이것이 백엔드 개발이다",
     "Java/CS지식",
     "Java/OOP",
