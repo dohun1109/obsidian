@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3e5d5b80894bb7b9",
+        "id": "c414b68a007bd0dd",
         "type": "tabs",
         "children": [
           {
-            "id": "c89674ec3dc74e2a",
+            "id": "7ab4f12dc112f02d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-28.md",
+                "file": "LikeLion/JavaInAction/[Chapter 02].md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-28.md",
+                "file": "LikeLion/JavaInAction/[Chapter 02].md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-28.md",
+                "file": "LikeLion/JavaInAction/[Chapter 02].md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-28.md"
+                "file": "LikeLion/JavaInAction/[Chapter 02].md"
               }
             }
           },
@@ -175,12 +175,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c89674ec3dc74e2a",
+  "active": "7ab4f12dc112f02d",
   "lastOpenFiles": [
-    "LikeLion/JavaInAction/[Chapter 02].md",
     "LikeLion/JavaInAction/[Chapter 01].md",
-    "LikeLion/SpringInPractice/[Chapter 01] 스프링 부트 시작하기.md",
+    "LikeLion/JavaInAction/[Chapter 02].md",
     "2024-03-28.md",
+    "LikeLion/SpringInPractice/[Chapter 01] 스프링 부트 시작하기.md",
     "LikeLion/SpringInPractice",
     "LikeLion/JavaInAction",
     "LikeLion",
