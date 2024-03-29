@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LikeLion/JavaInAction/[Chapter 02].md",
+                "file": "2024-03-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LikeLion/JavaInAction/[Chapter 02].md",
+                "file": "2024-03-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LikeLion/JavaInAction/[Chapter 02].md",
+                "file": "2024-03-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LikeLion/JavaInAction/[Chapter 02].md"
+                "file": "2024-03-29.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "7ab4f12dc112f02d",
   "lastOpenFiles": [
-    "LikeLion/JavaInAction/[Chapter 01].md",
     "LikeLion/JavaInAction/[Chapter 02].md",
+    "2024-03-29.md",
+    "LikeLion/JavaInAction/[Chapter 01].md",
     "2024-03-28.md",
     "LikeLion/SpringInPractice/[Chapter 01] 스프링 부트 시작하기.md",
     "LikeLion/SpringInPractice",
@@ -207,7 +208,6 @@
     "2024-03-21.md",
     "2024-03-25.md",
     "자바& 스프링 스터디.md",
-    "Spring/스프링 부트 핵심 가이드/개발에 앞서 알면 좋은 기초 지식.md",
     ".md",
     "Spring/스프링 입문을 위한 자바 객체지향의 원리와 이해",
     "context.mdb",
