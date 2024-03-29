@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c414b68a007bd0dd",
+        "id": "6638c85143132d0e",
         "type": "tabs",
         "children": [
           {
-            "id": "7ab4f12dc112f02d",
+            "id": "faccc169d1d39012",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-29.md",
+                "file": "LikeLion/JavaInAction/[Chapter 02].md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-29.md",
+                "file": "LikeLion/JavaInAction/[Chapter 02].md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-29.md",
+                "file": "LikeLion/JavaInAction/[Chapter 02].md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-29.md"
+                "file": "LikeLion/JavaInAction/[Chapter 02].md"
               }
             }
           },
@@ -175,17 +175,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7ab4f12dc112f02d",
+  "active": "faccc169d1d39012",
   "lastOpenFiles": [
-    "LikeLion/JavaInAction/[Chapter 02].md",
     "2024-03-29.md",
-    "LikeLion/JavaInAction/[Chapter 01].md",
+    "LikeLion/JavaInAction/[Chapter 02].md",
+    "Java in Action/무제 파일.md",
     "2024-03-28.md",
+    "LikeLion/JavaInAction/[Chapter 01].md",
     "LikeLion/SpringInPractice/[Chapter 01] 스프링 부트 시작하기.md",
     "LikeLion/SpringInPractice",
     "LikeLion/JavaInAction",
     "LikeLion",
-    "Java in Action/무제 파일.md",
     "Context",
     "Java in Action",
     "Obsidan/옵시디언 사용법.md",
