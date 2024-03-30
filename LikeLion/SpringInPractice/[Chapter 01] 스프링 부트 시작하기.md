@@ -26,3 +26,19 @@
 - spring boot devtools : 여러가지 개발을 도와주는 도구들이 포함되어있다. 
 # 1.3  스프링 부트 시작하기 
 ## 메이븐 pom.xml 파일 
+pom.xml 파일은 크게 세 가지 부분으로 구성돼있다. 
+1. parent 태그 
+2. dependencies 태그 
+3. 스프링 부트 메이븐 플러그인 
+spring-boot-start-parent 는 모든 스프링 부트 스타터 의존 관계의 부모 스타터다. spring-boot-starter-parent 를 명시하면 프로젝트가 자식 스프링 부트 프로젝트로서 부모 프로젝트의 몇가지 부분을 확장한다는 것을 나타낸다. 
+Spring-boot-starter-parent는 기본 자바 버전 지정과 스프링 부트 프로젝트에서 사용되는 몇가지 메이븐 플러그인에 대한 기본 설정을 제공하는 특별한 유형의 스타터다. maven-war-plugin 과 maven-surefire-plugin 같은 플러그인이 spring-boot-starter-parent 의존관계에 포함돼 있다. 
+spring-boot-starter-parent 는 의존관계 관리에도 도움을 준다. dependencies 에 나열된 의존관계에 버전 정보가 저혀 명시돼 있지 않지만 적절한 버전이 spring-boot-starter-parent 안에 명시돼 있다. 
+
+> 프로젝트에 이미 부모 pom 이 있다면 ? 
+> 이런 경우에도 스프링 부트 패어런트 pom 에서 제공하는 의존관계 관리 같은 여러 기능을 사용할 수 있다. dependecyManagement 태그 안에 다음과 같이 spring-boot-dependencies 의존관계를 명시 하면 의존관계 관리 기능을 사용할 수  있다. 
+
+### 스프링 부트 스타터 의존관계 
+스프링 부트 스타터 의존관계는 애플리케이션의 특정 컴포넌트를 개발하기위해 필요한 라이브러리를 식별하여 적절한 라이브러리와 버전을 알아내더라도 얼마지나지 않아 버전이 변경되어 구식이 돼어버리거나 선택한 라이브러리에서 의존하는 라이브러리가 있으며 이런 의존 관계 전파로 버전 문제가 복잡해지는 문제를 해결해 주었다. 이로인해 의존관계 버전관리, 업데이트 등 여러 이슈로 부터 벗어날 수 있게되었다. 
+
+그리고 pom.xml 의 파일 끝부분에는  `spring-boot-maven-plugin` 이 있는데, 이 플러그인은  애플리케이션 관리활동을 편하게 수행할 수 있게 도와준다. **스프링 부트 애플리케이션을 아주쉽게 실행가능한 JAR 파일로 만들거나 WAR 파일로 패키징** 할 수 있는데, 이는 spring-boot-maven-plugin 의 repackage goal 덕분이다. ` Repackage 골은 메이븐이 아직 실행할 수 없는 상태의 JAR 파일이나 WAR파일을 실행가능 하도록 만들어 준다.`
+

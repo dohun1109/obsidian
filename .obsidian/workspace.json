@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6fbe70119a7eac8f",
+        "id": "e2e09904a3b7fba8",
         "type": "tabs",
         "children": [
           {
-            "id": "53323d9f0ed9b1d0",
+            "id": "46526e46fededbd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,14 +174,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "53323d9f0ed9b1d0",
+  "active": "46526e46fededbd4",
   "lastOpenFiles": [
     "LikeLion/JavaInAction/[Chapter 02].md",
+    "LikeLion/SpringInPractice/[Chapter 01] 스프링 부트 시작하기.md",
     "2024-03-29.md",
+    "2024-03-30.md",
     "Java in Action/무제 파일.md",
     "2024-03-28.md",
     "LikeLion/JavaInAction/[Chapter 01].md",
-    "LikeLion/SpringInPractice/[Chapter 01] 스프링 부트 시작하기.md",
     "LikeLion/SpringInPractice",
     "LikeLion/JavaInAction",
     "LikeLion",
@@ -206,7 +207,6 @@
     "WindowsServer/11월 9일 (목).md",
     "2024-03-21.md",
     "2024-03-25.md",
-    "자바& 스프링 스터디.md",
     ".md",
     "Spring/스프링 입문을 위한 자바 객체지향의 원리와 이해",
     "context.mdb",
