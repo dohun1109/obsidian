@@ -134,3 +134,44 @@ public void applicationReadyEvent(ApplicationReadyEvent applicationReadyEvent){
 }
 ```
 
+`@EventListener`가 대부분의 상황에서는 잘 동작하지만 극초기에 발생되는 이벤트는 감지하지 못함으로 다른 방법이 필요하다. 
+
+### SpringApplication 사용 
+ SpringApplication 은 애플리케이션 스프트업 동작을 커스터마이징 할 수 있는 여러가지 세터 메서드도 제공한다. 예를 들어 SpringApplication 클래스가 이벤트를 감지할 수 있게 하려면 ApplicationListener 인터페이스의 onApplicationEvent() 메서드를 구현하고 이를 SpringApplication 에 추가할 수 있다.
+ ```java
+ public class ApplicationStartingEventListener implements ApplicationListener<ApplicationStartingEvent>{
+	@Override 
+	public void onApplicationEvent(ApplicationStartingEvent applicationStartingEvent){
+		System.out.println("Application Starting Event logged at" + new Date(applicationStartingEvent.getTimeStamp()));
+	}
+ }
+ 
+```
+
+이 구현체를 SpringApplication 에 등록해주면 ApplicationStartingEvent 를 발행할 때 리스너를 호출한다. 
+```java
+@SpringBootApplication
+public class SpringBootEventsApplication{
+	
+	public static void main(String[] args){
+		SpringApplication springApplication = new SpringApplication(SpringBootEventsApplication.class);
+		springApplication.addListener(new ApplicationStartingEventListener());
+		springApplication.run(args);
+	}
+
+}
+
+```
+
+addListener(... ) 메서드는 가변인자를 통해 여러개를 한번에 받을 수도 있다. 
+### spring.factories 파일을 사용한 이벤트리스너 추가 
+spring.factories 파일을 이용해서 Listener 를 추가할 수 있다. (방법은 생략)
+
+
+`커스텀 스프링 부트 스타터`: 애플리케이션의 의존관계를 단순화해주는 스프링부트의 핵심기능이며, 스프링 부트는 스타터 구조를 확장해서 개발자가 직접 커스텀 스타터를 만들어 활용할 수 있도록 만들어 준다 .
+`커스텀 자동 구성`: 스프링 부트는 애플리케이션을 시작할 때 다양한 여러 요소를 살펴서 다양한 애플리케이션 컴포넌트를 자동으로 구성해준다.  이 자동구성 전략은 어떤 애플리케이션 컴포넌트에 대한 스프링 부트 자신만의 동작 방향을 표현할 수 있게 해주며, 스픵 부트 애플리케이션 초기화 및 실행과정에서 매우 중요한 역활을 담당한다. 
+`실패 분석기` : 스프링 부트는 애플리케이션이 구동되는 과정에서 실패가 발생할때 이를 분석하고 자세한 진단 보고서를 만들어 내는 실패 분석기를 사용한다
+실패 분석기도 자동 스타터나 자동 구성과 마찬가지로 개발자가 직접 커스텀 할 수 있다. 
+`스프링 부트 액추에이터 ` : 스프링 부트 액추에터를 사용하면 애플리케이션을 모니터링하고 상호작용할 수 있다. 예를 들어 정상 실행 중인지를 확인하기 위해 헬스 체크를 수행한다. 그리고 여러 부분에서 분석을위해 스레드 덤프나 힙 덤프를 생성하기도 한다. 스프링 부트 액추에이터의 기본 엔드포인트는 /actuator  이며, 구체적인 지표를 뒤에 붙여서 사용한다. 기본값으로는 /health 와 /info  엔드 포인트만 HTTP 로 노출되게 된다. 
+`스프링 부트 개발자 도구 `: 개발자 생산성을 높이고 개발과정을 단축하기 위해 제공한다. 그리고 개발자 도구를 사용하려면 pom.xml 에 의존관계를 추가해줘야 한다. 
+

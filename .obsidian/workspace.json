@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e2e09904a3b7fba8",
+        "id": "78d953cd23bb17ac",
         "type": "tabs",
         "children": [
           {
-            "id": "46526e46fededbd4",
+            "id": "a065115611c897ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LikeLion/SpringInPractice/[Chapter 01] 스프링 부트 시작하기.md",
+                "file": "LikeLion/JavaInAction/[Chapter 02].md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.50390243530273,
-    "collapsed": true
+    "width": 241.50390243530273
   },
   "right": {
     "id": "7244033226465e5a",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LikeLion/SpringInPractice/[Chapter 01] 스프링 부트 시작하기.md",
+                "file": "LikeLion/JavaInAction/[Chapter 02].md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LikeLion/SpringInPractice/[Chapter 01] 스프링 부트 시작하기.md",
+                "file": "LikeLion/JavaInAction/[Chapter 02].md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LikeLion/SpringInPractice/[Chapter 01] 스프링 부트 시작하기.md"
+                "file": "LikeLion/JavaInAction/[Chapter 02].md"
               }
             }
           },
@@ -175,15 +174,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "46526e46fededbd4",
+  "active": "a065115611c897ea",
   "lastOpenFiles": [
+    "LikeLion/JavaInAction/[Chapter 01].md",
     "LikeLion/JavaInAction/[Chapter 02].md",
-    "LikeLion/SpringInPractice/[Chapter 01] 스프링 부트 시작하기.md",
-    "2024-03-29.md",
     "2024-03-30.md",
+    "LikeLion/SpringInPractice/[Chapter 01] 스프링 부트 시작하기.md",
+    "무제 파일.md",
+    "2024-03-29.md",
     "Java in Action/무제 파일.md",
     "2024-03-28.md",
-    "LikeLion/JavaInAction/[Chapter 01].md",
     "LikeLion/SpringInPractice",
     "LikeLion/JavaInAction",
     "LikeLion",
@@ -207,7 +207,6 @@
     "WindowsServer/11월 23일.md",
     "WindowsServer/11월 9일 (목).md",
     "2024-03-21.md",
-    "2024-03-25.md",
     ".md",
     "Spring/스프링 입문을 위한 자바 객체지향의 원리와 이해",
     "context.mdb",
