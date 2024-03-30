@@ -249,3 +249,37 @@ Thread t = new Thread(() -> System.out.println("hello world"));
 ```
 
 ### 2.4.3 Callable 을 결과로 반환하기 
+자바 5 부터 지원하는 ExecutorService 인터페이스는 태스크 제출과 실행 과정의 연관성을 끊어 준다. ExecutorService 를 이용하면 태스크를 스레드 풀로 보내고 결과를 Feture로 저장할 수 있다는 점이 스레드와 Runable 을 이용하는 방식과는 다르다. 
+```java
+public interface Callable<V>{
+	V call();
+}
+```
+테스크를 실행하는 스레드의 이름을 반환한다. 
+```java
+ExecutorService executorService = Executors.newCachedThreadPool();
+Future<String> threadName = executorService.submit(new     Callable<string>(){ 
+	@Override
+		public String call() throws Exception{
+			return Thread.currentThread().getName();
+		}
+});
+```
+람다를 이용하면 아래와 같이 줄일 수 있다. 
+```java
+Future<String> threadName = executorService.submit(
+	() -> Thread.currentThread().getName()
+);
+```
+
+### GUI 이벤트 처리 
+```java
+// lambda 
+button.setOnAction((ActionEvent event) -> label.setText("sent!!"));
+```
+
+### 마무리 
+- 동작 파리미터화에서는 메서드 내부적으로 다양한 동작을 수행할 수 있도록 코드르 메서드 인수로 전달한다. 
+- 동작 파라미터화를 이용하면 변화하는 요구사항을 더 잘 대응할 수 있도록 코드를 구현할 수 있으며 나중에 유지보수 비용을 줄일 수 있다. 
+- 자바 API의 많은 메서드는 정렬, 스레드, GUI 처리등 다양한 동작으로 파라미터화 할  수 있다. 
+

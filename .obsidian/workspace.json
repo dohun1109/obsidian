@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6638c85143132d0e",
+        "id": "6fbe70119a7eac8f",
         "type": "tabs",
         "children": [
           {
-            "id": "faccc169d1d39012",
+            "id": "53323d9f0ed9b1d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LikeLion/JavaInAction/[Chapter 02].md",
+                "file": "LikeLion/SpringInPractice/[Chapter 01] 스프링 부트 시작하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.50390243530273,
-    "collapsed": true
+    "width": 241.50390243530273
   },
   "right": {
     "id": "7244033226465e5a",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LikeLion/JavaInAction/[Chapter 02].md",
+                "file": "LikeLion/SpringInPractice/[Chapter 01] 스프링 부트 시작하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LikeLion/JavaInAction/[Chapter 02].md",
+                "file": "LikeLion/SpringInPractice/[Chapter 01] 스프링 부트 시작하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LikeLion/JavaInAction/[Chapter 02].md"
+                "file": "LikeLion/SpringInPractice/[Chapter 01] 스프링 부트 시작하기.md"
               }
             }
           },
@@ -175,7 +174,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "faccc169d1d39012",
+  "active": "53323d9f0ed9b1d0",
   "lastOpenFiles": [
     "LikeLion/JavaInAction/[Chapter 02].md",
     "2024-03-29.md",

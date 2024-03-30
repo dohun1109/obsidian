@@ -24,3 +24,5 @@
 - spring-boot-test-autoconfigure : 테스트 케이스에 필요한 의존관계를 자동으로 구성해준다. 
 - spring-boot-loader : 스프링 부트 애플리케이션을 실행 가능한 하나의 JAR 파일로 패키징하는데 필요한 것들이 모여있다. 
 - spring boot devtools : 여러가지 개발을 도와주는 도구들이 포함되어있다. 
+# 1.3  스프링 부트 시작하기 
+## 메이븐 pom.xml 파일 
