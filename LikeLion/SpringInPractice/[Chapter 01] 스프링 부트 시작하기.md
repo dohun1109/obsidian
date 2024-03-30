@@ -90,4 +90,47 @@ SpringBootApplication 클래스는 클래스 패스에 있는 JAR 의존관계�
 
 그리고 개발자가 SpringApplication 인스턴스에 직접 웹 애플리케이션 타입을 지정해 줄수도 있다. 
 
+### 애플리케이션 설정 정보 
+application.properties 파일을 이용해서 key=value 형태로 설정정보를 저장한다. (YAML 형식으로도 사용가능하다.)
+
+## JAR 파일 구조 
+- META-INF : 실행할 JAR 파일에 대한 핵심정보를 담고 있는 MANIFEST.MF 파일이 들어있다. 파일안에는 두가지 중요 파라미터인 Main-Class 와 Start-Class 가 들어있다. 
+- 스프링 부트 로더 컴포넌트 : 스프링 부트 러더에는 실행가능한 파일을 로딩하는데 사용하는 여러가지 로더 구현체가 들어있다. JarLauncher 클래스는 JAR파일을 로딩하고 , WarLauncher 클래스는 WAR 파일을 로딩한다. 
+- BOOT-INF/classes : 컴파일된 모든 애플리케이션 클래스가 들어있다. 
+- BOOT-INF/lib : 의존관계로 지정한 라이브러리 들이 들어있다. 
+
+주목 해야 될 부분은 MANIFESET.MF 파일에 있는 Main-Class 와 Start-Class 파라미터다. Start-Class는 애플리케이션이 시작할 클래스를 가리키고 , Main-Class에는 Start-Class 를 사용해서 애플리케이션을 시작하는 Launcher 클래스 이름이 지정돼 있다. 스플이 부트가 만드는 실행 가능한 JAR파일의  Start-Class 는  항상 스프링 부트 메인 클래스를 가리킨다.  
+
+## 스프링 부트 애플리케이션 종료 
+JAR 파일 명령행에서 포그라운드 프로세스로 실행하는 경우 , ctrl-c 를 눌러서 자바 프로세스로 종료하면 스프링 부트 애플리케이션도 종료되게 된다. 하지만 아무런 추가 설정없이 종료하게되면 즉시 종료되게 되며, 처리중인 요청의 처리 완료가 보장되지 않는다. 그래서 이미 처리중인 요청은 완료를 보장하는 graceful shutdown 설정이 필요하다. 
+```properties
+server.shutdown = graceful
+spring.lifecycle.timeout-per-shutdown-phase = 1m
+```
+
+안전 종료를 설정하면 처리 중인 요청이 완료될때 까지 기다려주는 타임아웃을 설정할 수 있고 , 기본값은 30s 이다. 
+
+## 스프링 부트 스타트업 이벤트 
+스프링 프레임워크의 이벤트 관리 체계는 이벤트 발생자와 이벤트 구독자 분리를 강조한다. 
+스프링 프레임워크에는 어떤 상황에 맞게 적절한 작업을 수행할 수 있도록 다양한 빌트인 이벤트가 내장돼 있다. 예를 들면 스프링 부트가 시작되고 초기화가 완료되었을 때 외부 REST API 를 호출해야되는 요구사항이 있을때 초기화 완료를 알리는 이벤트를 구독해서 외부 RESTAPI 로 호출하게 할 수 있다. 시작 및 초기화 과정에서 사용할 수 있는 빌트인 이벤트는 아래와 같다. 
+
+- `ApplicationStatingEvent` : App 이 시작되고 리스너가 등록되면 발행된다. 스프링 부트의 LoggingSystem 은 이 이벤트를 통해 애플리케이션 초기화 단계에 들어가기전에 필요한 작업을 수행한다. 
+- `ApplicationEnvironmentPreparedEvent` : App 이 시작되고 Environment 가  준비되어 검사하고 수정할 수 있게 되면 발행한다. 스프링 부트는 내부적으로 이 이벤트를 사용해 MessageConverter, ConversionService , Jackson 초기화등 여러 서비스의 사전 초기화를 진행한다. 
+- `ApplicationContextInitializedEvent`: ApplicationContext 가 준비되고 ApplicationContextInitializers 가 실행되면 발행된다. 하지만 아직 아무런 빈도 로딩되지 않는다. 빈이 스프링 컨테이너에 로딩되어 초기화되기전에 어떤 작업을 수행해야 할 때 이 이벤트를 사용하면 된다. 
+- `ApplicationPreparedEvent` : ApplicationContext 가 준비되고 빈이 로딩은 됐지만 아직 ApplicationContext가 리프레시되지않은 시점에 발행된다. 이 이벤트가 발행된 후에 Environment를 사용할 수 있다. 
+- `ContextRefreshedEvent` : ApplicationContext가 리프레시된 후에 발행된다. 이 이벤트는 스프링 부트가 아니라 스프링이 발행하는 이벤트라서 SpringApplicationEvent를 상속하지 않는다. 스프링 부트의 ConditionEvaluationReportLoggingListener 라는 이 이벤트가 발행되면 자동 구성 보고서를 출력한다. 
+- `WebServerInitializedEvent` : 웹 서버가 준비되면 발행된다. 이 이벤트는 두가지 하위 이벤트를 가지고 있는데 서블릿기반에서는`ServletWebServerInitialzedEvent`를 사용할 수 있다. 리액티브 기반은 `ReactiveWebServerInitializedEvent`를 사용가능, 이 이벤트도 SpringApplicationEvent 를 상속하지 않는다. 
+- `ApplicationStartedEvent`: 애플리케이션컨텍스트가 리프레시되고나서 ApplicationRunner와 CommandLineRunner 가 호출되기 전에 발행된다. 
+- `ApplicationReadyEvent`: 요청을 처리할 준비가 됐을때 SpringApplication 에 의해 발행된다. 이 이벤트가 발행되면 모든 애플리케이션이 초기화 완료된것이다. 
+- `ApplicationFailedEvent` : 시작과정에서 예외가 발생되면 발행된다. 
+
+## 스프링 부트 애플리케이션 이벤트 감지 
+스타트업 과정을 소스코드로 제어할 필요가 있을때 이런 이벤트를 사용하면 편리하게 처리할 수 있다. 
+예를 들어 Enviroment에 있는 파라미터를  변경해야되면 ApplicationEnvironmentPreparedEvent 를 구독하고 파라미터를 변경하면된다. 스프링 부트 애플리케이션의 여러 컴포넌트를 초기화할 때 내부적으로 이런 이벤트를 활용한다. 가장 쉬운방식은  `@EventListener`애너테이션을 사용하는 것이다. 
+```java
+@EventListener(ApplicationReadyEvent.class)
+public void applicationReadyEvent(ApplicationReadyEvent applicationReadyEvent){
+	System.out.println("Application Ready Event generated at" +new Date(applicationReadyEvent.getTimeStamp()));
+}
+```
 
