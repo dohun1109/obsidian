@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-31.md",
+                "file": "2024-04-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-31.md",
+                "file": "2024-04-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-31.md",
+                "file": "2024-04-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-31.md"
+                "file": "2024-04-04.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "a065115611c897ea",
   "lastOpenFiles": [
-    "LikeLion/JavaInAction/[Chapter 02].md",
     "2024-03-31.md",
+    "2024-04-04.md",
+    "LikeLion/JavaInAction/[Chapter 02].md",
     "LikeLion/JavaInAction/[Chapter 01].md",
     "2024-03-30.md",
     "LikeLion/SpringInPractice/[Chapter 01] 스프링 부트 시작하기.md",
@@ -207,7 +208,6 @@
     "WindowsServer/11월 2일(목).md",
     "WindowsServer/기말고사.md",
     "WindowsServer/11월 23일.md",
-    "WindowsServer/11월 9일 (목).md",
     ".md",
     "Spring/스프링 입문을 위한 자바 객체지향의 원리와 이해",
     "context.mdb",
