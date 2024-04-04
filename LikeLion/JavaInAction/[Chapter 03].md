@@ -39,4 +39,34 @@
 ```
 
 ## 함수형 인터페이스 (@FunctionalInterface)
+함수형 인터페이스는 `오직 하나의 추상메서드만 지정하는 인터페이스` 이다. 예를 들어 `Predicate<T>` Compartor, Runable 등이 있다. 어노테이션 `@FunctionalInterface`로 필터링을 거쳐서 추상메소드를 단 하나만 생성하도록 제한한다. (default 메서드는 제외하고 추상 메소드만 )
+```java
+public interface Predicate<T> {
+	boolean Test(T t);
+}
+public interface Comparator<T> {
+	int compare(T o1, T o2);
+}
+public interface Runable {
+	void run();
+}
+public interface ActionListener extends EventListener {
+	void actionPerformed(ActionEvent e);
+}
+public interface Callable<V> {   //V = value
+	V call() throws Exception;
+}
+public interface PrivilegedAction<T> {
+	T run();
+}
+```
+
+람다에서 함수형 인터페이스로 뭘 할 수 있을까? 람다 표현식으로 함수형 인터페이스의 추상 메서드 구현을 직접 전달할 수 있으므로 `전체 표현식을 함수형 인터페이스 type의 인스턴스로 취급 할 수 있다.  `
+
+## 함수 디스크립터 (funtion descriptor)
+함수형 인터페이스의 추상메서드 시그니처는 람다 표현식의 시그니처를 가리킨다. 람다 표현식의 시그니처를 서술하는 메서드를 `함수 디스크립터`라고 부른다. 예를 들어 Runable 인터페이스의 유일한 메서드 run은 인수와 반화값이 없으므로 void 반환 `()-> void`로 표기할 수 있다. 
+
+람다 표현식은 `함수형 인터페이스`를 인수로 받는 메서드에만 람다표현식을 사용할 수 있다. 
+그리고 void 반환이 한 개 인 경우 중괄호를 감쌀 필요가 없다. 
+
 
