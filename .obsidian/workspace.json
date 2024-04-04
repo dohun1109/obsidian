@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "78d953cd23bb17ac",
+        "id": "9f1ec8474471e12a",
         "type": "tabs",
         "children": [
           {
-            "id": "a065115611c897ea",
+            "id": "07fe77f7e0140bf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-04.md",
+                "file": "LikeLion/JavaInAction/[Chapter 03].md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-04.md",
+                "file": "LikeLion/JavaInAction/[Chapter 03].md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-04.md",
+                "file": "LikeLion/JavaInAction/[Chapter 03].md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-04.md"
+                "file": "LikeLion/JavaInAction/[Chapter 03].md"
               }
             }
           },
@@ -175,11 +175,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a065115611c897ea",
+  "active": "07fe77f7e0140bf0",
   "lastOpenFiles": [
-    "2024-03-31.md",
-    "2024-04-04.md",
     "LikeLion/JavaInAction/[Chapter 02].md",
+    "LikeLion/JavaInAction/[Chapter 03].md",
+    "2024-04-04.md",
+    "2024-03-31.md",
     "LikeLion/JavaInAction/[Chapter 01].md",
     "2024-03-30.md",
     "LikeLion/SpringInPractice/[Chapter 01] 스프링 부트 시작하기.md",
@@ -207,7 +208,6 @@
     "Unity/과제.md",
     "WindowsServer/11월 2일(목).md",
     "WindowsServer/기말고사.md",
-    "WindowsServer/11월 23일.md",
     ".md",
     "Spring/스프링 입문을 위한 자바 객체지향의 원리와 이해",
     "context.mdb",
