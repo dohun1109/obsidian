@@ -68,5 +68,11 @@ public interface PrivilegedAction<T> {
 
 람다 표현식은 `함수형 인터페이스`를 인수로 받는 메서드에만 람다표현식을 사용할 수 있다. 
 그리고 void 반환이 한 개 인 경우 중괄호를 감쌀 필요가 없다. 
+## @FunctionalInterface 
+@FunctionalInterface는 함수형 인터페이스에 붙는 어노테이션이다. (즉, 함수형 인터페이스를 가리키는 어노테이션) 
+@FunctionalInterface로 선언했지만 실제로 함수형 인터페이스가 아니면 컴파일러가 에러를 발생시킨다. 에를 들어 추상메소드가  한 개 이상이라면 
+`Multiple nonoverriding abstract methods found in interface Foo`같은 에러가 발생할 수 있다. 
+## 람다 활용 : 실행 어라운드 패턴 
+지원 처리( 예를 들면 데이터베이스의 파일처리)에 사용하는 `순환패턴(`
 
 
