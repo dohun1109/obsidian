@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LikeLion/JavaInAction/[Chapter 03].md",
+                "file": "2024-04-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LikeLion/JavaInAction/[Chapter 03].md",
+                "file": "2024-04-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LikeLion/JavaInAction/[Chapter 03].md",
+                "file": "2024-04-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LikeLion/JavaInAction/[Chapter 03].md"
+                "file": "2024-04-07.md"
               }
             }
           },
@@ -177,9 +177,10 @@
   },
   "active": "07fe77f7e0140bf0",
   "lastOpenFiles": [
+    "LikeLion/JavaInAction/[Chapter 03].md",
+    "2024-04-07.md",
     "2024-04-05.md",
     "LikeLion/JavaInAction/[Chapter 02].md",
-    "LikeLion/JavaInAction/[Chapter 03].md",
     "2024-04-04.md",
     "2024-03-31.md",
     "LikeLion/JavaInAction/[Chapter 01].md",
@@ -207,7 +208,6 @@
     "Java/Algorithm/시간복잡도.md",
     "Java/Algorithm/1. 구간 합 (Prefix Sum).md",
     "Unity/과제.md",
-    "WindowsServer/11월 2일(목).md",
     ".md",
     "Spring/스프링 입문을 위한 자바 객체지향의 원리와 이해",
     "context.mdb",
