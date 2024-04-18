@@ -11,8 +11,12 @@
             "id": "014b87a9f6171606",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-04-18.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-04-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-04-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-04-18.md"
+              }
             }
           },
           {
@@ -169,6 +177,7 @@
   },
   "active": "014b87a9f6171606",
   "lastOpenFiles": [
+    "2024-04-18.md",
     "2024-04-16.md",
     "Java/Algorithm/비트 마스킹.md",
     "2024-04-15.md",
@@ -199,7 +208,6 @@
     "4. Yearly/2023.md",
     "3. Monthly/2023-10.md",
     "3. Monthly/2023-11.md",
-    "2. Weekly/2023-W42.md",
     ".md",
     "Spring/스프링 입문을 위한 자바 객체지향의 원리와 이해",
     "context.mdb",
