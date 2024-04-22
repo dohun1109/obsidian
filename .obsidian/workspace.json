@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-20.md",
+                "file": "2024-04-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-20.md",
+                "file": "2024-04-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-20.md",
+                "file": "2024-04-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-20.md"
+                "file": "2024-04-22.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "014b87a9f6171606",
   "lastOpenFiles": [
-    "2024-04-18.md",
     "2024-04-20.md",
+    "2024-04-22.md",
+    "2024-04-18.md",
     "2024-04-16.md",
     "Java/Algorithm/비트 마스킹.md",
     "2024-04-15.md",
@@ -207,7 +208,6 @@
     "Obsidan/옵시디언 사용법.md",
     "Obsidan/마크다운 사용법.md",
     "4. Yearly/2023.md",
-    "3. Monthly/2023-10.md",
     ".md",
     "Spring/스프링 입문을 위한 자바 객체지향의 원리와 이해",
     "context.mdb",
