@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-29.md",
+                "file": "2024-05-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-29.md",
+                "file": "2024-05-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-29.md",
+                "file": "2024-05-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-29.md"
+                "file": "2024-05-02.md"
               }
             }
           },
@@ -177,8 +177,9 @@
   },
   "active": "014b87a9f6171606",
   "lastOpenFiles": [
-    "2024-04-25.md",
     "2024-04-29.md",
+    "2024-05-02.md",
+    "2024-04-25.md",
     "2024-04-27.md",
     "2024-04-24.md",
     "2024-04-22.md",
@@ -202,7 +203,6 @@
     "LikeLion/JavaInAction/[Chapter 01].md",
     "무제 파일.md",
     "2024-03-29.md",
-    "Java in Action/무제 파일.md",
     "LikeLion/SpringInPractice",
     "LikeLion/JavaInAction",
     "LikeLion",
