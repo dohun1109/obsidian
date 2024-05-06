@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1e5b6764f6f1833a",
+        "id": "73389ff151f26e9c",
         "type": "tabs",
         "children": [
           {
-            "id": "014b87a9f6171606",
+            "id": "394008311dae1862",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-05.md",
+                "file": "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method/HTTP API 만들기!.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.50390243530273,
-    "collapsed": true
+    "width": 241.50390243530273
   },
   "right": {
     "id": "7244033226465e5a",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-05.md",
+                "file": "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method/HTTP API 만들기!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-05.md",
+                "file": "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method/HTTP API 만들기!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-05.md"
+                "file": "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method/HTTP API 만들기!.md"
               }
             }
           },
@@ -175,10 +174,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "014b87a9f6171606",
+  "active": "394008311dae1862",
   "lastOpenFiles": [
-    "2024-05-03.md",
+    "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본/모든 것이 HTTP.md",
+    "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method/HTTP API 만들기!.md",
+    "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/클라이언트에서 서버로 데이터 전송.md",
+    "무제 파일.md",
+    "2024-04-15.md",
+    "2024-04-11.md",
+    "2024-04-12.md",
+    "2024-05-06.md",
     "2024-05-05.md",
+    "2024-05-03.md",
     "2024-05-02.md",
     "2024-04-29.md",
     "2024-04-25.md",
@@ -189,20 +196,12 @@
     "2024-04-18.md",
     "2024-04-16.md",
     "Java/Algorithm/비트 마스킹.md",
-    "2024-04-15.md",
     "2024-04-14.md",
-    "2024-04-12.md",
-    "2024-04-11.md",
     "LikeLion/SpringInPractice/[Chapter 02] 스프링 부트 공통작업.md",
     "LikeLion/SpringInPractice/[Chapter 01] 스프링 부트 시작하기.md",
     "2024-03-30.md",
     "2024-04-07.md",
     "LikeLion/JavaInAction/[Chapter 03].md",
-    "2024-04-05.md",
-    "LikeLion/JavaInAction/[Chapter 02].md",
-    "2024-04-04.md",
-    "2024-03-31.md",
-    "LikeLion/JavaInAction/[Chapter 01].md",
     "LikeLion/SpringInPractice",
     "LikeLion/JavaInAction",
     "LikeLion",
