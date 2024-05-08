@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee1f8ee982135f93",
+        "id": "faf5da3810f0015f",
         "type": "tabs",
         "children": [
           {
-            "id": "e707b65237d240ae",
+            "id": "74257bcf9e4c933b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,9 +174,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e707b65237d240ae",
+  "active": "74257bcf9e4c933b",
   "lastOpenFiles": [
     "Spring/HTTP 웹 기본지식/HTTP 응답 상태 코드 대역 별 의미.md",
+    "Attached file/스크린샷 2024-05-08 오후 7.34.14.png",
     "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/클라이언트에서 서버로 데이터 전송.md",
     "2024-05-08.md",
     "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method/HTTP API 만들기!.md",
@@ -201,7 +202,6 @@
     "2024-04-18.md",
     "2024-04-16.md",
     "Java/Algorithm/비트 마스킹.md",
-    "2024-04-14.md",
     "LikeLion/SpringInPractice",
     "LikeLion/JavaInAction",
     "LikeLion",
@@ -220,7 +220,6 @@
     "Attached file/스크린샷 2023-12-09 오후 3.09.20.png",
     "Attached file/스크린샷 2023-12-09 오후 3.08.30.png",
     "Attached file/스크린샷 2023-11-08 오전 10.39.16.png",
-    "Attached file/스크린샷 2023-10-30 오후 7.56.00.png",
-    "Attached file/스크린샷 2023-12-09 오후 3.03.47.png"
+    "Attached file/스크린샷 2023-10-30 오후 7.56.00.png"
   ]
 }
