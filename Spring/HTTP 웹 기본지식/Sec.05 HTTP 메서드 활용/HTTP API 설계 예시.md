@@ -9,11 +9,11 @@
 - GET, POST 만 지원 
 
 ## 회원 관리 시스템
-#### API 설계 - POST 기반 등록 
+#### API 설계 - POST 기반 등록 (resource = members)
 - **회원**목록 /members -> GET 
 - **회원**등록 /members -> POST
 - **회원**조회 /members/{id} -> GET
-- **회원**수정 /members/{id} ->PATCH, PUT(기존 리소스 삭제하고 덮기, 예시-> 게시글 수정), POST(천하무적 , 애매하면 POST)
+- **회원**수정 /members/{id} ->PATCH(부분적 수정), PUT(기존 리소스 삭제하고 덮기, 예시-> 게시글 수정), POST(천하무적 , 애매하면 POST)  -> 수정하는 기능은 PATCH 로 하는게 개념적으로는 제일 좋다.
 - **회원**삭제 /members/{id} -> DELETE
 
 #### POST - 신규 자원 등록 특징 
@@ -35,7 +35,7 @@
 - **파일**목록 /files -> GET
 - **파일**조회 /files/{filename} -> GET
 - **파일**등록 /files/{filename} -> PUT
-- **파일**삭제 /files/{filename} -> DELETE
+	- **파일**삭제 /files/{filena me} -> DELETE
 - **파일**대량 등록 /files -> POST 
 
 #### PUT - 신규 자원 등록 특징
@@ -48,4 +48,7 @@
 	- 클라언트가 리소스의 URI를 알고 관리
 	- 여기서 스토어는 /files
 
+### POST등록 방식과 PUT 방식의 차이점 
+-  POST의 경우 서버에서  새로 등록된 리소스의   URI 를 생성한다. (이런 방식을 컬렉션 )
+-  PUT의 경우 클라이언트가 리소스의 URI를 알고 있어야 한다. (이러한 방식을 스토어 )
 
