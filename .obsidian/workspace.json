@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9c318f9bd7d3e4af",
+        "id": "10da65989f52c7a2",
         "type": "tabs",
         "children": [
           {
-            "id": "a4b9af6df2a55782",
+            "id": "27e9f2cbf743139c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/HTTP API 설계 예시.md",
+                "file": "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드/HTTP 응답 상태 코드 대역 별 의미.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.50390243530273,
-    "collapsed": true
+    "width": 241.50390243530273
   },
   "right": {
     "id": "7244033226465e5a",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/HTTP API 설계 예시.md",
+                "file": "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드/HTTP 응답 상태 코드 대역 별 의미.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/HTTP API 설계 예시.md",
+                "file": "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드/HTTP 응답 상태 코드 대역 별 의미.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/HTTP API 설계 예시.md"
+                "file": "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드/HTTP 응답 상태 코드 대역 별 의미.md"
               }
             }
           },
@@ -175,13 +174,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a4b9af6df2a55782",
+  "active": "27e9f2cbf743139c",
   "lastOpenFiles": [
-    "Spring/HTTP 웹 기본지식/HTTP 응답 상태 코드 대역 별 의미.md",
+    "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드",
+    "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/HTTP API 설계 예시.md",
+    "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드/HTTP 응답 상태 코드 대역 별 의미.md",
     "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method/HTTP API 만들기!.md",
     "Spring/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름/URI.md",
     "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본/모든 것이 HTTP.md",
-    "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/HTTP API 설계 예시.md",
     "2024-05-10.md",
     "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/클라이언트에서 서버로 데이터 전송.md",
     "2024-05-09.md",
@@ -203,7 +203,6 @@
     "2024-04-24.md",
     "2024-04-22.md",
     "2024-04-20.md",
-    "2024-04-18.md",
     "LikeLion/SpringInPractice",
     "LikeLion/JavaInAction",
     "LikeLion",

@@ -52,3 +52,44 @@
 -  POST의 경우 서버에서  새로 등록된 리소스의   URI 를 생성한다. (이런 방식을 컬렉션 )
 -  PUT의 경우 클라이언트가 리소스의 URI를 알고 있어야 한다. (이러한 방식을 스토어 )
 
+## HTML FORM 사용 
+- HTML FORM 은 GET, POST 만 지원 
+- AJAX 같은 기술을 사용해서 해결 가능 -> 회원 API 참고 
+- 여기서는 순수 HTML, HTML FORM 이야기 
+- GET, POST 만 지원하므로 제약이 있음
+
+#### HTML FORM 을 사용한 API 설계 
+- 회원등록 /members -> GET
+- 회원등록 폼 /members/new -> GET
+- 회원 등록 /members/new, /members -> POST 
+- 회원 조회  /members/{id} -> GET
+- 회원 수정 폼 /members/{id}/edit -> GET
+- 회원 수정 /members/{id}/edit , /members/{id} -> POST
+- 회원 삭제 /members/{id}/delete -> POST 
+
+- HTML FORM 은 GET, POST 만 지원 
+- 컨트롤 URI
+	- GET, POST 만 지원하므로 제약이 있어 
+	- 이런 제약을 해결하기 위해 동사로 된 리소스 경로 사용 
+	- POST 의 /new , /edit , /delete 가 컨트롤 URI 
+	- HTTP 메서드로 해결하기 애매한 경우 사용 (HTTP API 포함)
+
+## 정리 
+- 문서 (document)
+	- 단일 개념(파일 하나, 객체 인스턴스, 데이터베이스 row)
+	- 예 ) /members/100, /files/star.jpg
+- 컬렉션 ( collection)
+	- 서버가 관리하는 리소스 디렉터리 
+	- 서버가 리소스의 URI를 생성하고 관리
+	- 예) /members
+- 스토어 (store)
+	- 클라이언트가 관리하는 자원저장소 
+	- 클라이언트가 리소스의 URI알고 관리
+	- 예) /files
+- 컨트롤러 (controller), 컨트롤 URI
+	- 문서, 컬렉션, 스토어로 해결하기 어려운 추가 프로세스 실행 
+	- 동사를 직접 사용 
+	- 예 ) /members/ {id} /delete
+
+순서 
+컬렉션과 문서를 기준으로 최대한 설계하고 안되는 부분은 컨트롤러 URI 로 설계한다. 
