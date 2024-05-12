@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "10da65989f52c7a2",
+        "id": "0335e995fc852b3a",
         "type": "tabs",
         "children": [
           {
-            "id": "27e9f2cbf743139c",
+            "id": "14c79182795ef270",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드/HTTP 응답 상태 코드 대역 별 의미.md",
+                "file": "2024-05-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드/HTTP 응답 상태 코드 대역 별 의미.md",
+                "file": "2024-05-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드/HTTP 응답 상태 코드 대역 별 의미.md",
+                "file": "2024-05-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드/HTTP 응답 상태 코드 대역 별 의미.md"
+                "file": "2024-05-12.md"
               }
             }
           },
@@ -174,10 +174,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "27e9f2cbf743139c",
+  "active": "14c79182795ef270",
   "lastOpenFiles": [
-    "무제 파일.md",
+    "2024-05-12.md",
     "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드/HTTP 응답 상태 코드 대역 별 의미.md",
+    "2024-05-11.md",
+    "Spring/HTTP 웹 기본지식/Sec.07 HTTP헤더1-일반헤더/HTTP Header1 - 일반헤더.md",
+    "Spring/HTTP 웹 기본지식/Sec.07 HTTP헤더1-일반헤더",
+    "무제 파일.md",
     "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드",
     "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/HTTP API 설계 예시.md",
     "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method/HTTP API 만들기!.md",
@@ -201,8 +205,6 @@
     "2024-04-25.md",
     "2024-04-27.md",
     "2024-04-24.md",
-    "2024-04-22.md",
-    "2024-04-20.md",
     "LikeLion/SpringInPractice",
     "LikeLion/JavaInAction",
     "LikeLion",
@@ -211,7 +213,6 @@
     ".md",
     "Spring/스프링 입문을 위한 자바 객체지향의 원리와 이해",
     "context.mdb",
-    "정보처리기사",
     "Attached file/스크린샷 2024-01-11 오후 5.24.18.png",
     "Attached file/스크린샷 2023-12-09 오후 5.54.43.png",
     "Attached file/스크린샷 2023-12-09 오후 7.48.02.png",
