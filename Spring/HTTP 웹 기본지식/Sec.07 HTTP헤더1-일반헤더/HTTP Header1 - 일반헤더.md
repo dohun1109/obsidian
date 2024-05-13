@@ -105,6 +105,17 @@
 - 느린 사용자 경험
 
 
+## 검증 헤더와 조건부 요청 
+### 검증 헤더 
+- 캐시 데이터와 서버 데이터가 같은지 검증하는 데이터 
+- Last-Modified, ETag
+### 조건부 요청 헤더 
+- 검증 헤더로 조건에 따른 분기 
+- If - Modified-Since : Last-Modified 사용 
+- If - None - Match : ETag 사용 
+- 조건이 만족하면 200OK
+- 조건이 만족하지 않으면 304 Not Modified 
+
 
 
 
