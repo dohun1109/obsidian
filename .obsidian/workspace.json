@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/HTTP 웹 기본지식/Sec.07 HTTP헤더1-일반헤더/HTTP Header1 - 일반헤더.md",
+                "file": "2024-05-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/HTTP 웹 기본지식/Sec.07 HTTP헤더1-일반헤더/HTTP Header1 - 일반헤더.md",
+                "file": "2024-05-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/HTTP 웹 기본지식/Sec.07 HTTP헤더1-일반헤더/HTTP Header1 - 일반헤더.md",
+                "file": "2024-05-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/HTTP 웹 기본지식/Sec.07 HTTP헤더1-일반헤더/HTTP Header1 - 일반헤더.md"
+                "file": "2024-05-15.md"
               }
             }
           },
@@ -177,9 +177,10 @@
   },
   "active": "1c53a9cc181b40f6",
   "lastOpenFiles": [
+    "Spring/HTTP 웹 기본지식/Sec.07 HTTP헤더1-일반헤더/HTTP Header1 - 일반헤더.md",
+    "2024-05-15.md",
     "2024-05-13.md",
     "2024-05-14.md",
-    "Spring/HTTP 웹 기본지식/Sec.07 HTTP헤더1-일반헤더/HTTP Header1 - 일반헤더.md",
     "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드/HTTP 응답 상태 코드 대역 별 의미.md",
     "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/클라이언트에서 서버로 데이터 전송.md",
     "2024-05-10.md",
@@ -205,7 +206,6 @@
     "2024-05-03.md",
     "2024-05-02.md",
     "2024-04-29.md",
-    "2024-04-25.md",
     "LikeLion/SpringInPractice",
     "LikeLion/JavaInAction",
     "LikeLion",
