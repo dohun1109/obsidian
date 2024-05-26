@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "2024-05-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "2024-05-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "2024-05-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-23.md"
+                "file": "2024-05-26.md"
               }
             }
           },
@@ -176,8 +176,9 @@
   },
   "active": "93ebda7c98ace216",
   "lastOpenFiles": [
-    "2024-05-22.md",
     "2024-05-23.md",
+    "2024-05-26.md",
+    "2024-05-22.md",
     "2024-05-21.md",
     "2024-05-20.md",
     "2024-05-19.md",
@@ -204,7 +205,6 @@
     "2024-05-08.md",
     "2024-05-07.md",
     "Spring/HTTP 웹 기본지식/Sec.01 인터넷 네트워크/인터넷 통신.md",
-    "2024-04-15.md",
     "LikeLion/SpringInPractice",
     "LikeLion/JavaInAction",
     "LikeLion",
