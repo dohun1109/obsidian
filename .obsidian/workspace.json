@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "77b14e393eebe502",
+        "id": "c119b207b72d6e92",
         "type": "tabs",
         "children": [
           {
-            "id": "93ebda7c98ace216",
+            "id": "0da2a96e9a7599ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-26.md",
+                "file": "2024-05-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-26.md",
+                "file": "2024-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-26.md",
+                "file": "2024-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-26.md"
+                "file": "2024-05-27.md"
               }
             }
           },
@@ -174,22 +174,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "93ebda7c98ace216",
+  "active": "0da2a96e9a7599ee",
   "lastOpenFiles": [
-    "2024-05-23.md",
+    "2024-05-27.md",
+    "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method/HTTP API 만들기!.md",
+    "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/클라이언트에서 서버로 데이터 전송.md",
+    "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드/HTTP 응답 상태 코드 대역 별 의미.md",
+    "Spring/HTTP 웹 기본지식/Sec.07 HTTP헤더1-일반헤더/HTTP Header1 - 일반헤더.md",
+    "2024-05-16.md",
     "2024-05-26.md",
+    "2024-05-23.md",
     "2024-05-22.md",
     "2024-05-21.md",
     "2024-05-20.md",
     "2024-05-19.md",
     "2024-05-17.md",
-    "2024-05-16.md",
     "2024-05-15.md",
-    "Spring/HTTP 웹 기본지식/Sec.07 HTTP헤더1-일반헤더/HTTP Header1 - 일반헤더.md",
     "2024-05-13.md",
     "2024-05-14.md",
-    "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드/HTTP 응답 상태 코드 대역 별 의미.md",
-    "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/클라이언트에서 서버로 데이터 전송.md",
     "2024-05-10.md",
     "2024-05-12.md",
     "2024-05-11.md",
@@ -197,14 +199,12 @@
     "무제 파일.md",
     "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드",
     "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/HTTP API 설계 예시.md",
-    "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method/HTTP API 만들기!.md",
     "Spring/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름/URI.md",
     "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본/모든 것이 HTTP.md",
     "2024-05-09.md",
     "Attached file/스크린샷 2024-05-08 오후 7.34.14.png",
     "2024-05-08.md",
     "2024-05-07.md",
-    "Spring/HTTP 웹 기본지식/Sec.01 인터넷 네트워크/인터넷 통신.md",
     "LikeLion/SpringInPractice",
     "LikeLion/JavaInAction",
     "LikeLion",
