@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-27.md",
+                "file": "2024-05-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-27.md",
+                "file": "2024-05-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-27.md",
+                "file": "2024-05-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-27.md"
+                "file": "2024-05-28.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   "active": "0da2a96e9a7599ee",
   "lastOpenFiles": [
     "2024-05-27.md",
+    "2024-05-28.md",
     "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method/HTTP API 만들기!.md",
     "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/클라이언트에서 서버로 데이터 전송.md",
     "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드/HTTP 응답 상태 코드 대역 별 의미.md",
@@ -204,7 +205,6 @@
     "2024-05-09.md",
     "Attached file/스크린샷 2024-05-08 오후 7.34.14.png",
     "2024-05-08.md",
-    "2024-05-07.md",
     "LikeLion/SpringInPractice",
     "LikeLion/JavaInAction",
     "LikeLion",
