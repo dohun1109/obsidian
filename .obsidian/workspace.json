@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드/HTTP 응답 상태 코드 대역 별 의미.md",
+                "file": "2024-05-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드/HTTP 응답 상태 코드 대역 별 의미.md",
+                "file": "2024-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드/HTTP 응답 상태 코드 대역 별 의미.md",
+                "file": "2024-05-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드/HTTP 응답 상태 코드 대역 별 의미.md"
+                "file": "2024-05-30.md"
               }
             }
           },
@@ -177,12 +177,13 @@
   },
   "active": "0da2a96e9a7599ee",
   "lastOpenFiles": [
+    "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드/HTTP 응답 상태 코드 대역 별 의미.md",
+    "2024-05-30.md",
     "2024-05-29.md",
     "2024-05-28.md",
     "2024-05-27.md",
     "Spring/HTTP 웹 기본지식/Sec.04 HTTP Method/HTTP API 만들기!.md",
     "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/클라이언트에서 서버로 데이터 전송.md",
-    "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드/HTTP 응답 상태 코드 대역 별 의미.md",
     "Spring/HTTP 웹 기본지식/Sec.07 HTTP헤더1-일반헤더/HTTP Header1 - 일반헤더.md",
     "2024-05-16.md",
     "2024-05-26.md",
@@ -204,7 +205,6 @@
     "Spring/HTTP 웹 기본지식/Sec.05 HTTP 메서드 활용/HTTP API 설계 예시.md",
     "Spring/HTTP 웹 기본지식/Sec.02 URI와 웹 브라우저 요청 흐름/URI.md",
     "Spring/HTTP 웹 기본지식/Sec.03 HTTP 기본/모든 것이 HTTP.md",
-    "2024-05-09.md",
     "Attached file/스크린샷 2024-05-08 오후 7.34.14.png",
     "LikeLion/SpringInPractice",
     "LikeLion/JavaInAction",
