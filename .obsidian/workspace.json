@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-02.md",
+                "file": "2024-06-03.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-02.md",
+                "file": "2024-06-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-02.md",
+                "file": "2024-06-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-02.md"
+                "file": "2024-06-03.md"
               }
             }
           },
@@ -176,8 +176,9 @@
   },
   "active": "076dda72f2e53f42",
   "lastOpenFiles": [
-    "2024-06-01.md",
     "2024-06-02.md",
+    "2024-06-03.md",
+    "2024-06-01.md",
     "2024-05-31.md",
     "2024-05-30.md",
     "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드/HTTP 응답 상태 코드 대역 별 의미.md",
@@ -202,7 +203,6 @@
     "2024-05-12.md",
     "2024-05-11.md",
     "Spring/HTTP 웹 기본지식/Sec.07 HTTP헤더1-일반헤더",
-    "무제 파일.md",
     "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드",
     "Attached file/스크린샷 2024-05-08 오후 7.34.14.png",
     "LikeLion/SpringInPractice",
