@@ -5,5 +5,8 @@
   "make-md",
   "obsidian-day-planner",
   "dataview",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-vimrc-support",
+  "vim-im-select",
+  "mrj-jump-to-link"
 ]

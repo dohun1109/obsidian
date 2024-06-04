@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1b19475842134f25",
+        "id": "24b6814dfb6448f8",
         "type": "tabs",
         "children": [
           {
-            "id": "076dda72f2e53f42",
+            "id": "df5255d4d4c768f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-03.md",
+                "file": "2024-06-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-03.md",
+                "file": "2024-06-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-03.md",
+                "file": "2024-06-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-03.md"
+                "file": "2024-06-04.md"
               }
             }
           },
@@ -174,10 +174,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "076dda72f2e53f42",
+  "active": "df5255d4d4c768f8",
   "lastOpenFiles": [
-    "2024-06-02.md",
+    "2024-06-04.md",
     "2024-06-03.md",
+    "2024-06-02.md",
     "2024-06-01.md",
     "2024-05-31.md",
     "2024-05-30.md",
@@ -201,7 +202,6 @@
     "2024-05-14.md",
     "2024-05-10.md",
     "2024-05-12.md",
-    "2024-05-11.md",
     "Spring/HTTP 웹 기본지식/Sec.07 HTTP헤더1-일반헤더",
     "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드",
     "Attached file/스크린샷 2024-05-08 오후 7.34.14.png",
