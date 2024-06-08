@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "22bb8d4f1ac10db1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-06-08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +187,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "df5255d4d4c768f8",
+  "active": "22bb8d4f1ac10db1",
   "lastOpenFiles": [
     "2024-06-05.md",
     "2024-06-08.md",
