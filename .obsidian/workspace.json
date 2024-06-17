@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-06-16.md",
+                "file": "2024-06-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-06-16.md",
+                "file": "2024-06-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-06-16.md",
+                "file": "2024-06-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-06-16.md"
+                "file": "2024-06-17.md"
               }
             }
           },
@@ -189,8 +189,9 @@
   },
   "active": "2f27be2d51d72244",
   "lastOpenFiles": [
-    "2024-06-13.md",
     "2024-06-16.md",
+    "2024-06-17.md",
+    "2024-06-13.md",
     "클라이언트에서 서버로 요청 데이터를 전달할 때 주로사용하는 3가지 방식.md",
     "2024-05-28.md",
     "2024-05-29.md",
@@ -214,7 +215,6 @@
     "2024-05-23.md",
     "2024-05-22.md",
     "2024-05-21.md",
-    "2024-05-20.md",
     "Spring/HTTP 웹 기본지식/Sec.07 HTTP헤더1-일반헤더",
     "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드",
     "Attached file/스크린샷 2024-05-08 오후 7.34.14.png",
