@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/김영한님 강의<인프런>/스프링 MVC 1편/섹션 1 . 웹 애플리케이션의 이해.md",
+                "file": "Spring/김영한님 강의<인프런>/스프링 MVC 1편/섹션 2 . 서블릿.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/김영한님 강의<인프런>/스프링 MVC 1편/섹션 1 . 웹 애플리케이션의 이해.md",
+                "file": "Spring/김영한님 강의<인프런>/스프링 MVC 1편/섹션 2 . 서블릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/김영한님 강의<인프런>/스프링 MVC 1편/섹션 1 . 웹 애플리케이션의 이해.md",
+                "file": "Spring/김영한님 강의<인프런>/스프링 MVC 1편/섹션 2 . 서블릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/김영한님 강의<인프런>/스프링 MVC 1편/섹션 1 . 웹 애플리케이션의 이해.md"
+                "file": "Spring/김영한님 강의<인프런>/스프링 MVC 1편/섹션 2 . 서블릿.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   "active": "599bc0052e221c4e",
   "lastOpenFiles": [
     "Spring/김영한님 강의<인프런>/스프링 MVC 1편/섹션 1 . 웹 애플리케이션의 이해.md",
+    "Spring/김영한님 강의<인프런>/스프링 MVC 1편/섹션 2 . 서블릿.md",
     "무제 파일.md",
     "Spring/김영한님 강의<인프런>/스프링 MVC 1편",
     "Spring/이것이 백엔드 개발이다/레이어드 아키텍처.md",
@@ -203,7 +204,6 @@
     "2024-05-30.md",
     "2024-06-10.md",
     "2024-06-09.md",
-    "2024-06-08.md",
     "Spring/HTTP 웹 기본지식/Sec.07 HTTP헤더1-일반헤더",
     "Spring/HTTP 웹 기본지식/Sec.06 HTTP 상태코드",
     "Attached file/스크린샷 2024-05-08 오후 7.34.14.png",
